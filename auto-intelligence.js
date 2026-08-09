@@ -1,0 +1,1 @@
+window.ORIKI_AUTO_INTELLIGENCE = [];
