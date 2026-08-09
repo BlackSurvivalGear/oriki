@@ -10,6 +10,10 @@
 
   const isAuto = ai => ai && (ai.status === 'AUTO-DETECTED' || String(ai.id || '').startsWith('auto-'));
   const catalogue = () => (D.ais || []).filter(ai => !isAuto(ai));
+  const isFavourite = id => {
+    try { return JSON.parse(localStorage.getItem('oriki-favourites') || '[]').includes(id); }
+    catch (_) { return false; }
+  };
 
   // Country is deliberately shown in the card metadata, not hidden in the detail view.
   window.aiCard = function(ai, landing = false) {
@@ -27,7 +31,7 @@
       <div class="tags">${capabilities.map(x => `<span class="tag">${esc(x)}</span>`).join('')}</div>
       <div class="card-row">
         <button class="card-btn primary open-ai" data-id="${esc(ai.id)}">VIEW</button>
-        ${landing ? `<a class="card-btn" href="${esc(ai.url || '#')}" target="_blank" rel="noopener noreferrer">OPEN</a>` : `<button class="card-btn fav" data-id="${esc(ai.id)}">${window.favourites?.includes(ai.id) ? '★ FAVOURITED' : '☆ FAVOURITE'}</button>`}
+        ${landing ? `<a class="card-btn" href="${esc(ai.url || '#')}" target="_blank" rel="noopener noreferrer">OPEN</a>` : `<button class="card-btn fav" data-id="${esc(ai.id)}">${isFavourite(ai.id) ? '★ FAVOURITED' : '☆ FAVOURITE'}</button>`}
       </div>
     </article>`;
   };
