@@ -91,7 +91,6 @@ def parse_feed(raw: bytes, source: str, source_tag: str) -> list[dict]:
 
 def candidate_from(item: dict, source: str) -> dict:
     title = item["title"]
-    # Conservative: the candidate is deliberately marked for human review.
     name = re.sub(r"^(introducing|announcing|launching|new)\s+", "", title, flags=re.I)
     name = re.split(r"[—–:]", name, maxsplit=1)[0].strip()
     slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")[:48] or item["id"]
@@ -113,10 +112,23 @@ def candidate_from(item: dict, source: str) -> dict:
     }
 
 
+def load_existing_candidates() -> dict[str, dict]:
+    if not AUTO_JS.exists():
+        return {}
+    raw = AUTO_JS.read_text(encoding="utf-8")
+    match = re.search(r"window\.ORIKI_AUTO_INTELLIGENCE\s*=\s*(\[.*\]);?\s*$", raw, re.S)
+    if not match:
+        return {}
+    try:
+        return {item["id"]: item for item in json.loads(match.group(1)) if item.get("id")}
+    except (json.JSONDecodeError, KeyError, TypeError):
+        return {}
+
+
 def main() -> None:
     news = json.loads(NEWS_JSON.read_text(encoding="utf-8")) if NEWS_JSON.exists() else []
     by_id = {item["id"]: item for item in news}
-    candidates: dict[str, dict] = {}
+    candidates = load_existing_candidates()
     failures = []
 
     for source, url, tag in FEEDS:
@@ -126,7 +138,7 @@ def main() -> None:
                 if source != "arXiv AI" and tag != "ARXIV" and RELEASE_TERMS.search(item["title"]):
                     c = candidate_from(item, source)
                     candidates[c["id"]] = c
-        except Exception as exc:  # one bad feed must not break the entire scan
+        except Exception as exc:
             failures.append(f"{source}: {exc}")
 
     merged_news = sorted(by_id.values(), key=lambda x: str(x.get("date", "")), reverse=True)[:120]
