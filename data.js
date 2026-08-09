@@ -39,3 +39,4 @@ window.ORIKI_DATA = {
     research:'Find, investigate and synthesize knowledge.',search:'Find current information and sources.',writing:'Draft, edit and transform written work.',coding:'Write, understand and debug software.',reasoning:'Work through difficult multi-step problems.',analysis:'Read data, documents and complex problems.',create:'Generate new creative work.',image:'Generate and transform images.',video:'Generate and transform video.',audio:'Generate speech, music and sound.',design:'Create visual communication and design.',build:'Engineer and develop software.'
   }
 };
+window.ORIKI_DATA.ais=[...window.ORIKI_DATA.ais,...(window.ORIKI_AUTO_INTELLIGENCE||[])];
