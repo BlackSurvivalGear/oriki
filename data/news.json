@@ -1,0 +1,5 @@
+[
+  {"id":"oriki-001","title":"The AI landscape is accelerating","source":"ORÍKÌ Intelligence Desk","date":"2026-08-09","category":"RESEARCH","summary":"ORÍKÌ tracks the expanding ecosystem of models, agents, creative systems and research tools in one intelligence layer.","url":"https://github.com/BlackSurvivalGear/oriki","related":["chatgpt","claude","gemini"]},
+  {"id":"oriki-002","title":"New intelligence should be discovered, not hunted","source":"ORÍKÌ Intelligence Desk","date":"2026-08-09","category":"TOOLS","summary":"The new ORÍKÌ discovery architecture connects tasks, capabilities, intelligence systems and emerging releases.","url":"https://github.com/BlackSurvivalGear/oriki","related":["perplexity","notebooklm","huggingface"]},
+  {"id":"oriki-003","title":"Africa becomes a dedicated AI watch","source":"ORÍKÌ Intelligence Desk","date":"2026-08-09","category":"AFRICA","summary":"ORÍKÌ News reserves a dedicated stream for African AI companies, research, infrastructure, policy and language technology.","url":"https://github.com/BlackSurvivalGear/oriki","related":["meta-ai","huggingface"]}
+]
