@@ -1,0 +1,54 @@
+name: ORÍKÌ Intelligence Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 6 * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Scan public AI feeds
+        run: python3 scripts/oriki_feed_scanner.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet -- data/news.json news.js auto-intelligence.js; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create review branch and commit
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          BRANCH="automation/oriki-intelligence-${GITHUB_RUN_ID}"
+          git config user.name "oriki-intelligence-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$BRANCH"
+          git add data/news.json news.js auto-intelligence.js
+          git commit -m "chore: update ORÍKÌ intelligence and news"
+          git push --set-upstream origin "$BRANCH"
+          echo "BRANCH=$BRANCH" >> "$GITHUB_ENV"
+
+      - name: Open review PR
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "Automated ORÍKÌ intelligence and news update" \
+            --body "## ORÍKÌ automated intelligence update\n\nThis PR was generated from public RSS/Atom sources.\n\n- Refreshes the ORÍKÌ News catalogue.\n- Adds conservative AUTO-DETECTED AI candidates when release language is detected.\n- Keeps source URLs with each item.\n- Requires Commander review before merge.\n\n**This workflow never merges automatically.** Review the detected intelligence before merging."
