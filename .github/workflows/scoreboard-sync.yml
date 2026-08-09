@@ -1,0 +1,38 @@
+name: ORÍKÌ Scoreboard Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout ORÍKÌ
+        uses: actions/checkout@v4
+
+      - name: Fetch public SWE-bench leaderboard
+        run: |
+          mkdir -p .scoreboard-cache
+          curl --fail --location --silent --show-error \
+            https://raw.githubusercontent.com/SWE-bench/swe-bench.github.io/master/data/leaderboards.json \
+            -o .scoreboard-cache/swebench.json
+
+      - name: Build verified scoreboard data
+        run: python3 scripts/build-scoreboard.py
+
+      - name: Commit changed scoreboard
+        run: |
+          if git diff --quiet -- scoreboard-results.json; then
+            echo 'No scoreboard changes.'
+            exit 0
+          fi
+          git config user.name 'ORÍKÌ Scoreboard Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add scoreboard-results.json
+          git commit -m 'chore: update public AI scoreboard data'
+          git push
