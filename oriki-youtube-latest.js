@@ -7,7 +7,7 @@
     'https://rsshub.app/youtube/user/airevolutionx',
     'https://rsshub.rssforever.com/youtube/user/airevolutionx'
   ];
-  const VIDEO_ID_RE = /(?:<yt:videoId>|<videoId>)([^<]+)</i;
+  const VIDEO_ID_RE = /(?:<yt:videoId>|<videoId>)([^<]+)<\/[^>]+>/i;
 
   function escapeHtml(value) {
     return String(value || '').replace(/[&<>'"]/g, c => ({
