@@ -1,1 +1,0 @@
-ORÍKÌ Stage 2 implementation prepared for review.
