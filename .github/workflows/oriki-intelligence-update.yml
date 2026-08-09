@@ -21,10 +21,13 @@ jobs:
       - name: Scan public AI feeds
         run: python3 scripts/oriki_feed_scanner.py
 
+      - name: Ingest free public benchmark results
+        run: python3 scripts/oriki_scoreboard_ingest.py
+
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet -- data/news.json news.js auto-intelligence.js; then
+          if git diff --quiet -- data/news.json news.js auto-intelligence.js scoreboard-results.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -37,8 +40,8 @@ jobs:
           git config user.name "oriki-intelligence-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git switch -c "$BRANCH"
-          git add data/news.json news.js auto-intelligence.js
-          git commit -m "chore: update ORÍKÌ intelligence and news"
+          git add data/news.json news.js auto-intelligence.js scoreboard-results.json
+          git commit -m "chore: update ORÍKÌ intelligence, news and benchmarks"
           git push --set-upstream origin "$BRANCH"
           echo "BRANCH=$BRANCH" >> "$GITHUB_ENV"
 
@@ -50,5 +53,5 @@ jobs:
           gh pr create \
             --base main \
             --head "$BRANCH" \
-            --title "Automated ORÍKÌ intelligence and news update" \
-            --body "## ORÍKÌ automated intelligence update\n\nThis PR was generated from public RSS/Atom sources.\n\n- Refreshes the ORÍKÌ News catalogue.\n- Adds conservative AUTO-DETECTED AI candidates when release language is detected.\n- Keeps source URLs with each item.\n- Requires Commander review before merge.\n\n**This workflow never merges automatically.** Review the detected intelligence before merging."
+            --title "Automated ORÍKÌ intelligence, news and benchmark update" \
+            --body "## ORÍKÌ automated intelligence update\n\nThis PR was generated from free public sources.\n\n- Refreshes the ORÍKÌ News catalogue.\n- Adds conservative AUTO-DETECTED AI candidates when release language is detected.\n- Refreshes the verified public benchmark scoreboard.\n- Keeps source URLs and benchmark metadata with each result.\n- Does not manufacture missing scores or calculate a composite from insufficient evidence.\n- Requires Commander review before merge.\n\n**This workflow never merges automatically.** Review the detected intelligence and benchmark changes before merging."
