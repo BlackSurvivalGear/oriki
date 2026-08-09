@@ -1,0 +1,1 @@
+Stage 2 complete: application shell, local AI catalogue, search, purpose discovery, favourites, recent, categories, workspace, compare foundation, responsive styling. No API or backend dependency.
