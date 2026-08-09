@@ -1,5 +1,163 @@
 window.ORIKI_NEWS = [
-  {id:'oriki-001',title:'The AI landscape is accelerating',source:'ORÍKÌ Intelligence Desk',date:'2026-08-09',category:'RESEARCH',summary:'ORÍKÌ tracks the expanding ecosystem of models, agents, creative systems and research tools in one intelligence layer.',url:'https://github.com/BlackSurvivalGear/oriki',related:['chatgpt','claude','gemini']},
-  {id:'oriki-002',title:'New intelligence should be discovered, not hunted',source:'ORÍKÌ Intelligence Desk',date:'2026-08-09',category:'TOOLS',summary:'The new ORÍKÌ discovery architecture connects tasks, capabilities, intelligence systems and emerging releases.',url:'https://github.com/BlackSurvivalGear/oriki',related:['perplexity','notebooklm','huggingface']},
-  {id:'oriki-003',title:'Africa becomes a dedicated AI watch',source:'ORÍKÌ Intelligence Desk',date:'2026-08-09',category:'AFRICA',summary:'ORÍKÌ News reserves a dedicated stream for African AI companies, research, infrastructure, policy and language technology.',url:'https://github.com/BlackSurvivalGear/oriki',related:['meta-ai','huggingface']}
+  {
+    "id": "feed-0ce8c6adc247",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "source": "Google DeepMind",
+    "date": "Wed, 24 Jun 2026 16:30:01 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "related": []
+  },
+  {
+    "id": "feed-5d7569c2afe3",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "source": "Hugging Face",
+    "date": "Wed, 15 Jul 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "related": []
+  },
+  {
+    "id": "feed-90b62352ebbd",
+    "title": "Investing in multi-agent AI safety research",
+    "source": "Google DeepMind",
+    "date": "Wed, 10 Jun 2026 10:21:19 +0000",
+    "category": "RESEARCH",
+    "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "related": []
+  },
+  {
+    "id": "feed-edd884e3eb65",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Tue, 21 Jul 2026 15:16:30 +0000",
+    "category": "MODELS",
+    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-12ceb5f0dc7b",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "source": "Google DeepMind",
+    "date": "Tue, 16 Jun 2026 21:29:50 +0000",
+    "category": "NEW RELEASES",
+    "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-9be096effcbb",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "source": "Google DeepMind",
+    "date": "Tue, 09 Jun 2026 14:10:19 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "related": []
+  },
+  {
+    "id": "feed-9146ff1756af",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "source": "OpenAI",
+    "date": "Thu, 30 Jul 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-0f0c1961f93e",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "source": "OpenAI",
+    "date": "Thu, 06 Aug 2026 10:00:00 GMT",
+    "category": "MODELS",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-9101339b1ac2",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "source": "Hugging Face",
+    "date": "Mon, 27 Jul 2026 09:32:20 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "related": []
+  },
+  {
+    "id": "feed-8ff67d77127c",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "source": "Hugging Face",
+    "date": "Mon, 27 Jul 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "related": []
+  },
+  {
+    "id": "feed-66188580349f",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "source": "Google DeepMind",
+    "date": "Mon, 13 Jul 2026 12:37:28 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-7898549b95c3",
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Fri, 17 Jul 2026 15:00:11 +0000",
+    "category": "MODELS",
+    "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "oriki-001",
+    "title": "The AI landscape is accelerating",
+    "source": "ORÍKÌ Intelligence Desk",
+    "date": "2026-08-09",
+    "category": "RESEARCH",
+    "summary": "ORÍKÌ tracks the expanding ecosystem of models, agents, creative systems and research tools in one intelligence layer.",
+    "url": "https://github.com/BlackSurvivalGear/oriki",
+    "related": [
+      "chatgpt",
+      "claude",
+      "gemini"
+    ]
+  },
+  {
+    "id": "oriki-002",
+    "title": "New intelligence should be discovered, not hunted",
+    "source": "ORÍKÌ Intelligence Desk",
+    "date": "2026-08-09",
+    "category": "TOOLS",
+    "summary": "The new ORÍKÌ discovery architecture connects tasks, capabilities, intelligence systems and emerging releases.",
+    "url": "https://github.com/BlackSurvivalGear/oriki",
+    "related": [
+      "perplexity",
+      "notebooklm",
+      "huggingface"
+    ]
+  },
+  {
+    "id": "oriki-003",
+    "title": "Africa becomes a dedicated AI watch",
+    "source": "ORÍKÌ Intelligence Desk",
+    "date": "2026-08-09",
+    "category": "AFRICA",
+    "summary": "ORÍKÌ News reserves a dedicated stream for African AI companies, research, infrastructure, policy and language technology.",
+    "url": "https://github.com/BlackSurvivalGear/oriki",
+    "related": [
+      "meta-ai",
+      "huggingface"
+    ]
+  }
 ];
