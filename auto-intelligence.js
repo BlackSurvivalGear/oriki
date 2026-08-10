@@ -11,7 +11,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://openai.com/index/avatarin",
     "status": "AUTO-DETECTED",
     "source": "https://openai.com/index/avatarin",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-10",
     "slug": "how-avatarin-built-a-24-7-retail-agent-with-gpt-"
   },
   {
@@ -26,7 +26,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-10",
     "slug": "gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cy"
   },
   {
@@ -41,7 +41,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-10",
     "slug": "gemini-3-5-flash-cyber"
   },
   {
@@ -56,7 +56,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-10",
     "slug": "computer-use-in-gemini-3-5-flash"
   },
   {
@@ -71,7 +71,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-10",
     "slug": "investing-in-multi-agent-ai-safety-research"
   },
   {
@@ -86,7 +86,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-10",
     "slug": "gemma-4-12b"
   },
   {
@@ -101,7 +101,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "status": "AUTO-DETECTED",
     "source": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-10",
     "slug": "nvidia-cosmos-h-dreams"
   },
   {
@@ -116,7 +116,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "status": "AUTO-DETECTED",
     "source": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-10",
     "slug": "anatomy-of-a-frontier-lab-agent-intrusion"
   },
   {
@@ -131,7 +131,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://huggingface.co/blog/real-world-voiceeq",
     "status": "AUTO-DETECTED",
     "source": "https://huggingface.co/blog/real-world-voiceeq",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-10",
     "slug": "real-world-voiceeq"
   }
 ];
