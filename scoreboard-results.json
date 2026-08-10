@@ -1,7 +1,5779 @@
 {
   "schemaVersion": "1.0",
-  "updatedAt": null,
-  "notice": "No benchmark values are published until they have been fetched from a verified public upstream source.",
-  "models": [],
-  "sources": []
+  "updatedAt": "2026-08-10T05:43:14Z",
+  "notice": "Only public benchmark values fetched from the named upstream source are included. Missing values are left missing.",
+  "models": [
+    {
+      "name": "Claude 4.5 Opus (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 76.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://www.anthropic.com/claude"
+    },
+    {
+      "name": "Gemini 3 Flash (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 75.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://ai.google.dev/gemini-api/docs/models"
+    },
+    {
+      "name": "MiniMax M2.5 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 75.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://www.minimax.io"
+    },
+    {
+      "name": "Claude 4.6 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 75.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://www.anthropic.com/claude"
+    },
+    {
+      "name": "Claude 4.5 Opus (20251101) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-24",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5"
+    },
+    {
+      "name": "Gemini 3 Pro Preview (2025-11-18)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-18",
+      "url": "https://ai.google.dev/gemini-api/docs/models"
+    },
+    {
+      "name": "GPT 5.2 Codex",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 72.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-19",
+      "url": "https://platform.openai.com/docs/models/gpt-5"
+    },
+    {
+      "name": "GLM 5 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 72.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://z.ai"
+    },
+    {
+      "name": "GPT 5.2 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 72.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://platform.openai.com"
+    },
+    {
+      "name": "GPT 5.2 (2025-12-11) (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-11",
+      "url": "https://platform.openai.com/docs/models/gpt-5"
+    },
+    {
+      "name": "Claude 4.5 Sonnet (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://www.anthropic.com/claude"
+    },
+    {
+      "name": "Kimi K2.5 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://moonshotai.github.io/Kimi-K2/"
+    },
+    {
+      "name": "Claude 4.5 Sonnet (20250929)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-29",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-5"
+    },
+    {
+      "name": "DeepSeek V3.2 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://api-docs.deepseek.com"
+    },
+    {
+      "name": "Gemini 3 Pro",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 69.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-26",
+      "url": "https://ai.google.dev/gemini-api/docs/models"
+    },
+    {
+      "name": "GPT 5.2 (2025-12-11)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 69.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-11",
+      "url": "https://platform.openai.com/docs/models/"
+    },
+    {
+      "name": "Claude 4 Opus (20250514)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 67.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-02",
+      "url": "https://www.anthropic.com/news/claude-4"
+    },
+    {
+      "name": "Claude 4.5 Haiku (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://www.anthropic.com/claude"
+    },
+    {
+      "name": "GPT 5.1 Codex (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-24",
+      "url": "https://platform.openai.com/docs/models/gpt-5"
+    },
+    {
+      "name": "GPT 5.1 (2025-11-13) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-20",
+      "url": "https://platform.openai.com/docs/models/gpt-5"
+    },
+    {
+      "name": "GPT 5 (2025-08-07) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 65.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://platform.openai.com/docs/models/gpt-5"
+    },
+    {
+      "name": "Claude 4 Sonnet (20250514)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 64.93
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://www.anthropic.com/news/claude-4"
+    },
+    {
+      "name": "Kimi K2 Thinking",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 63.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-10",
+      "url": "https://moonshotai.github.io/Kimi-K2/"
+    },
+    {
+      "name": "MiniMax M2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 61.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-24",
+      "url": "https://www.minimax.io"
+    },
+    {
+      "name": "DeepSeek V3.2 Reasoner",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 60.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-01",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "GPT 5 mini (2025-08-07) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 59.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://platform.openai.com/docs/models/gpt-5-mini"
+    },
+    {
+      "name": "o3 (2025-04-16)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 58.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://platform.openai.com/docs/models/o3"
+    },
+    {
+      "name": "Devstral Small (2512)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 56.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-09",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "GPT 5 mini",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 56.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://platform.openai.com"
+    },
+    {
+      "name": "Qwen3-Coder 480B/A35B Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 55.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-02",
+      "url": "https://qwenlm.github.io/blog/qwen3-coder/"
+    },
+    {
+      "name": "GLM 4.6 (T=1)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 55.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-01",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "GLM 4.5 (2025-08-22)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 54.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-22",
+      "url": "https://z.ai/blog/glm-4.5"
+    },
+    {
+      "name": "Devstral (2512)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 53.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-09",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "Gemini 2.5 Pro (2025-05-06)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 53.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://ai.google.dev/gemini-api/docs/models"
+    },
+    {
+      "name": "Claude 3.7 Sonnet (20250219)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 52.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://www.anthropic.com/news/claude-3-7-sonnet"
+    },
+    {
+      "name": "o4-mini (2025-04-16)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 45.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://platform.openai.com/docs/models/o4-mini"
+    },
+    {
+      "name": "Kimi K2 Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 43.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://moonshotai.github.io/Kimi-K2/"
+    },
+    {
+      "name": "GPT 4.1 (2025-04-14)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 39.58
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://platform.openai.com/docs/models/gpt-4.1"
+    },
+    {
+      "name": "GPT 5 nano (2025-08-07) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 34.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://platform.openai.com/docs/models/gpt-5-nano"
+    },
+    {
+      "name": "Gemini 2.5 Flash (2025-04-17)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 28.73
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://ai.google.dev/gemini-api/docs/models"
+    },
+    {
+      "name": "gpt-oss-120b",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 26.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://platform.openai.com/docs/models/gpt-oss-120b"
+    },
+    {
+      "name": "GPT 4.1 mini (2025-04-14)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 23.94
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://platform.openai.com/docs/models/gpt-4.1-mini"
+    },
+    {
+      "name": "GPT 4o (2024-11-20)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 21.62
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://platform.openai.com/docs/models/gpt-4o"
+    },
+    {
+      "name": "Llama 4 Maverick Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 21.04
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://www.together.ai/models/llama-4-maverick"
+    },
+    {
+      "name": "Gemini 2.0 Flash",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 13.52
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://ai.google.dev/gemini-api/docs/models"
+    },
+    {
+      "name": "Llama 4 Scout Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 9.06
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://www.together.ai/models/llama-4-scout"
+    },
+    {
+      "name": "Qwen2.5-Coder 32B Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 9.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "bash-only",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-03",
+      "url": "https://qwenlm.github.io/blog/qwen2.5-coder/"
+    },
+    {
+      "name": "Gemini 3 Flash",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 72.7
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://ai.google.dev/gemini-api/docs/models"
+    },
+    {
+      "name": "Claude 4.6 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 72.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5"
+    },
+    {
+      "name": "Claude 4.5 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.7
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5"
+    },
+    {
+      "name": "GLM 5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 69.7
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://z.ai"
+    },
+    {
+      "name": "Gemini 3 Pro",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 68.7
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://ai.google.dev/gemini-api/docs/models"
+    },
+    {
+      "name": "MiniMax M2.5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 68.3
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-16",
+      "url": "https://www.minimax.io"
+    },
+    {
+      "name": "Kimi K2.5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 67.3
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://moonshotai.github.io/Kimi-K2/"
+    },
+    {
+      "name": "Claude 4.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 67.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5"
+    },
+    {
+      "name": "GPT 5.2 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.7
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://platform.openai.com"
+    },
+    {
+      "name": "GPT 5.2 Codex",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.3
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-20",
+      "url": "https://platform.openai.com/docs/models/gpt-5"
+    },
+    {
+      "name": "Claude 4.5 Haiku",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 64.7
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5"
+    },
+    {
+      "name": "DeepSeek V3.2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 59.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://api-docs.deepseek.com"
+    },
+    {
+      "name": "GPT 5 mini",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 39.7
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multilingual",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-13",
+      "url": "https://platform.openai.com"
+    },
+    {
+      "name": "Sonar Foundation Agent + Claude 4.5 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 52.62
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-19",
+      "url": "https://www.sonarsource.com"
+    },
+    {
+      "name": "Salesforce AI Research SAGE (bash-only)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 44.25
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2025-10-27",
+      "url": "https://www.salesforce.com/blog/sage-swe/"
+    },
+    {
+      "name": "Atlassian Rovo Dev (2025-06-05)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 41.98
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-05",
+      "url": "https://www.atlassian.com/rovo-dev"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20250405-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 37.1
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-22",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "SWE-agent 1.0 (Claude 3.7 Sonnet)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 33.83
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-27",
+      "url": "https://github.com/swe-agent/swe-agent"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20241202-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 29.99
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-31",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "OpenHands + CodeAct v2.1 (claude-3-5-sonnet-20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 29.38
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-03",
+      "url": "https://docs.all-hands.dev/"
+    },
+    {
+      "name": "AutoCodeRover-v2.0 (Claude-3.5-Sonnet-20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 24.89
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-21",
+      "url": "https://www.autocoderover.net/"
+    },
+    {
+      "name": "Honeycomb",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 22.06
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-20",
+      "url": "https://honeycomb.sh/"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20240719-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 19.75
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-21",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "Factory Code Droid",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 19.27
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-17",
+      "url": "https://www.factory.ai/"
+    },
+    {
+      "name": "AutoCodeRover (v20240620) + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 18.83
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-28",
+      "url": "https://autocoderover.dev/"
+    },
+    {
+      "name": "SWE-agent + Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 18.13
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-20",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "AppMap Navie + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 14.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-15",
+      "url": "https://appmap.io/navie"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20240430-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 13.82
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-05-09",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "SWE-agent + GPT 4 (1106)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 12.47
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-agent + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 11.99
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-28",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-agent + Claude 3 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 10.51
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "RAG + Claude 3 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 3.79
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://github.com/SWE-bench/SWE-bench/tree/main/swebench/inference"
+    },
+    {
+      "name": "RAG + Claude 2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 1.96
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "RAG + GPT 4 (1106)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 1.31
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "RAG + SWE-Llama 13B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 0.7
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "RAG + SWE-Llama 7B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 0.7
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "RAG + ChatGPT 3.5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 0.17
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Test",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "live-SWE-agent + Claude 4.5 Opus medium (20251101)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 79.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-15",
+      "url": "https://github.com/OpenAutoCoder/live-swe-agent"
+    },
+    {
+      "name": "Sonar Foundation Agent + Claude 4.5 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 79.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-05",
+      "url": "https://www.sonarsource.com"
+    },
+    {
+      "name": "TRAE + Doubao-Seed-Code",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 78.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-28",
+      "url": [
+        "https://github.com/bytedance/trae-agent",
+        "https://seed.bytedance.com/"
+      ]
+    },
+    {
+      "name": "live-SWE-agent + Gemini 3 Pro Preview (2025-11-18)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 77.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-20",
+      "url": "https://github.com/OpenAutoCoder/live-swe-agent"
+    },
+    {
+      "name": "Atlassian Rovo Dev (2025-09-02)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 76.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-02",
+      "url": "https://www.atlassian.com/rovo-dev"
+    },
+    {
+      "name": "EPAM AI/Run Developer Agent v20250719 + Claude 4 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 76.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-04",
+      "url": "https://www.epam.com/services/artificial-intelligence"
+    },
+    {
+      "name": "mini-SWE-agent + Claude 4.5 Opus (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 76.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "ACoder",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 76.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-19",
+      "url": "https://github.com/ACoder-AI/ACoder"
+    },
+    {
+      "name": "mini-SWE-agent + Gemini 3 Flash (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 75.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + MiniMax M2.5 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 75.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Warp",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-23",
+      "url": "https://www.warp.dev"
+    },
+    {
+      "name": "mini-SWE-agent + Claude 4.6 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 75.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "TRAE + Claude Sonnet 4 + Opus 4 + Sonnet 3.7 + Gemini 2.5 Pro",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 75.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-12",
+      "url": "https://github.com/bytedance/trae-agent"
+    },
+    {
+      "name": "Harness AI",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-31",
+      "url": "https://www.harness.io/"
+    },
+    {
+      "name": "Sonar Foundation Agent + Claude 4.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-03",
+      "url": "https://www.sonarsource.com"
+    },
+    {
+      "name": "Lingxi-v1.5_claude-4-sonnet-20250514",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://github.com/nimasteryang/Lingxi"
+    },
+    {
+      "name": "JoyCode + Claude 4 Sonnet + GPT-4.1",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-15",
+      "url": "https://github.com/jd-opensource/joycode-agent"
+    },
+    {
+      "name": "Refact.ai Agent + Claude 4 Sonnet + o4-mini",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-03",
+      "url": "https://refact.ai"
+    },
+    {
+      "name": "Prometheus-v1.2.1 + GPT-5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-10-15",
+      "url": "https://euni.ai/"
+    },
+    {
+      "name": "mini-SWE-agent + Claude 4.5 Opus (20251101) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-24",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + Gemini 3 Pro Preview (2025-11-18)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 74.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-18",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Salesforce AI Research SAGE (OpenHands)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 73.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-03",
+      "url": "https://www.salesforce.com/blog/sage-swe/"
+    },
+    {
+      "name": "Tools + Claude 4 Opus (2025-05-22)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 73.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-22",
+      "url": "https://www.anthropic.com/"
+    },
+    {
+      "name": "Salesforce AI Research SAGE (bash-only)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 73.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-10-21",
+      "url": "https://www.salesforce.com/blog/sage-swe/"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5.2 Codex",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 72.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-19",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + GLM 5 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 72.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5.2 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 72.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Tools + Claude 4 Sonnet (2025-05-22)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 72.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-22",
+      "url": "https://www.anthropic.com/"
+    },
+    {
+      "name": "OpenHands + GPT-5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://all-hands.dev/"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5.2 (2025-12-11) (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-11",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + Claude 4.5 Sonnet (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Prometheus-v1.2 + GPT-5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-29",
+      "url": "https://euni.ai/"
+    },
+    {
+      "name": "Qodo Command",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-15",
+      "url": "https://www.qodo.ai/"
+    },
+    {
+      "name": "Bloop",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-10",
+      "url": "https://bloop.ai/"
+    },
+    {
+      "name": "Lingxi v1.5 x Kimi K2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 71.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-10-14",
+      "url": "https://github.com/lingxi-agent/Lingxi/tree/master"
+    },
+    {
+      "name": "Moatless Tools + Claude 4 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-11",
+      "url": "https://github.com/aorwall/moatless-tools"
+    },
+    {
+      "name": "mini-SWE-agent + Kimi K2.5 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "TRAE",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-19",
+      "url": "https://www.trae.ai/"
+    },
+    {
+      "name": "mini-SWE-agent + Claude 4.5 Sonnet (20250929)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-29",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Refact.ai Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-15",
+      "url": "https://refact.ai"
+    },
+    {
+      "name": "OpenHands + Claude 4 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-24",
+      "url": "https://all-hands.dev/"
+    },
+    {
+      "name": "Augment Agent v1",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-10",
+      "url": "https://www.augmentcode.com"
+    },
+    {
+      "name": "devlo",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 54.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-08",
+      "url": "https://devlo.ai/?utm_source=swe-bench"
+    },
+    {
+      "name": "Zencoder (2025-04-30)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-04-30",
+      "url": "https://zencoder.ai"
+    },
+    {
+      "name": "mini-SWE-agent + DeepSeek V3.2 (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 70.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "OpenHands + Qwen3-Coder-480B-A35B-Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 69.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-05",
+      "url": "https://qwenlm.github.io/blog/qwen3-coder/"
+    },
+    {
+      "name": "mini-SWE-agent + Gemini 3 Pro",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 69.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-26",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5.2 (2025-12-11)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 69.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-11",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Nemotron-CORTEXA",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 58.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-04-10",
+      "url": "https://research.nvidia.com/labs/adlr/cortexa/"
+    },
+    {
+      "name": "GLM-4.6",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 68.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-30",
+      "url": "https://chat.z.ai/"
+    },
+    {
+      "name": "mini-SWE-agent + Claude 4 Opus (20250514)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 67.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-02",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "SWE-agent + Claude 4 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-22",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "mini-SWE-agent + Claude 4.5 Haiku (high)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Aime-coder v1 + Anthopic Claude 3.7 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-14",
+      "url": "https://github.com/SWE-bench/experiments/blob/main/evaluation/verified/20250514_aime_coder/README.md"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5.1 Codex (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-24",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5.1 (2025-11-13) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 66.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-20",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "OpenHands",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 65.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-04-15",
+      "url": "https://all-hands.dev/"
+    },
+    {
+      "name": "Augment Agent v0",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 65.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-03-16",
+      "url": "https://www.augmentcode.com"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20250405-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 65.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-04-05",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "OpenHands + Kimi K2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 65.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-16",
+      "url": "https://all-hands.dev/"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5 (2025-08-07) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 65.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + Claude 4 Sonnet (20250514)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 64.93
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "W&B Programmer O1 crosscheck5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 64.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-17",
+      "url": "https://wandb.ai"
+    },
+    {
+      "name": "PatchPilot-v1.1",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 64.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-03",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "GLM-4.5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 64.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-28",
+      "url": "https://chat.z.ai/"
+    },
+    {
+      "name": "AgentScope",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 63.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-06",
+      "url": "https://github.com/modelscope/agentscope"
+    },
+    {
+      "name": "mini-SWE-agent + Kimi K2 Thinking",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 63.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-10",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Tools + Claude 3.7 Sonnet (2025-02-24)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 63.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-24",
+      "url": "https://www.anthropic.com/"
+    },
+    {
+      "name": "Blackbox AI Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 62.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-10",
+      "url": "https://www.blackbox.ai/"
+    },
+    {
+      "name": "EPAM AI/Run Developer Agent v20250219 + Anthopic Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 62.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-28",
+      "url": "https://www.epam.com/services/artificial-intelligence"
+    },
+    {
+      "name": "SWE-agent + Claude 3.7 Sonnet w/ Review Heavy",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 62.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-25",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "CodeStory Midwit Agent + swe-search",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 62.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-21",
+      "url": "https://aide.dev/"
+    },
+    {
+      "name": "mini-SWE-agent + MiniMax M2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 61.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-24",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "OpenHands + 4x Scaled (2024-02-03)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 60.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-03",
+      "url": "https://all-hands.dev/"
+    },
+    {
+      "name": "EntroPO + R2E + Qwen3-Coder-30B-A3B-Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 52.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-01",
+      "url": "https://github.com/sherdencooper/R2E-Gym"
+    },
+    {
+      "name": "Learn-by-interact",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 60.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-10",
+      "url": "https://arxiv.org/pdf/2501.10893"
+    },
+    {
+      "name": "mini-SWE-agent + DeepSeek V3.2 Reasoner",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 60.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-01",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5 mini (2025-08-07) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 59.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "DeepSWE-Preview + TTS(Bo16)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 58.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-29",
+      "url": "agentica-project.com/"
+    },
+    {
+      "name": "mini-SWE-agent + o3 (2025-04-16)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 58.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Emergent E1 (v2024-12-23)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 57.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-23",
+      "url": "https://emergent.sh"
+    },
+    {
+      "name": "Gru(2024-12-08)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 57.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-08",
+      "url": "https://gru.ai"
+    },
+    {
+      "name": "Artemis Agent v2 (2025-09-24)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 57.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-24",
+      "url": "https://www.turintech.ai/"
+    },
+    {
+      "name": "SWE-Rizzo",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 56.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-04-05",
+      "url": "https://gen42.ai"
+    },
+    {
+      "name": "mini-SWE-agent + Devstral Small (2512)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 56.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-09",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5 mini",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 56.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2026-02-17",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "EPAM AI/Run Developer Agent v20241212 + Anthopic Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 55.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-12",
+      "url": "https://www.epam.com/services/artificial-intelligence"
+    },
+    {
+      "name": "mini-SWE-agent + Qwen3-Coder 480B/A35B Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 55.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-02",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + GLM 4.6 (T=1)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 55.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-01",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20241202-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 55.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-02",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "mini-SWE-agent + GLM 4.5 (2025-08-22)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 54.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-22",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + Devstral (2512)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 53.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-12-09",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "FrogBoss-32B-2510",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 53.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-10",
+      "url": "https://microsoft.github.io/debug-gym/blog/2025/10/bug-pilot/"
+    },
+    {
+      "name": "mini-SWE-agent + Gemini 2.5 Pro (2025-05-06)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 53.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "CodeSweep - SWE-agent - Kimi K2 Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 53.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-04",
+      "url": "https://codesweep.ai/"
+    },
+    {
+      "name": "Bracket.sh",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 53.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-20",
+      "url": "https://bracket.sh/"
+    },
+    {
+      "name": "OpenHands + CodeAct v2.1 (claude-3-5-sonnet-20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 53.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-29",
+      "url": "https://docs.all-hands.dev/"
+    },
+    {
+      "name": "mini-SWE-agent + Claude 3.7 Sonnet (20250219)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 52.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Google Jules + Gemini 2.0 Flash (v20241212-experimental)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 52.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-12",
+      "url": "https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/"
+    },
+    {
+      "name": "Engine Labs (2024-11-25)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 51.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-25",
+      "url": "https://www.enginelabs.ai/"
+    },
+    {
+      "name": "AutoCodeRover-v2.1 (Claude-3.5-Sonnet-20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 51.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-22",
+      "url": "https://www.autocoderover.net/"
+    },
+    {
+      "name": "OpenHands + Qwen3-Coder-30B-A3B-Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 51.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-05",
+      "url": "https://qwenlm.github.io/blog/qwen3-coder/"
+    },
+    {
+      "name": "Agentless-1.5 + Claude-3.5 Sonnet (20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 50.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-02",
+      "url": "https://github.com/OpenAutoCoder/Agentless"
+    },
+    {
+      "name": "Solver (2024-10-28)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 50.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-28",
+      "url": "https://solverai.com/"
+    },
+    {
+      "name": "Bytedance MarsCode Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 50.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-25",
+      "url": "https://www.marscode.com/"
+    },
+    {
+      "name": "nFactorial (2024-11-05)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 49.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-05",
+      "url": "https://nfactorial.dev/"
+    },
+    {
+      "name": "Tools + Claude 3.5 Sonnet (2024-10-22)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 49.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-22",
+      "url": "https://www.anthropic.com/"
+    },
+    {
+      "name": "Composio SWE-Kit (2024-10-25)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 48.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-25",
+      "url": "https://github.com/ComposioHQ/composio/tree/master/python/swe/agent"
+    },
+    {
+      "name": "AppMap Navie v2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 47.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-06",
+      "url": "https://appmap.io/navie"
+    },
+    {
+      "name": "Skywork-SWE-32B + TTS(Bo8)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 47.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-16",
+      "url": "https://quixotic-sting-239.notion.site/eb17f379610040ceb54da5d5d24065bd"
+    },
+    {
+      "name": "OpenHands + DevStral Small 2505",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 46.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-20",
+      "url": "https://all-hands.dev/"
+    },
+    {
+      "name": "Emergent E1 (v2024-10-12)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 46.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-23",
+      "url": "https://emergent.sh"
+    },
+    {
+      "name": "AutoCodeRover-v2.0 (Claude-3.5-Sonnet-20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 46.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-08",
+      "url": "https://www.autocoderover.net/"
+    },
+    {
+      "name": "PatchPilot + Co-PatcheR",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 46.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-28",
+      "url": "https://github.com/ucsb-mlsec/Co-PatcheR"
+    },
+    {
+      "name": "Solver (2024-09-12)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 43.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-09-20",
+      "url": "https://laredolabs.com/"
+    },
+    {
+      "name": "Gru(2024-08-24)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 45.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-24",
+      "url": "https://gru.ai"
+    },
+    {
+      "name": "FrogMini-14B-2510",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 45.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-10",
+      "url": "https://microsoft.github.io/debug-gym/blog/2025/10/bug-pilot/"
+    },
+    {
+      "name": "mini-SWE-agent + o4-mini (2025-04-16)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 45.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "CodeShellAgent + Gemini 2.0 Flash (Experimental)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 44.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-18",
+      "url": "https://github.com/WisdomShell/codeshell"
+    },
+    {
+      "name": "mini-SWE-agent + Kimi K2 Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 43.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Amazon Nova Premier 1.0 (2025-04-30)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 42.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-27",
+      "url": "aws.amazon.com/nova"
+    },
+    {
+      "name": "Agentless Lite + O3 Mini (20250214)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 42.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-14",
+      "url": "https://github.com/sorendunn/Agentless-Lite"
+    },
+    {
+      "name": "DeepSWE-Preview",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 42.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-29",
+      "url": "agentica-project.com/"
+    },
+    {
+      "name": "SWE-Exp",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 42.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-06",
+      "url": "https://github.com/YerbaPage/SWE-Exp"
+    },
+    {
+      "name": "ugaiforge",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 41.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-12",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "nFactorial (2024-10-30)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 41.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-30",
+      "url": "https://nfactorial.dev/"
+    },
+    {
+      "name": "SWE-RL (Llama3-SWE-RL-70B + Agentless Mini) (20250226)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 41.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-26",
+      "url": "https://github.com/facebookresearch/swe-rl"
+    },
+    {
+      "name": "Nebius AI Qwen 2.5 72B Generator + LLama 3.1 70B Critic",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 40.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-13",
+      "url": "https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents"
+    },
+    {
+      "name": "Tools + Claude 3.5 Haiku",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 40.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-22",
+      "url": "https://www.anthropic.com/"
+    },
+    {
+      "name": "Honeycomb",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 40.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-20",
+      "url": "https://honeycomb.sh/"
+    },
+    {
+      "name": "Composio SWEkit + Claude 3.5 Sonnet (2024-10-16)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 40.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-16",
+      "url": "https://github.com/ComposioHQ/composio/tree/master/python/swe/agent"
+    },
+    {
+      "name": "SWE-agent + SWE-agent-LM-32B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 40.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-11",
+      "url": "https://swesmith.com/"
+    },
+    {
+      "name": "EPAM AI/Run Developer Agent v20241029 + Anthopic Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 39.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-29",
+      "url": "https://www.epam.com/services/artificial-intelligence"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 4.1 (2025-04-14)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 39.58
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20240719-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 38.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-21",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "Agentless-1.5 + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 38.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-28",
+      "url": "https://github.com/OpenAutoCoder/Agentless"
+    },
+    {
+      "name": "AutoCodeRover (v20240620) + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 38.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-28",
+      "url": "https://autocoderover.dev/"
+    },
+    {
+      "name": "Skywork-SWE-32B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 38.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-16",
+      "url": "https://quixotic-sting-239.notion.site/eb17f379610040ceb54da5d5d24065bd"
+    },
+    {
+      "name": "SWE-agent + DevStral Small 2507",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 38.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-25",
+      "url": "https://swe-agent.com/"
+    },
+    {
+      "name": "Factory Code Droid",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 37.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-17",
+      "url": "https://www.factory.ai/"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 5 nano (2025-08-07) (medium)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 34.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "SWE-agent + Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 33.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-20",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-Fixer (Qwen2.5-7b retriever + Qwen2.5-72b editor)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 32.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-03-06",
+      "url": "https://github.com/InternLM/SWE-Fixer"
+    },
+    {
+      "name": "MASAI + GPT 4o (2024-06-12)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 32.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-12",
+      "url": "https://masai-dev-agent.github.io/"
+    },
+    {
+      "name": "Artemis Agent v1 (2024-11-20)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 32.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-20",
+      "url": "https://www.turintech.ai/"
+    },
+    {
+      "name": "nFactorial (2024-10-07)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 31.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-07",
+      "url": "https://nfactorial.dev/"
+    },
+    {
+      "name": "SWE-Fixer (Qwen2.5-7b retriever + Qwen2.5-72b editor) 20241128",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 30.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-28",
+      "url": "https://github.com/InternLM/SWE-Fixer"
+    },
+    {
+      "name": "Lingma Agent + Lingma SWE-GPT 72b (v0925)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 28.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-02",
+      "url": "https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT (https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT-v20240925)"
+    },
+    {
+      "name": "mini-SWE-agent + Gemini 2.5 Flash (2025-04-17)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 28.73
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "EPAM AI/Run Developer Agent + GPT4o",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 24.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-20",
+      "url": "https://www.epam.com/services/artificial-intelligence"
+    },
+    {
+      "name": "AppMap Navie + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 26.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-15",
+      "url": "https://appmap.io/navie"
+    },
+    {
+      "name": "mini-SWE-agent + gpt-oss-120b",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 26.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-07",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "nFactorial (2024-10-01)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 25.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-01",
+      "url": "https://nfactorial.dev/"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20240430-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 25.6
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-05-09",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "Lingma Agent + Lingma SWE-GPT 72b (v0918)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 25.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-09-18",
+      "url": "https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 4.1 mini (2025-04-14)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 23.94
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "MCTS-Refine-7B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 23.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-27",
+      "url": "https://mcts-refine.github.io/MCTS-Refine"
+    },
+    {
+      "name": "SWE-agent + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 23.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-28",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-agent + GPT 4 (1106)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 22.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "mini-SWE-agent + GPT 4o (2024-11-20)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 21.62
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + Llama 4 Maverick Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 21.04
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Lingma Agent + Lingma SWE-GPT 7b (v0925)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 18.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-02",
+      "url": "https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT (https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT-v20240925)"
+    },
+    {
+      "name": "SWE-agent + Claude 3 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 15.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "mini-SWE-agent + Gemini 2.0 Flash",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 13.52
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-26",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "Lingma Agent + Lingma SWE-GPT 7b (v0918)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 10.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-09-18",
+      "url": "https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT"
+    },
+    {
+      "name": "mini-SWE-agent + Llama 4 Scout Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 9.06
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-20",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "mini-SWE-agent + Qwen2.5-Coder 32B Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 9.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2025-08-03",
+      "url": "https://mini-swe-agent.com/latest/"
+    },
+    {
+      "name": "RAG + Claude 3 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 7.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://github.com/SWE-bench/SWE-bench/tree/main/swebench/inference"
+    },
+    {
+      "name": "RAG + Claude 2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 4.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "RAG + GPT 4 (1106)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 2.8
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "RAG + SWE-Llama 7B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 1.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "RAG + SWE-Llama 13B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 1.2
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "RAG + ChatGPT 3.5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 0.4
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Verified",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "ExpeRepair-v1.0 + Claude 4 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 60.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-25",
+      "url": "https://github.com/ExpeRepair/ExpeRepair"
+    },
+    {
+      "name": "Refact.ai Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 60.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-04-25",
+      "url": "https://refact.ai"
+    },
+    {
+      "name": "KGCompass + Claude 4 Sonnet (20250514)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 58.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-06",
+      "url": "https://github.com/GLEAM-Lab/KGCompass"
+    },
+    {
+      "name": "SWE-agent + Claude 4 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 56.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-26",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "Isoform",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 35.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-29",
+      "url": "https://isoform.ai"
+    },
+    {
+      "name": "SemAgent_Multi-v1.0",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 51.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-25",
+      "url": "https://arxiv.org/abs/2506.16650"
+    },
+    {
+      "name": "Isea",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 51.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-11",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "EntroPO + R2E + Qwen3-Coder-30B-A3B-Instruct",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 45.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-09-01",
+      "url": "https://github.com/sherdencooper/R2E-Gym"
+    },
+    {
+      "name": "Blackbox AI Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 49.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-20",
+      "url": "https://www.blackbox.ai/"
+    },
+    {
+      "name": "Codev",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 49.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-28",
+      "url": "https://www.co-dev.ai"
+    },
+    {
+      "name": "Gru(2024-12-08)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 48.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-08",
+      "url": "https://gru.ai"
+    },
+    {
+      "name": "ExpeRepair-v1.0",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 48.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-13",
+      "url": "https://github.com/ExpeRepair/ExpeRepair"
+    },
+    {
+      "name": "Globant Code Fixer Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 48.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-27",
+      "url": "https://ai.globant.com/us-en/"
+    },
+    {
+      "name": "SWE-agent + Claude 3.7 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 48.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-26",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "devlo",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 47.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-22",
+      "url": "https://devlo.ai/?utm_source=swe-bench"
+    },
+    {
+      "name": "DARS Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 47.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-05",
+      "url": "https://github.com/darsagent/DARS-Agent"
+    },
+    {
+      "name": "KGCompass + Claude 3.5 Sonnet (20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 46.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-19",
+      "url": "https://github.com/GLEAM-Lab/KGCompass"
+    },
+    {
+      "name": "Kodu-v1 + Claude-3.5 Sonnet (20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 44.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-07",
+      "url": "https://www.kodu.ai/"
+    },
+    {
+      "name": "CodeFuse-CGM",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 44.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-03-10",
+      "url": "https://github.com/codefuse-ai/CodeFuse-CGM"
+    },
+    {
+      "name": "CodeStory Aide + Mixed Models",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 43.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-02",
+      "url": "https://aide.dev/"
+    },
+    {
+      "name": "Lingxi",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 42.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-09",
+      "url": "https://github.com/nimasteryang/Lingxi"
+    },
+    {
+      "name": "OpenHands + CodeAct v2.1 (claude-3-5-sonnet-20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 41.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-25",
+      "url": "https://docs.all-hands.dev/"
+    },
+    {
+      "name": "Codart AI",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 41.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-15",
+      "url": "https://srics96.github.io/Codart-AI/"
+    },
+    {
+      "name": "PatchKitty-0.9 + Claude-3.5 Sonnet (20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 41.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-20",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "OrcaLoca + Agentless-1.5 + Claude-3.5 Sonnet (20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 41.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-13",
+      "url": "https://github.com/fishmingyu/OrcarLLM"
+    },
+    {
+      "name": "Composio SWE-Kit (2024-10-30)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 41.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-30",
+      "url": "https://github.com/ComposioHQ/composio/tree/master/python/swe/agent"
+    },
+    {
+      "name": "Agentless-1.5 + Claude-3.5 Sonnet (20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 40.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-02",
+      "url": "https://github.com/OpenAutoCoder/Agentless"
+    },
+    {
+      "name": "OpenCSG Starship Agentic Coder + GPT 4 (0806)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 39.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-13",
+      "url": "https://opencsg.com/starship"
+    },
+    {
+      "name": "Bytedance MarsCode Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 39.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-09-12",
+      "url": "https://www.marscode.com/"
+    },
+    {
+      "name": "Moatless Tools + Claude 3.5 Sonnet (20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 38.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-17",
+      "url": "https://github.com/aorwall/moatless-tools"
+    },
+    {
+      "name": "Honeycomb",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 38.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-20",
+      "url": "https://honeycomb.sh/"
+    },
+    {
+      "name": "AbanteAI MentatBot + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 38.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-27",
+      "url": "https://mentat.ai/blog/mentatbot-sota-coding-agent"
+    },
+    {
+      "name": "Patched.Codes Patchwork",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 37.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-04",
+      "url": "https://github.com/patched-codes/patchwork"
+    },
+    {
+      "name": "KGCompass + DeepSeek V3",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 36.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-09",
+      "url": "https://github.com/GLEAM-Lab/KGCompass"
+    },
+    {
+      "name": "AppMap Navie v2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 36.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-13",
+      "url": "https://appmap.io/navie"
+    },
+    {
+      "name": "CodeFuse-AAIS",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 35.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-04",
+      "url": "https://codefuse.ai/"
+    },
+    {
+      "name": "Gru(2024-08-11)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 35.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-11",
+      "url": "https://gru.ai"
+    },
+    {
+      "name": "SuperCoder2.0",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 34.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-06",
+      "url": "https://superagi.com/supercoder/"
+    },
+    {
+      "name": "Bytedance MarsCode Agent + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 34.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-23",
+      "url": "https://www.marscode.com/"
+    },
+    {
+      "name": "Alibaba Lingma Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 33.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-22",
+      "url": "https://arxiv.org/abs/2406.01422"
+    },
+    {
+      "name": "Agentless Lite + O3 Mini (20250214)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 32.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-14",
+      "url": "https://github.com/sorendunn/Agentless-Lite"
+    },
+    {
+      "name": "Agentless-1.5 + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 32.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-28",
+      "url": "https://github.com/OpenAutoCoder/Agentless"
+    },
+    {
+      "name": "Factory Code Droid",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 31.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-17",
+      "url": "https://www.factory.ai/"
+    },
+    {
+      "name": "CodeShellTester + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 31.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-11",
+      "url": "https://github.com/WisdomShell/codeshell"
+    },
+    {
+      "name": "Moatless Tools + Deepseek V3",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 30.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-01-11",
+      "url": "https://github.com/aorwall/moatless-tools"
+    },
+    {
+      "name": "AutoCodeRover (v20240620) + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 30.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-21",
+      "url": "https://autocoderover.dev/"
+    },
+    {
+      "name": "Aegis - o3-mini_1.0",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 30.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-07",
+      "url": "https://github.com/evandiewald/aegis"
+    },
+    {
+      "name": "AIGCode Infant-Coder(2024-08-30)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 30.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-09-08",
+      "url": "https://aigcode.net/"
+    },
+    {
+      "name": "Kortix AI (claude-3-5-sonnet-20241022)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 30.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-12-03",
+      "url": "https://www.kortix.ai/"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20240719-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 29.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-21",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "Agentless + RepoGraph + GPT-4o",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 29.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-08",
+      "url": "https://github.com/ozyyshr/RepoGraph"
+    },
+    {
+      "name": "CodeR + GPT 4 (1106)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 28.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-04",
+      "url": "https://github.com/NL2Code/CodeR"
+    },
+    {
+      "name": "reproducedRG",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 28.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-17",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "SIMA + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 27.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-06",
+      "url": "https://github.com/swe-bench/experiments/tree/main/evaluation/lite/20240706_sima_gpt4o"
+    },
+    {
+      "name": "MASAI + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 27.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-12",
+      "url": "https://masai-dev-agent.github.io/"
+    },
+    {
+      "name": "Agentless + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 27.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-30",
+      "url": "https://github.com/OpenAutoCoder/Agentless"
+    },
+    {
+      "name": "Moatless Tools + Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 26.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-23",
+      "url": "https://github.com/aorwall/moatless-tools"
+    },
+    {
+      "name": "OpenHands + CodeAct v1.8",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 26.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-25",
+      "url": "https://docs.all-hands.dev/"
+    },
+    {
+      "name": "IBM Research Agent-101",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 26.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-12",
+      "url": "https://github.com/swe-bench/experiments/tree/main/evaluation/lite/20240612_IBM_Research_Agent101"
+    },
+    {
+      "name": "Aider + GPT 4o & Claude 3 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 26.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-05-23",
+      "url": "https://github.com/paul-gauthier/aider"
+    },
+    {
+      "name": "HyperAgent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 25.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-09-25",
+      "url": "https://arxiv.org/abs/2409.16299"
+    },
+    {
+      "name": "SWE-Fixer (Qwen2.5-7b retriever + Qwen2.5-72b editor)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 24.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-03-06",
+      "url": "https://github.com/InternLM/SWE-Fixer"
+    },
+    {
+      "name": "Moatless Tools + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 24.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-17",
+      "url": "https://github.com/aorwall/moatless-tools"
+    },
+    {
+      "name": "IBM AI Agent SWE-1.0 (with open LLMs)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 23.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-16",
+      "url": "https://github.com/swe-bench/experiments/tree/main/evaluation/lite/20241016_IBM-SWE-1.0"
+    },
+    {
+      "name": "OpenCSG StarShip CodeGenAgent + GPT 4 (0613)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 23.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-05-24",
+      "url": "https://opencsg.com/product?class=StarShip"
+    },
+    {
+      "name": "SWE-Fixer (Qwen2.5-7b retriever + Qwen2.5-72b editor) 20241128",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 23.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-11-28",
+      "url": "https://github.com/InternLM/SWE-Fixer"
+    },
+    {
+      "name": "SWE-agent + Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 23.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-20",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "AppMap Navie + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 21.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-06-15",
+      "url": "https://appmap.io/navie"
+    },
+    {
+      "name": "Bytedance AutoSE (based on SWE-Agent) + GPT4/GPT4o Mixed (20240828)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 21.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-08-28",
+      "url": "https://www.swebench.com/"
+    },
+    {
+      "name": "Amazon Q Developer Agent (v20240430-dev)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 20.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-05-09",
+      "url": "https://aws.amazon.com/q/developer/"
+    },
+    {
+      "name": "AutoCodeRover (v20240408) + GPT 4 (0125)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 19.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-05-30",
+      "url": "https://github.com/nus-apr/auto-code-rover"
+    },
+    {
+      "name": "SWE-agent + GPT 4o (2024-05-13)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 18.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-07-28",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-agent + GPT 4 (1106)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 18.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "MCTS-Refine-7B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 16.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-27",
+      "url": "https://mcts-refine.github.io/MCTS-Refine"
+    },
+    {
+      "name": "SWE-agent + Claude 3 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 11.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "RAG + Claude 3 Opus",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 4.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://swebench.com/"
+    },
+    {
+      "name": "RAG + Claude 2",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 3.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://swebench.com/"
+    },
+    {
+      "name": "RAG + GPT 4 (1106)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 2.67
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2024-04-02",
+      "url": "https://swebench.com/"
+    },
+    {
+      "name": "RAG + SWE-Llama 7B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 1.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://swebench.com/"
+    },
+    {
+      "name": "RAG + SWE-Llama 13B",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 1.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://swebench.com/"
+    },
+    {
+      "name": "RAG + ChatGPT 3.5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 0.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Lite",
+      "verified": false,
+      "oss": false,
+      "date": "2023-10-10",
+      "url": "https://swebench.com/"
+    },
+    {
+      "name": "GUIRepair + o3 (2025-04-16)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 35.98
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-07-01",
+      "url": "https://sites.google.com/view/guirepair"
+    },
+    {
+      "name": "Codefuse_Pycfuse_SVR",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 35.98
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-11-17",
+      "url": "https://github.com/codefuse-ai/codefuse-svr?tab=readme-ov-file"
+    },
+    {
+      "name": "Refact.ai Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 35.59
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-06-11",
+      "url": "https://refact.ai"
+    },
+    {
+      "name": "OpenHands-Versa (Claude-Sonnet 4)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 34.43
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-28",
+      "url": "https://github.com/adityasoni9998/OpenHands-Versa"
+    },
+    {
+      "name": "GUIRepair + o4-mini (2025-04-16)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 33.85
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-31",
+      "url": "https://sites.google.com/view/guirepair"
+    },
+    {
+      "name": "OpenHands-Versa (Claude-3.7 Sonnet)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 31.33
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-09",
+      "url": "https://github.com/adityasoni9998/OpenHands-Versa"
+    },
+    {
+      "name": "GUIRepair + GPT 4.1 (2025-04-14)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 31.14
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-31",
+      "url": "https://sites.google.com/view/guirepair"
+    },
+    {
+      "name": "Zencoder (2025-04-01)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 30.56
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-04-01",
+      "url": "https://zencoder.ai"
+    },
+    {
+      "name": "GUIRepair + GPT 4o (2024-08-06)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 30.37
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-05-31",
+      "url": "https://sites.google.com/view/guirepair"
+    },
+    {
+      "name": "Globant Code Fixer Agent",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 29.59
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-03-25",
+      "url": "https://ai.globant.com/us-en/"
+    },
+    {
+      "name": "Zencoder (2025-03-10)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 27.08
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-03-11",
+      "url": "https://zencoder.ai"
+    },
+    {
+      "name": "Agentless Lite + Claude-3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 25.34
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2025-02-26",
+      "url": "https://github.com/sorendunn/Agentless-Lite"
+    },
+    {
+      "name": "SWE-agent Multimodal + GPT 4o (2024-08-06)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 12.19
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-agent + Claude Sonnet 3.5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 12.19
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-agent JavaScript + Claude Sonnet 3.5",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 11.99
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-agent + GPT 4o (2024-08-06)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 11.99
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-agent Multimodal + Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 11.41
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "SWE-agent JavaScript + GPT 4o (2024-08-06)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 9.28
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/SWE-agent/SWE-agent"
+    },
+    {
+      "name": "Agentless + Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 6.19
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/OpenAutoCoder/Agentless"
+    },
+    {
+      "name": "RAG + GPT 4o (2024-08-06)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 6.0
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/SWE-bench/SWE-bench"
+    },
+    {
+      "name": "RAG + Claude 3.5 Sonnet",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 5.03
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/SWE-bench/SWE-bench"
+    },
+    {
+      "name": "Agentless + GPT 4o (2024-08-06)",
+      "provider": "Unknown",
+      "country": "Unknown",
+      "scores": {
+        "softwareEngineering": 3.09
+      },
+      "sources": [
+        "swebench"
+      ],
+      "benchmark": "Multimodal",
+      "verified": false,
+      "oss": false,
+      "date": "2024-10-06",
+      "url": "https://github.com/OpenAutoCoder/Agentless"
+    }
+  ],
+  "sources": [
+    {
+      "id": "swebench",
+      "name": "SWE-bench",
+      "url": "https://github.com/SWE-bench/SWE-bench",
+      "dataUrl": "https://raw.githubusercontent.com/SWE-bench/swe-bench.github.io/master/data/leaderboards.json",
+      "license": "MIT"
+    }
+  ]
 }
