@@ -50,6 +50,206 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-ec657c99cc7a",
+    "title": "Towards an Argumentative Foundation for Evaluative AI",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07473v1 Announce Type: new Abstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendation, but by presenting competing hypotheses together with evidence for and against each. In this position paper, we advocate (computational) argumentation as a particularly suitable paradigm to provide a formal, computable foundation for forms o",
+    "url": "https://arxiv.org/abs/2608.07473",
+    "related": []
+  },
+  {
+    "id": "feed-4bc435408c90",
+    "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07474v1 Announce Type: new Abstract: Prior work showed that human-in-the-loop oversight becomes structurally untenable in high-loss domains when AI output velocity V exceeds human cognitive capacity C_max. The operative constraint, however, is not V alone but V x L, where L denotes per-item cognitive load. L consists of triage, judgment, and response, which respond asymmetrically to AI capability improveme",
+    "url": "https://arxiv.org/abs/2608.07474",
+    "related": []
+  },
+  {
+    "id": "feed-d21d88844b87",
+    "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07476v1 Announce Type: new Abstract: We develop a formal framework for constructing canonical interpretations from plural structure theories. A structure theory is a triple T = ({\\Sigma}, A, I) consisting of a signature, axioms, and an inference policy, whose admissible interpretation family collects all globally consistent assignments of structural conclusions. We distinguish three levels of canonicalizat",
+    "url": "https://arxiv.org/abs/2608.07476",
+    "related": []
+  },
+  {
+    "id": "feed-2c8f0176715e",
+    "title": "Emotion in an active inference model of human driving",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.07480v1 Announce Type: new Abstract: Active inference has emerged as a principled framework for modeling adaptive behavior by balancing goal-directed action with uncertainty reduction. It has been successfully applied across biological and artificial systems, including recent work on human driving. However, existing active inference models of driving have yet to address an important determinant of behavior",
+    "url": "https://arxiv.org/abs/2608.07480",
+    "related": []
+  },
+  {
+    "id": "feed-8d8ba763f5f5",
+    "title": "Training Variable Long Sequences with Data-Centric Parallel",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07524v1 Announce Type: new Abstract: Training deep learning models on variable long sequences poses significant computational challenges. Existing methods force a difficult trade-off between efficiency and ease-of-use. Simple approaches use static configurations that cause workload imbalance low efficiency, while complex methods introduces significant complexity and code change for new models. To break thi",
+    "url": "https://arxiv.org/abs/2608.07524",
+    "related": []
+  },
+  {
+    "id": "feed-14af2e2bd452",
+    "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07528v1 Announce Type: new Abstract: Linear probes detect corrupted context in language models with near-perfect accuracy, yet this does not translate into reliable failure prediction. The result is a dissociation with direct implications for deployment monitoring. Across multi-hop arithmetic chains, probes that detect corruption turn out to be uninformative about final answer correctness; models forced in",
+    "url": "https://arxiv.org/abs/2608.07528",
+    "related": []
+  },
+  {
+    "id": "feed-d94b1119f2f5",
+    "title": "NL2SHACL-Bench: A Benchmark Suite for Natural Language to SHACL Translation",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07530v1 Announce Type: new Abstract: SHACL is a core technology for validating the conformance of RDF knowledge graphs (KGs). Yet, authoring SHACL shapes requires technical expertise that most domain experts lack. Translating natural language requirements into SHACL (NL2SHACL) would lower this barrier. However, there is no dedicated benchmark for NL2SHACL, and evaluating generated shapes requires methods b",
+    "url": "https://arxiv.org/abs/2608.07530",
+    "related": []
+  },
+  {
+    "id": "feed-fb5a5fcf4834",
+    "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07532v1 Announce Type: new Abstract: Modern agentic AI systems combine multiple large language model agents with heterogeneous skills, yet most architectures either fix communication in advance or allow full broadcast. Both can be inefficient because token cost, latency, redundancy, and error propagation increase with the number of active agents and communication links. We model agent selection and communi",
+    "url": "https://arxiv.org/abs/2608.07532",
+    "related": []
+  },
+  {
+    "id": "feed-481157c61d0c",
+    "title": "MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07533v1 Announce Type: new Abstract: An embodied agent is an intelligent entity that interacts with its environment through a physical body. Currently, the evaluation of embodied agents primarily relies on two paradigms: (1) manually annotated Visual Question Answering (VQA) pairs and (2) high-level task completion metrics, such as success in navigation or manipulation. The former is labor-intensive and su",
+    "url": "https://arxiv.org/abs/2608.07533",
+    "related": []
+  },
+  {
+    "id": "feed-e05f4bf68dc4",
+    "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.07538v1 Announce Type: new Abstract: As LLM agents move from decision support to autonomous procurement, firms need to know whether delegated negotiators create value, divide it predictably, and avoid money-losing contracts. We study this in a canonical supply chain bargaining problem: a buyer with private demand information negotiates a quantity-payment contract with an uninformed seller. We benchmark nin",
+    "url": "https://arxiv.org/abs/2608.07538",
+    "related": []
+  },
+  {
+    "id": "feed-022f5ae67f37",
+    "title": "TREAT: Evaluating Access to Formal Knowledge across Equivalent Mathematical Representations",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07540v1 Announce Type: new Abstract: AI systems increasingly operate between flexible input representations and formal objects used by downstream tools. A key challenge is recognizing when an unfamiliar formulation denotes a known formal object. We study this challenge through theorem recognition: given an equivalence-preserving transformation of a theorem condition, a model must recover the theorem identi",
+    "url": "https://arxiv.org/abs/2608.07540",
+    "related": []
+  },
+  {
+    "id": "feed-a0987c924477",
+    "title": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07542v1 Announce Type: new Abstract: Autonomous research loops driven by large language models can run machine-learning experiments at scale but tend to drift toward local refinements of whichever metric they optimise rather than testing the hypotheses that motivate the experiments. We address this structurally and present an AI Scientist for studying generalisation in quadruped robot navigation policies i",
+    "url": "https://arxiv.org/abs/2608.07542",
+    "related": []
+  },
+  {
+    "id": "feed-5a61740d6890",
+    "title": "The Field Knows: Cross-Dimensional Geometry from Navigation to Black Holes",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07566v1 Announce Type: new Abstract: We introduce a continuous metric field framework trained by a single causal contrastive loss. The framework encodes a scene into coefficients of a fixed symmetric matrix basis, assembles them into a Lie algebra element, and exponentiates the result to a Riemannian or Lorentzian metric. Across dimensions, this field discovers the full spectrum of geometric structures: fr",
+    "url": "https://arxiv.org/abs/2608.07566",
+    "related": []
+  },
+  {
+    "id": "feed-631cec62153e",
+    "title": "TeXFix-Bench: An Empirically Grounded Multi-Format Benchmark for LLM-Based Document Source Repair",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.07617v1 Announce Type: new Abstract: Scientific and technical writing depends on markup sources that must compile: LaTeX, Typst, and Markdown pipelines fail on missing delimiters, mismatched environments, broken imports, or package conflicts. Existing document-repair evaluations inject faults with ad-hoc edits that lack an empirical fault model. We present TeXFix-Bench, a multi-format benchmark for LLM-bas",
+    "url": "https://arxiv.org/abs/2608.07617",
+    "related": []
+  },
+  {
+    "id": "feed-0de069df6fa2",
+    "title": "CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.07621v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models have recently achieved impressive performance for end-to-end autonomous driving, yet existing approaches are primarily designed for an individual single autonomous driving agent with limited support for cooperative perception, reasoning, and planning. We present Cooperative Multi-agent Unified Driving with Reasoning (CMU-Drive), a clo",
+    "url": "https://arxiv.org/abs/2608.07621",
+    "related": []
+  },
+  {
+    "id": "feed-659ff3b6b4be",
+    "title": "Controlled Memory Interference in Continual LLM Agents",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.07622v1 Announce Type: new Abstract: Long-term memory enables AI agents to maintain continuity across sessions, personalize behavior, and evolve through accumulated experience. Yet memory evolution is not simply a process of storing more information: new experiences may reinforce, revise, or interfere with existing memory states. Existing systems mainly emphasize memory construction and relevance-based ret",
+    "url": "https://arxiv.org/abs/2608.07622",
+    "related": []
+  },
+  {
+    "id": "feed-5532b26bcf88",
+    "title": "From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07627v1 Announce Type: new Abstract: Hospitals are racing to embed AI, while coping with the surge in adaptation of the technology in other industries, into the triage management, documentation, scheduling, and revenue-cycle workflows, yet most deployments remain as fragmented pilots that stall at the edge of production, exposing patients and institutions to operational fragility, ungoverned risk, and moun",
+    "url": "https://arxiv.org/abs/2608.07627",
+    "related": []
+  },
+  {
+    "id": "feed-f9026c372421",
+    "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.07637v1 Announce Type: new Abstract: Long-running molecular simulation campaigns require repeated continuation from saved states, provenance-aware progression, adaptive assessment, and occasional interpretation of workflow conditions that cannot be resolved safely by fixed rules. Here, we present Agent-MD, a framework that places large language model (LLM) reasoning selectively at campaign construction and",
+    "url": "https://arxiv.org/abs/2608.07637",
+    "related": []
+  },
+  {
+    "id": "feed-688405b51fed",
+    "title": "Contextual Value Alignment via Multilayer Combinatorial Fusion",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07642v1 Announce Type: new Abstract: Aligning large language models (LLMs) with human values remains a major challenge, especially for trustworthy AI. While existing approaches such as RLHF, CAI, and their variants have achieved promising results, they often rely on a single-agent framework and a unified reward system. This limits their ability to capture ethical pluralism, adapt to diverse moral contexts,",
+    "url": "https://arxiv.org/abs/2608.07642",
+    "related": []
+  },
+  {
+    "id": "feed-6d5a9abf4366",
+    "title": "Mendel G\\\"odel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution",
+    "source": "arXiv AI",
+    "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.07645v1 Announce Type: new Abstract: Self-improving coding agents that iteratively rewrite their own source code have demonstrated impressive performance on coding tasks. However, existing solutions generally derive self-modification from a single failure trajectory at a time, overlooking rich comparative signals available in the agent's expanding archive of past attempts. According to Mendelian principles",
+    "url": "https://arxiv.org/abs/2608.07645",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -107,6 +307,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "source": "OpenAI",
+    "date": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "related": []
   },
   {
