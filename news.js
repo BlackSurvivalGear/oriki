@@ -20,6 +20,206 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-caa00c3a541c",
+    "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.09949v1 Announce Type: new Abstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experimentation. The framework is driven by data from a 49-channel phytosensor network, encompassing multispectral, electrochemical, and dielectric modalities. To enhance accessibility, the system provides real-time nat",
+    "url": "https://arxiv.org/abs/2608.09949",
+    "related": []
+  },
+  {
+    "id": "feed-e062f962099c",
+    "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.09967v1 Announce Type: new Abstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret. We introduce SPOT (Sampling Policy Observation Tree), a novel model-agnostic, sampling-based framework for interpreting DRL policies. Given access to the policy and an environment simulator, SPOT constructs an in",
+    "url": "https://arxiv.org/abs/2608.09967",
+    "related": []
+  },
+  {
+    "id": "feed-94d54e916591",
+    "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.09986v1 Announce Type: new Abstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs. However, real-world applications frequently encounter incomplete or corrupted modalities, posing a critical challenge. Although several methods have been proposed to tackle this issue, they mainly rely on data imputation and heuristic coordination constraints, which fail ",
+    "url": "https://arxiv.org/abs/2608.09986",
+    "related": []
+  },
+  {
+    "id": "feed-7dad068980d8",
+    "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.09998v1 Announce Type: new Abstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks. Despite their benefits, growing attention has been directed toward their environmental implications, primarily due to their high energy demands and associated carbon emissions. This concern is particularly relevant in light of the increasi",
+    "url": "https://arxiv.org/abs/2608.09998",
+    "related": []
+  },
+  {
+    "id": "feed-b88643003812",
+    "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.10004v1 Announce Type: new Abstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, enabling semantic inspection and test-time intervention. Recent variants have improved CBMs through richer concept representations, uncertainty estimation, and dependency modeling. However, robust reasoning under unreliable concept states remain",
+    "url": "https://arxiv.org/abs/2608.10004",
+    "related": []
+  },
+  {
+    "id": "feed-fb373a8e8d79",
+    "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10030v1 Announce Type: new Abstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical. Yet behavioral scientific research on AI agents remains manual and labor-intensive. We introduce AEROBAT, the first multi-agent system to automate behavioral scientific research on AI agents. Given an arbitrary target behavior by its user, AEROBAT automaticall",
+    "url": "https://arxiv.org/abs/2608.10030",
+    "related": []
+  },
+  {
+    "id": "feed-55e230bbc89a",
+    "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10090v1 Announce Type: new Abstract: Large language models (LLMs) have advanced code generation, where executable feedback provides a more reliable learning signal than textual imitation alone. Hardware verification is an important application of code generation and accounts for a substantial fraction of modern chip design effort, with high-coverage testbench stimulus generation as a key task. We present C",
+    "url": "https://arxiv.org/abs/2608.10090",
+    "related": []
+  },
+  {
+    "id": "feed-5c3de6ac8a0f",
+    "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10108v1 Announce Type: new Abstract: Long-horizon agents accumulate trajectories spanning hundreds of interleaved reasoning, action, and observation steps, where answering a query may depend on evidence buried far back in the history. External memory stores such trajectories as structured representations, yet each structure provides a distinct and incomplete view. Existing multi-memory systems either read ",
+    "url": "https://arxiv.org/abs/2608.10108",
+    "related": []
+  },
+  {
+    "id": "feed-b87453fdf4de",
+    "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10153v1 Announce Type: new Abstract: Enterprises are deploying autonomous AI agents faster than they can govern them, and prevailing approaches stretch a single discipline, typically DevSecOps built for deterministic automation, across every scale of agency. We argue that agentic AI governance is four problems, not one, each with a mature governing science. The CASE framework assigns Control theory to the ",
+    "url": "https://arxiv.org/abs/2608.10153",
+    "related": []
+  },
+  {
+    "id": "feed-d0f0400bd413",
+    "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10157v1 Announce Type: new Abstract: Self-improving agents seek to reduce the human engineering effort behind AI systems by enabling them to evolve and self-improve their performance over time. Recently, methods like the Darwin G\\\"odel Machine and the Huxley G\\\"odel Machine have been proposed which enable open-ended, recursive self-improvement through self-reference where a coding agent edits its own code.",
+    "url": "https://arxiv.org/abs/2608.10157",
+    "related": []
+  },
+  {
+    "id": "feed-4f1f70320205",
+    "title": "Generating Attacks for LLMs with GFlowNets",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.10171v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has facilitated their ubiquitous integration into various domains, leading to widespread adoption. However, this escalating trend has introduced significant security vulnerabilities, necessitating the identification and mitigation of flaws arising from malicious exploitation. Red teaming assessments, conducted to eva",
+    "url": "https://arxiv.org/abs/2608.10171",
+    "related": []
+  },
+  {
+    "id": "feed-2affa4d7f1cc",
+    "title": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10176v1 Announce Type: new Abstract: Public service chatbots are expected to deliver recommendations from an underlying public service directory, while also making sure that the recommendations respect explicit user constraints. In practice, public service directories are noisy and inconsistent, and general-purpose large language model (LLM) or AI-based chatbots frequently generate unreliable recommendatio",
+    "url": "https://arxiv.org/abs/2608.10176",
+    "related": []
+  },
+  {
+    "id": "feed-d8145320a82c",
+    "title": "Post-Hoc Sparse Coding of Latent Communication Between Vision-Language Model Agents",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.10198v1 Announce Type: new Abstract: Latent-space communication allows heterogeneous vision-language model agents to exchange continuous representations without serializing visual and reasoning states into text. Vision Wormhole realizes this approach by translating visual features into a universal latent representation that can be consumed by another model, but every message is transported as a dense tenso",
+    "url": "https://arxiv.org/abs/2608.10198",
+    "related": []
+  },
+  {
+    "id": "feed-52af95df3a00",
+    "title": "Edge Phoneme Recognition for Children's Speech through Age-Aware Training",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10206v1 Announce Type: new Abstract: Detecting phonemes from children's speech has historically been difficult due to the scarcity of training data, and unique characteristics of children's speech. During a phoneme detection competition, we found that training a lightweight model to predict the age of the learner, as well as the phoneme sequence, enabled a 94M-parameter model to outperform WavLM Large mode",
+    "url": "https://arxiv.org/abs/2608.10206",
+    "related": []
+  },
+  {
+    "id": "feed-b5e1dfc85d9a",
+    "title": "Mitigating Bus Bunching with Reinforcement Learning Enhanced by Semantic Stop Embedding",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10207v1 Announce Type: new Abstract: Bus bunching degrades service regularity and increases passenger waiting in high-frequency transit. Existing reinforcement-learning-based holding controllers primarily rely on instantaneous operational variables or route-specific stop identifiers, which provide limited information about the functional and operational context of individual stops and constrain policy reus",
+    "url": "https://arxiv.org/abs/2608.10207",
+    "related": []
+  },
+  {
+    "id": "feed-537c0889f7ca",
+    "title": "Evaluation-Conditioned Training: Teaching Models to Generalize to Stronger Oversight Regimes",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.10209v1 Announce Type: new Abstract: Feedback signals used to train Large Language Models (LLMs) are the primary driver of their behavior and our main lever for instilling alignment with human values and objectives. However, a key limitation of current post-training methods is the inability of human annotators and automated reward functions to faithfully capture the feedback we would like to give. We intro",
+    "url": "https://arxiv.org/abs/2608.10209",
+    "related": []
+  },
+  {
+    "id": "feed-f840d0b05069",
+    "title": "Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.10214v1 Announce Type: new Abstract: Do large language models contain domain-specific parametric shells: concentrated, causally necessary neuron populations whose removal selectively degrades a target domain while sparing others? We apply a uniform causal methodology across two domain granularities, three model families (1.5B to 7B parameters), and eight domains. At the academic subject level, zero neurons",
+    "url": "https://arxiv.org/abs/2608.10214",
+    "related": []
+  },
+  {
+    "id": "feed-3ea26a0ca443",
+    "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.10218v1 Announce Type: new Abstract: AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction. One such risk is the spread of mind viruses: ideas or goals that propagate through multi-agent systems by inducing the agents that adopt them to transmit them onward. In addition to propagating, a mind virus may also induce",
+    "url": "https://arxiv.org/abs/2608.10218",
+    "related": []
+  },
+  {
+    "id": "feed-814c400941eb",
+    "title": "Self-evolving Agentic Customer Support System at LinkedIn",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10224v1 Announce Type: new Abstract: Enterprise support agents operate in rapidly changing environments where policies, product capabilities, and knowledge bases evolve continuously, making static assistants brittle and costly to maintain. We present LinkedIn's self-evolving agentic support system, which integrates retrieval-augmented generation with evolutionary auto-prompting and a modular, production-al",
+    "url": "https://arxiv.org/abs/2608.10224",
+    "related": []
+  },
+  {
+    "id": "feed-d120c2fef159",
+    "title": "Beyond Decision Boundaries: Relational Geometry Attacks on Contrastive Embedding Manifolds",
+    "source": "arXiv AI",
+    "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.10237v1 Announce Type: new Abstract: Contrastive learning and Siamese embedding models have become the foundation of modern verification systems, where decisions are governed not by discrete classification boundaries, but by relational geometry in embedding space. However, existing adversarial attacks remain fundamentally classification-centric, overlooking the vulnerability of relational geometry. In this",
+    "url": "https://arxiv.org/abs/2608.10237",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -47,6 +247,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI",
+    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "category": "MODELS",
+    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "related": []
   },
   {
@@ -107,6 +317,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "source": "OpenAI",
+    "date": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "related": []
   },
   {
