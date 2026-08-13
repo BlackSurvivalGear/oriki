@@ -20,6 +20,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e43158037a35",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "source": "Hugging Face",
+    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "related": []
+  },
+  {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -50,6 +70,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI",
+    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "category": "MODELS",
+    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -67,6 +97,206 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-c6693bb7de7b",
+    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversation terminates without achieving either agent's stated objective. This paper asks whether a control-theoretic governance ",
+    "url": "https://arxiv.org/abs/2608.11207",
+    "related": []
+  },
+  {
+    "id": "feed-1465369cd462",
+    "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors from scientific literature is slow and needs both domain and statistical expertise. We present \\textbf{Distribird}, an agent",
+    "url": "https://arxiv.org/abs/2608.11210",
+    "related": []
+  },
+  {
+    "id": "feed-6e2366612b68",
+    "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track's partial-credit metric. Our verifiable contributions are: (1) an exhaustive proof that no circulant graph on $\\mathbb{Z}/99$ satisfies more than $33",
+    "url": "https://arxiv.org/abs/2608.11211",
+    "related": []
+  },
+  {
+    "id": "feed-b0cc76aea7c7",
+    "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. This paper proposes no new mitigation; it supplies a causal apparatus, empirical findings, and a detection-limit result. A",
+    "url": "https://arxiv.org/abs/2608.11212",
+    "related": []
+  },
+  {
+    "id": "feed-894259dbee4c",
+    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a statistical-physics observation into a method: replace each LLM agent by a low-parameter model fitted",
+    "url": "https://arxiv.org/abs/2608.11215",
+    "related": []
+  },
+  {
+    "id": "feed-1c969e239885",
+    "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal testbed for AI coding agents acting as autonomous researchers--a setting in which the improvement direction is not specified in advance, unlike the engineering-to-spec tas",
+    "url": "https://arxiv.org/abs/2608.11216",
+    "related": []
+  },
+  {
+    "id": "feed-ba685ce1e799",
+    "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11218v1 Announce Type: new Abstract: Independent agents that reason in latent space can share computed state as key-value cache fragments rather than text. Merged by a conflict-free replicated data type, these fragments form a store that converges under any delivery order or duplication. Yet a later query, unknown at encode time, cannot reliably read the merged cache: colocated fragments interfere, so colo",
+    "url": "https://arxiv.org/abs/2608.11218",
+    "related": []
+  },
+  {
+    "id": "feed-89c195fa3006",
+    "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11219v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO method that decomposes prompts into role, context, tasks, and output format, then applies targeted improvements based on top-5 and bottom-5 examples. The optimization loop uses one LLM with static meta-pro",
+    "url": "https://arxiv.org/abs/2608.11219",
+    "related": []
+  },
+  {
+    "id": "feed-8c87f4a27f3b",
+    "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.11220v1 Announce Type: new Abstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&ID) is predominantly performed manually. Applying artificial intelligence in the task could potentially lead not only to process automation and time savings, but also to financial gains by exploring numerous diagram's topology options and",
+    "url": "https://arxiv.org/abs/2608.11220",
+    "related": []
+  },
+  {
+    "id": "feed-5dcd8fa6a7d4",
+    "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11221v1 Announce Type: new Abstract: Cyber-physical systems (CPS) are typically developed by multiple stakeholders who produce artefacts tailored to their specific domains of expertise. The behaviour of these systems emerges from the interaction between those artefacts and their operational environment. Simulation and co-simulation have become essential approaches for analysing CPS behaviour and, through s",
+    "url": "https://arxiv.org/abs/2608.11221",
+    "related": []
+  },
+  {
+    "id": "feed-004fb0c8a699",
+    "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11224v1 Announce Type: new Abstract: Materials research advances through accumulated experience - scripts that work, protocols that are trusted, warnings attached to failed calculations or experiments, and judgement that links a new question to an old result. This experience is essential for reproducibility and knowledge transfer, yet it is usually fragmented across notebooks, repositories, job logs and in",
+    "url": "https://arxiv.org/abs/2608.11224",
+    "related": []
+  },
+  {
+    "id": "feed-cd1ae41480d1",
+    "title": "Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11225v1 Announce Type: new Abstract: AI \"personality clones\" force a re-examination of personal identity in operational terms. Setting aside the hard problem of consciousness, we approach identity through the indiscernibility of manifestations, as assessed by an observer over a duration. We distinguish three criteria that \"identity\" conflates: fidelity to a target person, generic human-likeness, and indivi",
+    "url": "https://arxiv.org/abs/2608.11225",
+    "related": []
+  },
+  {
+    "id": "feed-4b40897275ed",
+    "title": "Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.11226v1 Announce Type: new Abstract: Reinforcement-learning post-training dominates modern language-model development, yet its power behavior on GPU hardware has not been characterized, and datacenters manage GPU power with workload-blind mechanisms, static caps and reactive throttling, that slow hardware indiscriminately. We instrument GRPO training with half-second power telemetry at 7B, 14B, and 72B sca",
+    "url": "https://arxiv.org/abs/2608.11226",
+    "related": []
+  },
+  {
+    "id": "feed-fc80049293d1",
+    "title": "Forecasting Side Effects of Activation Steering",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11227v1 Announce Type: new Abstract: Activation steering modifies a language model by adding a learned direction to its hidden activations, enabling targeted behavioral changes without retraining. While effective, steering often produces unintended side effects on other behaviors, making it difficult to deploy safely. We therefore ask: can these side effects be forecasted before steering is applied? We ans",
+    "url": "https://arxiv.org/abs/2608.11227",
+    "related": []
+  },
+  {
+    "id": "feed-1ddd7768e0e0",
+    "title": "Synchronizing Beliefs with Second-Order Theory-of-Mind in Human-Autonomy Teams (Extended Version)",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11229v1 Announce Type: new Abstract: Comparative feedback, asking people which of two behaviors they prefer, has become a standard way to align robot and agent behavior with human intent when the reward itself cannot be specified directly. Preference-based reward learning typically casts the human teacher as a passive oracle answering learner-generated queries. We argue this forfeits the teacher's defining",
+    "url": "https://arxiv.org/abs/2608.11229",
+    "related": []
+  },
+  {
+    "id": "feed-d4e7de6aff59",
+    "title": "The Edge-based Contiguous p-median Problem with Connections to Logistics Districting",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11230v1 Announce Type: new Abstract: This paper introduces the edge-based contiguous p-median (ECpM) problem to partition the roads in a network into a given number of compact and contiguous territories. Two binary programming models are introduced, both of which incorporate a network distance. The first model requires an exponential number of cut set-based constraints to model contiguity; it is paired wit",
+    "url": "https://arxiv.org/abs/2608.11230",
+    "related": []
+  },
+  {
+    "id": "feed-6edb35e175fd",
+    "title": "LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.11231v1 Announce Type: new Abstract: LLM serving is increasingly accelerated by position-independent caching (PIC). Existing PIC methods, however, are built for full-attention models, where a token-indexed KV cache underlies its core operations: matching reusable token chunks, concatenating their KV entries, and selectively recomputing a few tokens to restore cross-chunk context. Hybrid LLMs break these pr",
+    "url": "https://arxiv.org/abs/2608.11231",
+    "related": []
+  },
+  {
+    "id": "feed-d13fece859df",
+    "title": "InfraBench: Evaluating Infrastructure Agents Across Layers, Lifecycle, and Risk",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11234v1 Announce Type: new Abstract: Managing modern computing infrastructure has become a steadily harder problem due to the ever-increasing complexity. Recent advances in AI agents create a timely opportunity to automate infrastructure management tasks, but it remains unclear how well such agents can handle real-world infrastructure complexity. We present InfraBench, a benchmark suite for evaluating AI a",
+    "url": "https://arxiv.org/abs/2608.11234",
+    "related": []
+  },
+  {
+    "id": "feed-1bfcd72a2e21",
+    "title": "CORA-Diff: Confidence-Oriented Residual Acceptance for Efficient Diffusion Language Model Inference",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.11235v1 Announce Type: new Abstract: Diffusion language models (DLMs) update many tokens in parallel, yet practical decoders often use a fixed denoising horizon. Many predictions stabilize early, but blockwise decoding continues until all positions are resolved, causing repeated dense forward passes. Existing accelerators often rely on learned filters, modified scores, dependency models, or cache-specific ",
+    "url": "https://arxiv.org/abs/2608.11235",
+    "related": []
+  },
+  {
+    "id": "feed-a58af992ba8c",
+    "title": "Geometry-aware Incremental Neural Operator for Long-Horizon PDE prediction",
+    "source": "arXiv AI",
+    "date": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.11237v1 Announce Type: new Abstract: Neural operators have shown strong potential for learning solution operators of partial differential equations (PDEs). However, long-horizon autoregressive prediction remains challenging: local errors accumulate as spectral inconsistency, phase misalignment, or mean drift. Existing methods mainly improve state representations and operator backbones, while leaving the re",
+    "url": "https://arxiv.org/abs/2608.11237",
     "related": []
   },
   {
@@ -107,6 +337,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "source": "OpenAI",
+    "date": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "related": []
   },
   {
