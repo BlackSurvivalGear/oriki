@@ -20,6 +20,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e43158037a35",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "source": "Hugging Face",
+    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "related": []
+  },
+  {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -50,6 +70,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI",
+    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "category": "MODELS",
+    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -67,6 +97,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "related": []
   },
   {
@@ -100,6 +140,206 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e2b391ce26c2",
+    "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13564v1 Announce Type: new Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Such a judge is a reward-free proxy whose value depends on whether it can be trusted, yet existing judges either hand-write the scoring rubric, as",
+    "url": "https://arxiv.org/abs/2608.13564",
+    "related": []
+  },
+  {
+    "id": "feed-b9fdaebce323",
+    "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13565v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importance of individual MoE layers remains insufficiently characterized, particularly for model compression. This paper presents a systematic layer-wise sensitivity analysis of the",
+    "url": "https://arxiv.org/abs/2608.13565",
+    "related": []
+  },
+  {
+    "id": "feed-6545ec0a4aa6",
+    "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13567v1 Announce Type: new Abstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental principle of how intelligent systems must be built, or an evolutionary accident specific to biological brains? Here, we test ",
+    "url": "https://arxiv.org/abs/2608.13567",
+    "related": []
+  },
+  {
+    "id": "feed-b2df6c64a8c7",
+    "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13573v1 Announce Type: new Abstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often observe short time periods and provide limited visibility into how users interact with models in production. As a result, ",
+    "url": "https://arxiv.org/abs/2608.13573",
+    "related": []
+  },
+  {
+    "id": "feed-b353131c2d8f",
+    "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13574v1 Announce Type: new Abstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged actions, weak auditability, prompt injection, tool poisoning, and uncontrolled side effects. This paper presents Agentao, a",
+    "url": "https://arxiv.org/abs/2608.13574",
+    "related": []
+  },
+  {
+    "id": "feed-c4bb3855ceda",
+    "title": "AI Evaluation Should Work With Humans",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13577v1 Announce Type: new Abstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and so implicitly targets the goal of replacing humans) is guiding AI development in the wrong direction. Instead, the AI community should pivot to evaluating the performance of human--AI teams. We argue that this collaborative shift will foster AI ",
+    "url": "https://arxiv.org/abs/2608.13577",
+    "related": []
+  },
+  {
+    "id": "feed-9155f66f05fb",
+    "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13591v1 Announce Type: new Abstract: High-confidence errors in large language models are often treated as evidence of fragile internal inference. We study a different possibility: stable miscalibration, where a confident wrong answer remains locally stable under small perturbations. We combine two diagnostics: a label-aware output-level audit score that ranks domains by confidence variation and overconfide",
+    "url": "https://arxiv.org/abs/2608.13591",
+    "related": []
+  },
+  {
+    "id": "feed-e9bb957a6277",
+    "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13598v1 Announce Type: new Abstract: Agent evaluation relies almost entirely on outcome metrics such as success rate, which capture whether an agent succeeds but not how consistently it behaves. We argue that behavioral consistency across tasks is a distinct and measurable property, and we introduce the Behavioral Consistency Metric (BCM) to quantify it. BCM trains a model to predict task success from beha",
+    "url": "https://arxiv.org/abs/2608.13598",
+    "related": []
+  },
+  {
+    "id": "feed-d44450b07c9c",
+    "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13604v1 Announce Type: new Abstract: Detection of misunderstanding is an urgent problem to solve because communication has moved away from real-time, in-person interaction and is increasingly handled by AI-mediated channels. This shift cuts communicators off from the resources repair depends on faster than new means of detection are being built. In this paper we analyse misunderstanding as a layered proces",
+    "url": "https://arxiv.org/abs/2608.13604",
+    "related": []
+  },
+  {
+    "id": "feed-6a58a9ea7e51",
+    "title": "Active Perception for Embodied Disambiguation",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13605v1 Announce Type: new Abstract: Natural language provides robots with a flexible task interface, but target ambiguity in embodied environments arises not only from user intent; it can also result from missing taskrelevant physical evidence in the current observation. Existing interactive disambiguation methods primarily obtain additional information by asking the user, whereas occlusion, restricted vi",
+    "url": "https://arxiv.org/abs/2608.13605",
+    "related": []
+  },
+  {
+    "id": "feed-a4418b90e74e",
+    "title": "MobileMem: Learning from a Year of Mobile Experiences",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13606v1 Announce Type: new Abstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal assistants that can understand, remember, and continuously learn from users' experiences. Such assistants require long-term memory to accumulate and leverage user-specific experiences over time, yet existing benchmarks remain inadequate for re",
+    "url": "https://arxiv.org/abs/2608.13606",
+    "related": []
+  },
+  {
+    "id": "feed-3b2e4529f26f",
+    "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13607v1 Announce Type: new Abstract: Frontier LLMs are updated frequently and typically outperform their predecessors in aggregate. But aggregate gains say little about individual samples: an update can still cause sample-level regression, where a response correct under the old model becomes incorrect under the new one. This paper studies how to predict such regressions from signals available at inference ",
+    "url": "https://arxiv.org/abs/2608.13607",
+    "related": []
+  },
+  {
+    "id": "feed-0a771636ea31",
+    "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13608v1 Announce Type: new Abstract: Agentic \"Continual Learning Harnesses\", systems that pair an LLM with retrieval or memory to improve from feedback without retraining, have shown growing value in cybersecurity. But their value is conventionally measured by gains against labeled benchmarks, an approach that often fails in operational security settings. Benchmark labels are scarce, stale, and unrepresent",
+    "url": "https://arxiv.org/abs/2608.13608",
+    "related": []
+  },
+  {
+    "id": "feed-7d1d109c08eb",
+    "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13612v1 Announce Type: new Abstract: Natural-language interfaces to enterprise data must translate underspecified requests into governed, executable behavior while controlling invalid queries, policy failures, cost, and nondeterminism. SemPlan Benchmark evaluates this architectural design space with a deterministic synthetic bilingual benchmark containing 1,800 cases in English and Brazilian Portuguese; 1,",
+    "url": "https://arxiv.org/abs/2608.13612",
+    "related": []
+  },
+  {
+    "id": "feed-0b460cc3a8a9",
+    "title": "How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13617v1 Announce Type: new Abstract: Verifying whether clinical care follows evidence-based protocols is a natural neuro-symbolic problem, yet the safety-critical setting defeats either paradigm alone. We present an expert-guided pipeline that constrains a large language model strictly to semantic normalization, mapping messy drug and microbiology strings onto a fixed clinical vocabulary, while a Sugeno fu",
+    "url": "https://arxiv.org/abs/2608.13617",
+    "related": []
+  },
+  {
+    "id": "feed-de3f4df39fd6",
+    "title": "Algorithm Design and Physician Liability",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13618v1 Announce Type: new Abstract: A single clinical algorithm can deliver unequal accuracy across patient groups, and concern about such disparity has grown as artificial intelligence (AI) spreads through clinical decision-making. In response, a liability rule introduced in the United States holds healthcare providers responsible when their reliance on disparate algorithms contributes to erroneous clini",
+    "url": "https://arxiv.org/abs/2608.13618",
+    "related": []
+  },
+  {
+    "id": "feed-c1b3c5b0b22c",
+    "title": "Your Probabilistic JEPA Is Secretly a Hidden Markov Model: A State-Space Interpretation of Joint-Embedding Predictive Learning",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.13621v1 Announce Type: new Abstract: A hidden Markov model (HMM) combines three roles: inference of a hidden-state belief from observations, propagation through a Markov transition, and emission back to observation space. We show that full, time-indexed Predictive Information Bottleneck VJEPA (PIB-VJEPA) exposes the same computational structure: a stochastic context encoder plays the role of an amortized f",
+    "url": "https://arxiv.org/abs/2608.13621",
+    "related": []
+  },
+  {
+    "id": "feed-e828bb66879c",
+    "title": "ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13622v1 Announce Type: new Abstract: Open-ended real-world interaction admits multiple valid behaviors: an agent may answer directly, ask for clarification, provide progress updates, or confirm before acting. This flexibility breaks a core assumption behind group-based RL: rollouts compared within a group are no longer guaranteed to be behaviorally comparable. As a result, reward-model preferences over int",
+    "url": "https://arxiv.org/abs/2608.13622",
+    "related": []
+  },
+  {
+    "id": "feed-d1d2483e0526",
+    "title": "Reward Machines for Signal Temporal Logic",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13625v1 Announce Type: new Abstract: Signal temporal logic (STL) provides a formal language for specifying real-time properties of real-valued observations, along with a quantitative robustness score for monitoring satisfaction. Control synthesis from STL specifications is of interest since manual controller design becomes infeasible as real-world systems grow in complexity. Moreover, many modern autonomou",
+    "url": "https://arxiv.org/abs/2608.13625",
+    "related": []
+  },
+  {
+    "id": "feed-80b6caae9ea6",
+    "title": "A Calibrated Test of Internal Action Maps: State Signals Without Global Affine Closure",
+    "source": "arXiv AI",
+    "date": "Mon, 17 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.13626v1 Announce Type: new Abstract: A hidden state signal can be decodable or causally usable without supporting a reusable action map. We test whether action maps fitted without a source reach its natural post-action activation and compose. We organize the tests as an evidence lattice and validate the geometric branch on a known affine S_5 carrier: all held-source folds pass one-step, composition, invers",
+    "url": "https://arxiv.org/abs/2608.13626",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -107,6 +347,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "source": "OpenAI",
+    "date": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "related": []
   },
   {
