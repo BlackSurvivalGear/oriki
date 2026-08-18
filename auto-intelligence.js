@@ -26,7 +26,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-18",
     "slug": "gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cy"
   },
   {
@@ -41,7 +41,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-18",
     "slug": "gemini-3-5-flash-cyber"
   },
   {
@@ -56,7 +56,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-18",
     "slug": "computer-use-in-gemini-3-5-flash"
   },
   {
@@ -71,7 +71,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-18",
     "slug": "investing-in-multi-agent-ai-safety-research"
   },
   {
@@ -86,7 +86,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-18",
     "slug": "gemma-4-12b"
   },
   {
@@ -101,7 +101,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "status": "AUTO-DETECTED",
     "source": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-18",
     "slug": "nvidia-cosmos-h-dreams"
   },
   {
@@ -116,7 +116,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "status": "AUTO-DETECTED",
     "source": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-18",
     "slug": "anatomy-of-a-frontier-lab-agent-intrusion"
   },
   {
@@ -133,5 +133,50 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "source": "https://huggingface.co/blog/real-world-voiceeq",
     "detectedDate": "2026-08-09",
     "slug": "real-world-voiceeq"
+  },
+  {
+    "id": "auto-b274e00978a8",
+    "name": "DAYBREAK MODELS ARE NOW AVAILABLE ON AWS",
+    "provider": "OpenAI",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "status": "AUTO-DETECTED",
+    "source": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "detectedDate": "2026-08-18",
+    "slug": "daybreak-models-are-now-available-on-aws"
+  },
+  {
+    "id": "auto-068e562e0512",
+    "name": "GEMINI 3.7 FLASH",
+    "provider": "Google DeepMind",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing Gemini 3.7 Flash",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "status": "AUTO-DETECTED",
+    "source": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "detectedDate": "2026-08-18",
+    "slug": "gemini-3-7-flash"
+  },
+  {
+    "id": "auto-e43158037a35",
+    "name": "OLMOEARTH EMBEDDINGS",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "detectedDate": "2026-08-18",
+    "slug": "olmoearth-embeddings"
   }
 ];
