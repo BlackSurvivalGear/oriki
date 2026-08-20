@@ -10,6 +10,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-9ac0643f2427",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "source": "OpenAI",
+    "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "url": "https://openai.com/index/replit",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -17,6 +27,26 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "",
     "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "related": []
+  },
+  {
+    "id": "feed-e43158037a35",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "source": "Hugging Face",
+    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "related": []
+  },
+  {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "related": []
   },
   {
@@ -40,6 +70,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-67f37d861d34",
+    "title": "Strengthening democratic oversight in national security",
+    "source": "OpenAI",
+    "date": "Tue, 18 Aug 2026 19:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "related": []
+  },
+  {
+    "id": "feed-5ce8103476b1",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "source": "Hugging Face",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "related": []
+  },
+  {
+    "id": "feed-01003c6680bc",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "source": "OpenAI",
+    "date": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "category": "MODELS",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "related": []
+  },
+  {
     "id": "feed-12ceb5f0dc7b",
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "source": "Google DeepMind",
@@ -47,6 +107,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI",
+    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "category": "MODELS",
+    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "related": []
   },
   {
@@ -67,6 +137,216 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-e089793486ec",
+    "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and ",
+    "url": "https://arxiv.org/abs/2608.18078",
+    "related": []
+  },
+  {
+    "id": "feed-882336789f13",
+    "title": "Position: Profiling Game Worlds by Transition Complexity",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared interface (pixels/tokens/latents with finite history). We propose the Transition Complexity Profile (TCP): a small, reproducible set of metrics that characterizes an environme",
+    "url": "https://arxiv.org/abs/2608.18079",
+    "related": []
+  },
+  {
+    "id": "feed-497d1ba976bd",
+    "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate findings from interdisciplinary studies utilizing diverse data sources such as social media posts, electronic medical recor",
+    "url": "https://arxiv.org/abs/2608.18080",
+    "related": []
+  },
+  {
+    "id": "feed-c7b6362810ca",
+    "title": "Position: Behavioral Systems Require Behavioral Tests",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the underlying behavioral processes that produce them. This paper argues that AI agents must be evaluated like other behavioral systems: through ",
+    "url": "https://arxiv.org/abs/2608.18081",
+    "related": []
+  },
+  {
+    "id": "feed-fd0281edcb38",
+    "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model repositories, existing frameworks often fail to adequately inform downstream developers and users about the distinct safety challenges posed by OW",
+    "url": "https://arxiv.org/abs/2608.18086",
+    "related": []
+  },
+  {
+    "id": "feed-c9c884bc3262",
+    "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diagnostic signal. This paper proposes a Metamorphic Artificial Age Score (AAS) decision-support prototype for flight-log-based drone propeller health monitoring. Using selected historical real flight log",
+    "url": "https://arxiv.org/abs/2608.18088",
+    "related": []
+  },
+  {
+    "id": "feed-141a7382e12d",
+    "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently read and write shared state, and long LLM inference windows amplify the risk of stale reads, lost updates, and inconsistent outcomes. Failure",
+    "url": "https://arxiv.org/abs/2608.18092",
+    "related": []
+  },
+  {
+    "id": "feed-85af9cef9667",
+    "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct computational inputs, invoke specialized methods, and produce auditable structured outputs. We introduce FinSkillBench, an evaluation suite designed to measure whether language model agents can effec",
+    "url": "https://arxiv.org/abs/2608.18099",
+    "related": []
+  },
+  {
+    "id": "feed-d971ce07b1ad",
+    "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18104v1 Announce Type: new Abstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate with other agents. These capabilities make agent states structural and dynamic: entities, relations, attributes, dependencies, and execution structures change with new evi",
+    "url": "https://arxiv.org/abs/2608.18104",
+    "related": []
+  },
+  {
+    "id": "feed-0ed6fd04bad7",
+    "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18110v1 Announce Type: new Abstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to enable rapid transformation across various domains.This rapid advancement and the potential to revolutionize various domains advocate the need for a deeper understanding and firm grasp of the technology. Moreover, an investigation into state of",
+    "url": "https://arxiv.org/abs/2608.18110",
+    "related": []
+  },
+  {
+    "id": "feed-98c3ec5cbef6",
+    "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.18111v1 Announce Type: new Abstract: Foundation models such as GPT and Claude now solve olympiad-level mathematics with remarkable proficiency, so much so that geometry problem solving has become a standard proxy for their mathematical reasoning. Yet solving a geometry problem and drawing the figure it depends on are not the same skill: progress often hinges on a faithful diagram with the right auxiliary c",
+    "url": "https://arxiv.org/abs/2608.18111",
+    "related": []
+  },
+  {
+    "id": "feed-d6cfd8b921f7",
+    "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18117v1 Announce Type: new Abstract: This position paper argues that AI leaderboards are structurally ill-suited to serving the Global South because they lack independent governance, conflict-of-interest policies, and mechanisms for metric evolution. The barrier is not missing data; high-quality regional benchmarks already exist: IndicSUPERB, MILU, and LAHAJA for India; IrokoBench for Africa; AlGhafa for A",
+    "url": "https://arxiv.org/abs/2608.18117",
+    "related": []
+  },
+  {
+    "id": "feed-2aed53d79134",
+    "title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.18131v1 Announce Type: new Abstract: Current safety alignment training for Large Language Models (LLMs) are heavily English-centric. When such safety filters fail for non-English languages, the consequences are immediate and user-facing: voice assistants and spoken dialogue systems may produce stereotype-reinforcing outputs, bypassing the standard English-focused safety alignments and propagating harmful b",
+    "url": "https://arxiv.org/abs/2608.18131",
+    "related": []
+  },
+  {
+    "id": "feed-c7a251d79721",
+    "title": "Optimized Fuzzy Logic Approach with the IEEE Key Gas Method for Diagnosing Power Transformer Faults Using Dissolved Gas Analysis",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18133v1 Announce Type: new Abstract: Reliable transformer fault diagnosis is essential for maintaining power system stability. The IEEE Key Gas Method (KGM), a widely utilized approach in Dissolved Gas Analysis (DGA), exhibits limitations in addressing ambiguous data and ensuring high diagnostic accuracy. This study presents An enhanced model combining Fuzzy Logic with the IEEE Key Gas Method (FL-KGM) that",
+    "url": "https://arxiv.org/abs/2608.18133",
+    "related": []
+  },
+  {
+    "id": "feed-84c717c694b3",
+    "title": "Improving Rural Medication Safety with AI: A Scoping Review",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18135v1 Announce Type: new Abstract: Introduction: Medication errors (MEs) represent a significant threat to global healthcare systems, contributing to patient harm. Introducing artificial intelligence (AI) in rural healthcare enhances patient safety. The aim is to explore the applications and effectiveness of AI technologies in enhancing patient safety and reducing medication errors in rural health settin",
+    "url": "https://arxiv.org/abs/2608.18135",
+    "related": []
+  },
+  {
+    "id": "feed-92bd481e757b",
+    "title": "FraudBench: Stress-Testing Policy-Grounded Banking Agents Against Adaptive Fraud",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18136v1 Announce Type: new Abstract: Conversational agents now act for end users through tools while holding access to customer databases and internal policy documents that a caller can reach through dialogue alone. Banking is the clearest case: the same agent that answers a question can also change contact details, reset a PIN, or move money, so ordinary customer service is inseparable from authorization,",
+    "url": "https://arxiv.org/abs/2608.18136",
+    "related": []
+  },
+  {
+    "id": "feed-0481b36fc357",
+    "title": "Efficient Adaptation of LLMs for Hate Speech Detection in Low-Resource Languages: A Comparative Study on Roman Urdu",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.18142v1 Announce Type: new Abstract: It is challenging to detect hate speech in Low Resource Languages (LRLs) because of the absence of annotated data, the informality of its language structure, and the lack of standardized grammar. A good example of such a challenge is Roman Urdu which is broadly used by South Asians on social media and has a high variation while lacking contextually consistent spellings.",
+    "url": "https://arxiv.org/abs/2608.18142",
+    "related": []
+  },
+  {
+    "id": "feed-234668703120",
+    "title": "RDFdL: Integrating RDF with Differential Dynamic Logic",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18165v1 Announce Type: new Abstract: Knowledge graphs modeled in RDF are powerful for describing static knowledge, but they cannot capture or reason about the dynamic behavior of physical systems, e.g., systems described by differential equations, which is a critical gap for AI-driven cyber-physical systems. To solve this, we propose RDFdL, a framework that integrates RDF with Differential Dynamic Logic (d",
+    "url": "https://arxiv.org/abs/2608.18165",
+    "related": []
+  },
+  {
+    "id": "feed-a3d231dbc1f0",
+    "title": "Adversarial Review: Structured Disagreement for Grounded Agentic Code Review",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2608.18167v1 Announce Type: new Abstract: Early multi-agent LLM systems often used role-separated teams, yet scaling agent count yields diminishing returns on repository-level coding tasks. Recent alternatives treat agents as passive tools (subagents), yet this removes the benefits of agent interaction entirely. We study whether a subagent paradigm can support a middle ground: minimal agentic cooperation withou",
+    "url": "https://arxiv.org/abs/2608.18167",
+    "related": []
+  },
+  {
+    "id": "feed-082dc5a4d8fa",
+    "title": "Looped Language Models Improve Compositional Tool Calling",
+    "source": "arXiv AI",
+    "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2608.18171v1 Announce Type: new Abstract: Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling settings, where models must coordinate multiple API calls, maintain intermediate state, and preserve dependencies across tool interactions. We evaluate native and retrofitte",
+    "url": "https://arxiv.org/abs/2608.18171",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "related": []
   },
   {
@@ -97,6 +377,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "",
     "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "related": []
+  },
+  {
+    "id": "feed-96670aeff66e",
+    "title": "New policy ideas for the Intelligence Age",
+    "source": "OpenAI",
+    "date": "Mon, 17 Aug 2026 03:15:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "related": []
   },
   {
