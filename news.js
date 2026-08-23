@@ -10,6 +10,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-9ac0643f2427",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "source": "OpenAI",
+    "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "url": "https://openai.com/index/replit",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -17,6 +27,26 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "",
     "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "related": []
+  },
+  {
+    "id": "feed-e43158037a35",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "source": "Hugging Face",
+    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "related": []
+  },
+  {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "related": []
   },
   {
@@ -37,6 +67,36 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-67f37d861d34",
+    "title": "Strengthening democratic oversight in national security",
+    "source": "OpenAI",
+    "date": "Tue, 18 Aug 2026 19:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "related": []
+  },
+  {
+    "id": "feed-5ce8103476b1",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "source": "Hugging Face",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "related": []
+  },
+  {
+    "id": "feed-01003c6680bc",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "source": "OpenAI",
+    "date": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "category": "MODELS",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "url": "https://openai.com/index/chatgpt-for-teens",
     "related": []
   },
   {
@@ -70,6 +130,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-027379c08484",
+    "title": "Introducing AI Futures",
+    "source": "OpenAI",
+    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "related": []
+  },
+  {
+    "id": "feed-cb030de2dd94",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "source": "OpenAI",
+    "date": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "url": "https://openai.com/index/stampli",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -97,6 +187,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "",
     "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "related": []
+  },
+  {
+    "id": "feed-96670aeff66e",
+    "title": "New policy ideas for the Intelligence Age",
+    "source": "OpenAI",
+    "date": "Mon, 17 Aug 2026 03:15:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "related": []
   },
   {
