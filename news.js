@@ -10,6 +10,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-9ac0643f2427",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "source": "OpenAI",
+    "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "url": "https://openai.com/index/replit",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -17,6 +27,26 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "",
     "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "related": []
+  },
+  {
+    "id": "feed-e43158037a35",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "source": "Hugging Face",
+    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "related": []
+  },
+  {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "related": []
   },
   {
@@ -30,6 +60,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-cfc376addf8c",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "source": "OpenAI",
+    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -37,6 +77,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-67f37d861d34",
+    "title": "Strengthening democratic oversight in national security",
+    "source": "OpenAI",
+    "date": "Tue, 18 Aug 2026 19:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "related": []
+  },
+  {
+    "id": "feed-5ce8103476b1",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "source": "Hugging Face",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "related": []
   },
   {
@@ -70,6 +130,46 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-afca402187c8",
+    "title": "Introducing Intelligence Age",
+    "source": "OpenAI",
+    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "url": "https://openai.com/index/introducing-intelligence-age",
+    "related": []
+  },
+  {
+    "id": "feed-027379c08484",
+    "title": "Introducing Intelligence Age",
+    "source": "OpenAI",
+    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "related": []
+  },
+  {
+    "id": "feed-cb030de2dd94",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "source": "OpenAI",
+    "date": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "url": "https://openai.com/index/stampli",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -100,6 +200,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-df015003760c",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "source": "OpenAI",
+    "date": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "category": "MODELS",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -107,6 +217,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-0b00c80d502c",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI",
+    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "related": []
   },
   {
