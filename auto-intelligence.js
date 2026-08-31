@@ -26,7 +26,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-31",
     "slug": "gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cy"
   },
   {
@@ -41,7 +41,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-31",
     "slug": "gemini-3-5-flash-cyber"
   },
   {
@@ -56,7 +56,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-08-31",
     "slug": "computer-use-in-gemini-3-5-flash"
   },
   {
@@ -133,5 +133,110 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "source": "https://huggingface.co/blog/real-world-voiceeq",
     "detectedDate": "2026-08-09",
     "slug": "real-world-voiceeq"
+  },
+  {
+    "id": "auto-cfc376addf8c",
+    "name": "THE ADMIN PLUGIN FOR CHATGPT WORK AND CODEX",
+    "provider": "OpenAI",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "status": "AUTO-DETECTED",
+    "source": "https://openai.com/index/introducing-admin-plugin",
+    "detectedDate": "2026-08-31",
+    "slug": "the-admin-plugin-for-chatgpt-work-and-codex"
+  },
+  {
+    "id": "auto-afca402187c8",
+    "name": "INTELLIGENCE AGE",
+    "provider": "OpenAI",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "url": "https://openai.com/index/introducing-intelligence-age",
+    "status": "AUTO-DETECTED",
+    "source": "https://openai.com/index/introducing-intelligence-age",
+    "detectedDate": "2026-08-31",
+    "slug": "intelligence-age"
+  },
+  {
+    "id": "auto-027379c08484",
+    "name": "INTELLIGENCE AGE",
+    "provider": "OpenAI",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "status": "AUTO-DETECTED",
+    "source": "https://openai.com/index/introducing-ai-futures",
+    "detectedDate": "2026-08-31",
+    "slug": "intelligence-age"
+  },
+  {
+    "id": "auto-cb030de2dd94",
+    "name": "STAMPLI CUTS LAUNCH HOURS BY 68% USING CHATGPT WORK",
+    "provider": "OpenAI",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "url": "https://openai.com/index/stampli",
+    "status": "AUTO-DETECTED",
+    "source": "https://openai.com/index/stampli",
+    "detectedDate": "2026-08-31",
+    "slug": "stampli-cuts-launch-hours-by-68-using-chatgpt-wo"
+  },
+  {
+    "id": "auto-068e562e0512",
+    "name": "GEMINI 3.7 FLASH",
+    "provider": "Google DeepMind",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing Gemini 3.7 Flash",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "status": "AUTO-DETECTED",
+    "source": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "detectedDate": "2026-08-31",
+    "slug": "gemini-3-7-flash"
+  },
+  {
+    "id": "auto-5ce8103476b1",
+    "name": "HOW MUCH MEMORY DOES YOUR AGENT ACTUALLY NEED?",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "detectedDate": "2026-08-31",
+    "slug": "how-much-memory-does-your-agent-actually-need"
+  },
+  {
+    "id": "auto-e43158037a35",
+    "name": "OLMOEARTH EMBEDDINGS",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "detectedDate": "2026-08-31",
+    "slug": "olmoearth-embeddings"
   }
 ];
