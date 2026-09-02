@@ -20,6 +20,26 @@
     "related": []
   },
   {
+    "id": "feed-e43158037a35",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "source": "Hugging Face",
+    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "related": []
+  },
+  {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -30,6 +50,216 @@
     "related": []
   },
   {
+    "id": "feed-98deee859b1d",
+    "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serialization structure remains underexplored. We present HyperWorld, a controlled study of state serialization for learned textual world models. We compar",
+    "url": "https://arxiv.org/abs/2609.00002",
+    "related": []
+  },
+  {
+    "id": "feed-83711c63bda9",
+    "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.00003v1 Announce Type: new Abstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine unlearning, the unintended degradation of semantically related concepts that should have been retained (henceforth, interference) remains poorly characterized and inconsistently evaluated. This paper",
+    "url": "https://arxiv.org/abs/2609.00003",
+    "related": []
+  },
+  {
+    "id": "feed-dd5260340c29",
+    "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.00004v1 Announce Type: new Abstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must be satisfied no later than its deadline. The proposed model makes production and allocation decisions at the demand level, allowing it to repre",
+    "url": "https://arxiv.org/abs/2609.00004",
+    "related": []
+  },
+  {
+    "id": "feed-f3b92b154803",
+    "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.00005v1 Announce Type: new Abstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversational turns that begin with impersonation or casual contact, escalate through trust building and urgency, and culminate in requests for sensitive information or financial transfers. Because risk signals emerge in",
+    "url": "https://arxiv.org/abs/2609.00005",
+    "related": []
+  },
+  {
+    "id": "feed-d137c9659b05",
+    "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows sharply with length. Existing agentic benchmarks report end-to-end success but confound this state-tr",
+    "url": "https://arxiv.org/abs/2609.00012",
+    "related": []
+  },
+  {
+    "id": "feed-35d900d158e5",
+    "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environment. In such settings, safety becomes a system-level action-governance problem: deciding whether concrete agent-generated actions should be com",
+    "url": "https://arxiv.org/abs/2609.00015",
+    "related": []
+  },
+  {
+    "id": "feed-26af2105f4df",
+    "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.00018v1 Announce Type: new Abstract: Computer science papers rely heavily on diagrams: architecture drawings, system flowcharts, and pipeline schematics that often carry more information than the text around them. There is currently no public dataset that pairs this specific kind of figure with captions, context, questions, answers, and step-by-step reasoning, which is exactly what is needed to train a vis",
+    "url": "https://arxiv.org/abs/2609.00018",
+    "related": []
+  },
+  {
+    "id": "feed-0c1c99f3c1a3",
+    "title": "UI-Venus-2 Technical Report",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00028v1 Announce Type: new Abstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applications remains challenging due to limited environment coverage, brittle task construction, and unreliable reward verification. In this work, we present UI-Venus-2, a general-purpose foundation GUI agent d",
+    "url": "https://arxiv.org/abs/2609.00028",
+    "related": []
+  },
+  {
+    "id": "feed-8d489379a80d",
+    "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00032v1 Announce Type: new Abstract: Mathematical communities work with different objects, invariants, and tools, so transferring a problem across them is expensive and often skipped. We present EULER, a multi-agent system that takes such a transfer--a bridge--as its unit of search. Around a fixed conjecture, EULER runs direct, adjacent-domain, and distant-domain routes in competition; a bridge keeps its b",
+    "url": "https://arxiv.org/abs/2609.00032",
+    "related": []
+  },
+  {
+    "id": "feed-476edcd82e2c",
+    "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00071v1 Announce Type: new Abstract: Prediction error is widely used to evaluate nuisance-function estimators in causal inference, but its relationship with causal estimator performance may differ across performance measures. We studied this question in a partially linear model using Monte Carlo simulations. We compared ordinary least squares (OLS), generalized additive models (GAMs), XGBoost, and Double M",
+    "url": "https://arxiv.org/abs/2609.00071",
+    "related": []
+  },
+  {
+    "id": "feed-312f1e1a1148",
+    "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00073v1 Announce Type: new Abstract: Malaria remains a significant global health burden, necessitating continuous research efforts to understand its complex molecular mechanisms, epidemiology, and potential therapeutic interventions. Extracting essential biomedical information from the vast and constantly growing malaria literature is a challenging task that demands innovative approaches. Recently, pre-tra",
+    "url": "https://arxiv.org/abs/2609.00073",
+    "related": []
+  },
+  {
+    "id": "feed-f6cb480f936b",
+    "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00076v1 Announce Type: new Abstract: Clinical artificial intelligence is increasingly embedded in real-world care, yet existing safety mechanisms are poorly suited to reconstructing and learning from individual AI-related errors and near-misses. Aggregate model monitoring can identify performance changes, and traditional patient safety reporting can capture adverse events, but neither is designed to explai",
+    "url": "https://arxiv.org/abs/2609.00076",
+    "related": []
+  },
+  {
+    "id": "feed-4210a65db609",
+    "title": "Different representation learning objectives recover distinct latent structures from the same psychometric data",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00100v1 Announce Type: new Abstract: Psychometric questionnaires contain rich item-level information, yet it remains unclear whether different representation learning objectives recover the same latent organization. We investigated this question using 757 matched teacher-child pairs from the baseline assessment of the Cyprus ProW preschool trial. Behavioral structure was characterized from child SDQ, ASBI,",
+    "url": "https://arxiv.org/abs/2609.00100",
+    "related": []
+  },
+  {
+    "id": "feed-42e867bb9487",
+    "title": "Deploying and Evaluating a Smart-Agriculture Agentic Engine for Full-Season Soybean Farm Operations",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00106v1 Announce Type: new Abstract: This paper presents FAIRY, a full-stack smart-agriculture agent system developed for and deployed to an operating soybean research farm at Harbin Institute of Technology's smart-agriculture site. We develop FAIRY to execute and evaluate agentic agronomic operations on full-season spatiotemporal workflows that span ridge preparation, planting, irrigation, fertilization, ",
+    "url": "https://arxiv.org/abs/2609.00106",
+    "related": []
+  },
+  {
+    "id": "feed-6f616e0bee96",
+    "title": "Recursive Criticality of AI Self-Improvement",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00137v1 Announce Type: new Abstract: AI is increasingly used in the R\\&D process that produces future AI systems. We study the conditions under which this feedback becomes self-amplifying. Our model describes how the rate of AI capability growth depends on baseline research productivity, recursive feedback, and the increasing difficulty of research progress. We derive a recursive reproduction number, $\\mat",
+    "url": "https://arxiv.org/abs/2609.00137",
+    "related": []
+  },
+  {
+    "id": "feed-7f656816e156",
+    "title": "IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.00161v1 Announce Type: new Abstract: World models have made remarkable progress in action-conditioned future prediction for embodied agents, yet still struggle to model physically plausible interactions. Existing approaches address this limitation by constraining the generation process with external representations encoding motion, geometry, or semantics. Obtaining these spatiotemporally dense representati",
+    "url": "https://arxiv.org/abs/2609.00161",
+    "related": []
+  },
+  {
+    "id": "feed-334bbdfbcb56",
+    "title": "Asymmetries in Spontaneous and Instructed Deception",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00180v1 Announce Type: new Abstract: Large language models sometimes deceive users without being instructed to. However, much of the study on deception in models involves instructed deception. We investigated the relationship between instructed and spontaneous (uninstructed) deception in Llama-3.1-70B-Instruct. We compared these two deception settings through direction geometry, cross-setting classifiers, ",
+    "url": "https://arxiv.org/abs/2609.00180",
+    "related": []
+  },
+  {
+    "id": "feed-f7f336d6da19",
+    "title": "LLM-Driven Autonomous Vehicles Inherit Human Driver Biases in Pedestrian Yielding: Results and Implications From A New Benchmark",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.00192v1 Announce Type: new Abstract: Public trust in Autonomous Vehicles (AVs) may depend not only on technical success but also on the fairness of their decision making. While a recent trend in AV research involves using general purpose \"common sense\" models to guide AV decision making, the degree to which these inherit human biases in driving is still understudied. Given that psychology studies have show",
+    "url": "https://arxiv.org/abs/2609.00192",
+    "related": []
+  },
+  {
+    "id": "feed-12bc7ffee4af",
+    "title": "ReDeck: Step-Level Render-Grounded Refinement for Document-to-Slide Generation",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00194v1 Announce Type: new Abstract: Document-to-slide generation is challenging because slides are dense editable artifacts that require both faithful content selection and precise spatial layout. Recent slide agents adopt iterative reflection, but typically follow a monolithic \"one version, one feedback\" loop: a slide or deck is rewritten, rendered afterward, and critiqued only at the turn boundary. This",
+    "url": "https://arxiv.org/abs/2609.00194",
+    "related": []
+  },
+  {
+    "id": "feed-012e1f3741a4",
+    "title": "AI Should Not Only Be Helpful. It Should Be Contingent. Artificial Intimacy, Sycophancy, and the Future of Social Learning",
+    "source": "arXiv AI",
+    "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.00211v1 Announce Type: new Abstract: Conversational artificial intelligence is increasingly embedded in everyday social environments, where it functions as both an informational tool and a source of interpersonal feedback. This perspective introduces contingency, i.e., the degree to which system responses vary with user behavior and its interpersonal consequences, as a central construct for evaluating AI s",
+    "url": "https://arxiv.org/abs/2609.00211",
+    "related": []
+  },
+  {
+    "id": "feed-cfc376addf8c",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "source": "OpenAI",
+    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -37,6 +267,16 @@
     "category": "MODELS",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-5ce8103476b1",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "source": "Hugging Face",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "related": []
   },
   {
@@ -60,6 +300,36 @@
     "related": []
   },
   {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "related": []
+  },
+  {
+    "id": "feed-309be27bdcfe",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "source": "OpenAI",
+    "date": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "url": "https://openai.com/index/path-to-astra",
+    "related": []
+  },
+  {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "related": []
+  },
+  {
     "id": "feed-9146ff1756af",
     "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
     "source": "OpenAI",
@@ -67,6 +337,16 @@
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "related": []
   },
   {
@@ -100,6 +380,16 @@
     "related": []
   },
   {
+    "id": "feed-df015003760c",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "source": "OpenAI",
+    "date": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "category": "MODELS",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -107,6 +397,16 @@
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-0b00c80d502c",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI",
+    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "related": []
   },
   {
