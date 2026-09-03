@@ -20,6 +20,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e43158037a35",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "source": "Hugging Face",
+    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "related": []
+  },
+  {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -30,6 +50,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-cfc376addf8c",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "source": "OpenAI",
+    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -37,6 +77,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-5ce8103476b1",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "source": "Hugging Face",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "related": []
   },
   {
@@ -60,6 +110,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "related": []
+  },
+  {
+    "id": "feed-309be27bdcfe",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "source": "OpenAI",
+    "date": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "url": "https://openai.com/index/path-to-astra",
+    "related": []
+  },
+  {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "related": []
+  },
+  {
     "id": "feed-9146ff1756af",
     "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
     "source": "OpenAI",
@@ -70,6 +150,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +167,206 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-276dbcb527e9",
+    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are a crucial component of current AI safety frameworks. We introduce EvalDetectBench, an open pipeline and benchmark for me",
+    "url": "https://arxiv.org/abs/2609.01611",
+    "related": []
+  },
+  {
+    "id": "feed-84d7b7412eb4",
+    "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01685v1 Announce Type: new Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently integrated capacities for moral reasoning, moral intentionality, and moral reflection, novel meta-ethical questions would ari",
+    "url": "https://arxiv.org/abs/2609.01685",
+    "related": []
+  },
+  {
+    "id": "feed-d1d4fa215b5b",
+    "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01741v1 Announce Type: new Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We ask what formal logic survives such noise. We build a passive survival certificate for the Duquenne-Guigues implication basis of machine-ext",
+    "url": "https://arxiv.org/abs/2609.01741",
+    "related": []
+  },
+  {
+    "id": "feed-068beb4555ab",
+    "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01814v1 Announce Type: new Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person accuracy can coexist with different portfolio values. Under a registered incremental-sharing protocol, a sharing step improves discovery exactl",
+    "url": "https://arxiv.org/abs/2609.01814",
+    "related": []
+  },
+  {
+    "id": "feed-553e9170a2f6",
+    "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.01815v1 Announce Type: new Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and compute-efficient, (2) capture gradations of uncertainty to support intelligent inquiry and information gathering, and (3)",
+    "url": "https://arxiv.org/abs/2609.01815",
+    "related": []
+  },
+  {
+    "id": "feed-ad54e2d6867c",
+    "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.01834v1 Announce Type: new Abstract: As enterprise platforms transition to conversational reasoning interfaces, the stateless nature of LLM APIs creates an architectural gap. While statelessness enables horizontal scalability for AI providers, it forces client applications to manage the entire burden of conversational state and semantic memory. The work identifies the Hydration Proxy Pattern, an architectu",
+    "url": "https://arxiv.org/abs/2609.01834",
+    "related": []
+  },
+  {
+    "id": "feed-bf1238a830c1",
+    "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01849v1 Announce Type: new Abstract: This article presents SSAKG 2.0, an open-source software package for constructing and operating Structural Sequential Associative Knowledge Graphs (SSAKGs). An SSAKG represents objects as graph vertices and ordered sequences as structural patterns of graph connections. The resulting sparse graph is used as an associative memory in which complete sequences can be reconst",
+    "url": "https://arxiv.org/abs/2609.01849",
+    "related": []
+  },
+  {
+    "id": "feed-ebbf32604ed1",
+    "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01852v1 Announce Type: new Abstract: Persistent memory supports personalized agents, but a stale stored fact can override current authoritative evidence without warning. We study when this harm begins as model capability changes. We evaluate a frozen, closed-set, action-scored benchmark with 2 suites that represent 2 different meanings of \"no memory\" (a Benefit suite, unsolvable without the stored fact, an",
+    "url": "https://arxiv.org/abs/2609.01852",
+    "related": []
+  },
+  {
+    "id": "feed-c18c1407ad39",
+    "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.01861v1 Announce Type: new Abstract: The performance of an LLM agent depends on the scaffold around a frozen model. A common way to improve that scaffold is to use a coding agent as an optimizer: it reads current scores and traces and iteratively edits the source, producing a new candidate each round. Each edit is chosen according to a belief about how the environment will respond: what went wrong, and whi",
+    "url": "https://arxiv.org/abs/2609.01861",
+    "related": []
+  },
+  {
+    "id": "feed-4082ab78f2b0",
+    "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01873v1 Announce Type: new Abstract: Multi-agent AI systems improve inference by spawning agents and synthesizing reports. But another agent is not another observation: apparently independent reports may descend from the same evidence, and genuinely independent evidence can produce nearly identical reports. We formalize this as an epistemic Sybil problem. A report Z is an epistemic Sybil extension relative",
+    "url": "https://arxiv.org/abs/2609.01873",
+    "related": []
+  },
+  {
+    "id": "feed-121b33a5d44c",
+    "title": "The Ceiling Is in the Channel: Auditing Learner Gaps and Measurement Frontiers in Clinical Prediction",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01909v1 Announce Type: new Abstract: Clinical prediction can saturate for two different reasons: a fitted learner may fail to extract available information, or the recorded variables may impose a population frontier. We separate these quantities through the \\emph{learner gap} and the \\emph{measurement-channel ceiling}. Optimal balanced accuracy is characterized by total-variation separation, yielding archi",
+    "url": "https://arxiv.org/abs/2609.01909",
+    "related": []
+  },
+  {
+    "id": "feed-3bfdfd385170",
+    "title": "Looped Transformers under the Jacobian Lens: Does the Global Workspace Survive Recurrence?",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01924v1 Announce Type: new Abstract: Recent work identifies a mid-depth band of verbalisable, causally potent representations in a standard feedforward transformer --- a functional analogue of a global workspace. Whether the same workspace functionality emerges when depth is implemented through recurrence rather than a stack of distinct layers remains unknown. Looped and depth-recurrent transformers provid",
+    "url": "https://arxiv.org/abs/2609.01924",
+    "related": []
+  },
+  {
+    "id": "feed-6f9a86efb06e",
+    "title": "Post-Training Ternarization of Qwen3-4B Capability, Effective Bit Budget, Storage Compression, and Deployment",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01962v1 Announce Type: new Abstract: Ultra-low-bit language models can reduce storage and memory bandwidth, but a nominal \"1.58-bit\" label does not fully describe the stored representation, retained capability, or runtime behavior. We study an end-to-end post-training conversion of Qwen, an instruction-tuned 4B-parameter model, using KOTMS rotation, E2M-ATQ ternarization, and GPTQ-style error compensation ",
+    "url": "https://arxiv.org/abs/2609.01962",
+    "related": []
+  },
+  {
+    "id": "feed-983c89538271",
+    "title": "Benchmarking Language Models for Statistical Problem Formulation",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.01982v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as assistants for statistical and data science work, yet existing evaluations largely assume the analysis target is already specified. In practice, users arrive with informal goals and heterogeneous data, leaving the model to decide what statistical task is implied and which data are relevant. We first formalize this up",
+    "url": "https://arxiv.org/abs/2609.01982",
+    "related": []
+  },
+  {
+    "id": "feed-e156c103e788",
+    "title": "When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01985v1 Announce Type: new Abstract: As LLM coding agents increasingly perform end-to-end engineering work, we lack empirical characterization of how they behave on systems-level requirements: schema design, async orchestration, configuration correctness, and retrieval-filtering trade-offs. We present a case study of one such agent implementing a multi-component data system against a detailed pre-existing ",
+    "url": "https://arxiv.org/abs/2609.01985",
+    "related": []
+  },
+  {
+    "id": "feed-5e8b4a3ae1ec",
+    "title": "ClaimReceipt: Verifying Evidence Sufficiency and Coverage in Agent Evaluations",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.01992v1 Announce Type: new Abstract: Agent evaluations face two distinct evidentiary questions: whether a reported claim is recomputable from retained evidence (sufficiency), and whether the retained records cover the committed experiment set (coverage). Generic logs and hash-linked transcripts answer neither reliably. We introduce ClaimReceipt, a claim-relative receipt specification and selective verifier",
+    "url": "https://arxiv.org/abs/2609.01992",
+    "related": []
+  },
+  {
+    "id": "feed-4b1409cf59d7",
+    "title": "HeadWiseKV: Budgeted Per-Head Cache Residency for Hybrid Long-Context Language Models",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.02029v1 Announce Type: new Abstract: Long-context inference retains a growing key--value (KV) cache during decoding, which consumes substantial GPU memory and can reduce generation throughput. This bottleneck remains in hybrid language models because their residual global-attention layers can dominate context-dependent cache demand. We study how to allocate this state under an aggregate KV-residency budget",
+    "url": "https://arxiv.org/abs/2609.02029",
+    "related": []
+  },
+  {
+    "id": "feed-0cfe1eb3ee21",
+    "title": "Monitoring Web Agents Without Internal Signals: Observable Trajectories and Key-Step Supervision",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.02057v1 Announce Type: new Abstract: Reliable web-agent monitoring is difficult when model-internal uncertainty signals such as token logits are unavailable. In this work, we study prefix-level risk prediction for web agents using observable trajectory signals: given an evolving prefix, estimate whether the current execution remains on track or is tending toward failure. We derive two observable trajectory",
+    "url": "https://arxiv.org/abs/2609.02057",
+    "related": []
+  },
+  {
+    "id": "feed-4956c2b03b95",
+    "title": "DocHop: Benchmarking Out-of-domain Multi-hop Reasoning in Information-Dense Documents",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.02059v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have achieved strong performance on structured visual understanding tasks such as chart and document question answering. However, existing benchmarks typically evaluate these domains in isolation, leaving underexplored a key capability: whether models can use textual context to determine how chart evidence should be selected, int",
+    "url": "https://arxiv.org/abs/2609.02059",
+    "related": []
+  },
+  {
+    "id": "feed-a49707d69681",
+    "title": "MineTRACE: An Evidence-Grounded Interactive Reasoning System for Mineral Prospectivity",
+    "source": "arXiv AI",
+    "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.02060v1 Announce Type: new Abstract: Mineral exploration requires integrating heterogeneous geochemical, geophysical, and geological evidence, yet existing prospectivity systems often provide only opaque scores or heatmaps. We present MineTRACE, a web-based system for evidence-grounded exploration of eight commodities: Cu, Au, Ni, W, Sn, Co, Ta, and Mn. Users can explore prospectivity maps, query locations",
+    "url": "https://arxiv.org/abs/2609.02060",
     "related": []
   },
   {
@@ -107,6 +397,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-0b00c80d502c",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI",
+    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "related": []
   },
   {
