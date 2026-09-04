@@ -20,6 +20,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -30,6 +40,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -37,6 +57,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-5ce8103476b1",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "source": "Hugging Face",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "related": []
   },
   {
@@ -60,6 +90,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "related": []
+  },
+  {
+    "id": "feed-309be27bdcfe",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "source": "OpenAI",
+    "date": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "url": "https://openai.com/index/path-to-astra",
+    "related": []
+  },
+  {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "related": []
+  },
+  {
     "id": "feed-9146ff1756af",
     "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
     "source": "OpenAI",
@@ -70,6 +130,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +147,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "related": []
+  },
+  {
+    "id": "feed-5190d2a1dccd",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "source": "OpenAI",
+    "date": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
     "related": []
   },
   {
@@ -110,6 +200,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-0b00c80d502c",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI",
+    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "related": []
+  },
+  {
     "id": "feed-7898549b95c3",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -117,6 +217,206 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-700e3c0de241",
+    "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and application of a new practical English textbook driven by artificial intelligence. A five-layer architecture is proposed: knowle",
+    "url": "https://arxiv.org/abs/2609.02981",
+    "related": []
+  },
+  {
+    "id": "feed-f736e609f8e5",
+    "title": "MasterControl Seventeen Every Time",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can remain expressive within a defined analytical class, using relational operations plus aggregation, comparison, windows, rank",
+    "url": "https://arxiv.org/abs/2609.03209",
+    "related": []
+  },
+  {
+    "id": "feed-16782e343d11",
+    "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model produces the official t",
+    "url": "https://arxiv.org/abs/2609.03236",
+    "related": []
+  },
+  {
+    "id": "feed-5cc26a1e1a5d",
+    "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an ac",
+    "url": "https://arxiv.org/abs/2609.03340",
+    "related": []
+  },
+  {
+    "id": "feed-17eecb4d990d",
+    "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-purpose LLM/RAG-based AI teaching assistants such as Jill Watson across academic disciplines and courses. The framework ad",
+    "url": "https://arxiv.org/abs/2609.03402",
+    "related": []
+  },
+  {
+    "id": "feed-bc12a5bf0649",
+    "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.03407v1 Announce Type: new Abstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory context. Most prior work has studied this context through single-turn judgments or pressure-laden rebuttals, assumptions that poorly match how guidance is sought in real-world contexts. These assumptions leave unclear w",
+    "url": "https://arxiv.org/abs/2609.03407",
+    "related": []
+  },
+  {
+    "id": "feed-31a8e554b169",
+    "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03416v1 Announce Type: new Abstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capability. However, the limited context capacity and one-sided discrepancy detection of existing single-agent LLM paradigms lead to an inferior recall performance in detecting discrepancies. In this paper, we propose Dude, the ",
+    "url": "https://arxiv.org/abs/2609.03416",
+    "related": []
+  },
+  {
+    "id": "feed-971528035403",
+    "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03423v1 Announce Type: new Abstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing benchmarks largely test these behaviors through explicit turn-management instructions, while deployed agents are often configured through roles or personas from which the appropriate conversational behavior must be inferre",
+    "url": "https://arxiv.org/abs/2609.03423",
+    "related": []
+  },
+  {
+    "id": "feed-6249cca26f1c",
+    "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03438v1 Announce Type: new Abstract: Graphical user interface (GUI) agents are increasingly used to execute natural-language instructions on user interfaces, yet real users may issue infeasible instructions due to benign mistakes. A reliable agent should not only know how to act, but also when not to act. In this work, we introduce CONFLICTGUI, a benchmark covering instruction-internal conflicts and instru",
+    "url": "https://arxiv.org/abs/2609.03438",
+    "related": []
+  },
+  {
+    "id": "feed-5e2ad714ae6a",
+    "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03460v1 Announce Type: new Abstract: As generative AI makes polished prose cheap to produce, users can no longer rely on fluency as a proxy for truth. We call this failure mode the Fluency Trap: users trust fluent hallucinations while also discounting accurate content once it is disclosed as AI-generated. Binary ``Made with AI'' labels respond with authorship disclosure, but they do not show what supports ",
+    "url": "https://arxiv.org/abs/2609.03460",
+    "related": []
+  },
+  {
+    "id": "feed-5a2604eac1ae",
+    "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03478v1 Announce Type: new Abstract: We report on our ongoing project to develop a computational pipeline, AutoGraphForge, for an automated graph-theoretic conjecturing-refuting-formalizing-proving system. Conjecture generation is counterexample-guided and runs in rounds: a Graffiti3 generator proposes conjectures over a small, evolving snapshot table $T$ (initially a few hundred graphs with their computed",
+    "url": "https://arxiv.org/abs/2609.03478",
+    "related": []
+  },
+  {
+    "id": "feed-fdc4fd6e0608",
+    "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.03493v1 Announce Type: new Abstract: Modern vision-language models (VLMs) can directly answer many image-grounded questions, yet they often struggle with complex queries requiring fine-grained visual details or external knowledge. To acquire this missing evidence, agentic VLMs invoke tools such as image cropping, image search, and text search. However, existing training paradigms primarily evaluate tool-us",
+    "url": "https://arxiv.org/abs/2609.03493",
+    "related": []
+  },
+  {
+    "id": "feed-3427c47ecf5e",
+    "title": "GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.03494v1 Announce Type: new Abstract: Long-output reasoning has made the key--value (KV) cache a critical memory bottleneck for efficient LLM serving. Existing KV compression methods usually rely on a predefined per-request budget and adjust only which KV states are retained, leaving the total capacity fixed throughout decoding. However, reasoning workloads exhibit substantial demand variation: different re",
+    "url": "https://arxiv.org/abs/2609.03494",
+    "related": []
+  },
+  {
+    "id": "feed-26c1043274f1",
+    "title": "PPO-STGNN: A Proximal Policy Optimization Approach with Spatio-Temporal Graph Neural Networks for DAG Task Scheduling in Cloud-Edge-End Computing",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03503v1 Announce Type: new Abstract: With the rapid development of the Internet of Things, computation intensive directed acyclic graph (DAG) tasks have become increasingly common in cloud-edge-end collaborative environments. However, cloud, edge, and end nodes are highly heterogeneous in computing capacity, network bandwidth, and energy consumption, which makes the efficient scheduling of tasks with compl",
+    "url": "https://arxiv.org/abs/2609.03503",
+    "related": []
+  },
+  {
+    "id": "feed-cc4c0e79b5c8",
+    "title": "What Matters for Aggressive Decoding-Time KV Eviction? Temporal Aggregation and Ranking Preservation",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03515v1 Announce Type: new Abstract: Decoding-time KV cache compression research focuses heavily on designing better token scoring functions, while the temporal rule that aggregates scores across decode steps is often treated as an implementation detail. Under aggressive KV compression, we find that exponential-moving-average (EMA) aggregation makes approximately order-preserving scorer modifications large",
+    "url": "https://arxiv.org/abs/2609.03515",
+    "related": []
+  },
+  {
+    "id": "feed-f9173a6daa1f",
+    "title": "CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.03526v1 Announce Type: new Abstract: Multimodal language models achieve near-ceiling scores on food recognition benchmarks, yet it remains unclear whether this success reflects genuine cultural understanding or mere visual matching. To probe this distinction, we introduce CulturalMenuBench, a benchmark of 4,870 items in 10 languages across 18 regions; its 10 tasks pair final-dish and step-by-step cooking i",
+    "url": "https://arxiv.org/abs/2609.03526",
+    "related": []
+  },
+  {
+    "id": "feed-9ae73b8a2ae3",
+    "title": "NeoRed: A Knowledge-Logic-Alignment Multimodal Large Language Model for Neonatal Respiratory Disease Diagnosis",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.03527v1 Announce Type: new Abstract: Neonatal respiratory diseases are a major cause of neonatal morbidity and mortality, posing substantial challenges in clinical practice. Despite recent advances, existing Multimodal Large Language Models (MLLMs) face two key limitations in neonatal diagnosis: (1) domain gap arising from predominantly adult training data; (2) insufficient integration of multidimensional ",
+    "url": "https://arxiv.org/abs/2609.03527",
+    "related": []
+  },
+  {
+    "id": "feed-dd445b7e1f1f",
+    "title": "Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03535v1 Announce Type: new Abstract: Lesion segmentation in medical images plays a critical role in clinical diagnosis and treatment planning. Despite significant advances, lesion segmentation remains challenging due to two major factors: (1) complex background interference; (2) diverse lesion morphology. Existing encoder-decoder based methods mainly focus on enhancing feature extraction or redesigning dec",
+    "url": "https://arxiv.org/abs/2609.03535",
+    "related": []
+  },
+  {
+    "id": "feed-bdfbd4bfc97f",
+    "title": "Dalek: A Constructive Agent Machine",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03546v1 Announce Type: new Abstract: We present Dalek, a closed machine designed for agents that realizes self-maintenance, self-evolution, self-reproduction, and self-organization on any substrate satisfying a general host contract. The machine is built from three primitives---actors, messages, and channels. Four obligations---a host boundary, a construction language, admissible transitions, and rule here",
+    "url": "https://arxiv.org/abs/2609.03546",
+    "related": []
+  },
+  {
+    "id": "feed-9f29976c9263",
+    "title": "GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis",
+    "source": "arXiv AI",
+    "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.03553v1 Announce Type: new Abstract: Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when plausible behaviour is never compared with observed outcomes. We introduce GPS-Bench, an evidence-gr",
+    "url": "https://arxiv.org/abs/2609.03553",
     "related": []
   },
   {
