@@ -20,6 +20,16 @@
     "related": []
   },
   {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -30,6 +40,16 @@
     "related": []
   },
   {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -37,6 +57,16 @@
     "category": "MODELS",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-5ce8103476b1",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "source": "Hugging Face",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "related": []
   },
   {
@@ -60,6 +90,36 @@
     "related": []
   },
   {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "related": []
+  },
+  {
+    "id": "feed-309be27bdcfe",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "source": "OpenAI",
+    "date": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "url": "https://openai.com/index/path-to-astra",
+    "related": []
+  },
+  {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "related": []
+  },
+  {
     "id": "feed-9146ff1756af",
     "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
     "source": "OpenAI",
@@ -70,6 +130,16 @@
     "related": []
   },
   {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +147,36 @@
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "related": []
+  },
+  {
+    "id": "feed-5190d2a1dccd",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "source": "OpenAI",
+    "date": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "related": []
+  },
+  {
+    "id": "feed-0f3b76bc480d",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "source": "OpenAI",
+    "date": "Thu, 03 Sep 2026 11:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "url": "https://openai.com/index/gpt-6-astra",
     "related": []
   },
   {
@@ -107,6 +207,16 @@
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-0b00c80d502c",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI",
+    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "related": []
   },
   {
