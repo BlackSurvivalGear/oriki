@@ -26,7 +26,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-09-06",
     "slug": "gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cy"
   },
   {
@@ -41,7 +41,7 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "status": "AUTO-DETECTED",
     "source": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "detectedDate": "2026-08-09",
+    "detectedDate": "2026-09-06",
     "slug": "gemini-3-5-flash-cyber"
   },
   {
@@ -133,5 +133,95 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "source": "https://huggingface.co/blog/real-world-voiceeq",
     "detectedDate": "2026-08-09",
     "slug": "real-world-voiceeq"
+  },
+  {
+    "id": "auto-56da2c8ef803",
+    "name": "WEATHERNEXT 3, OUR MOST ADVANCED AND ACCURATE GLOBAL WEATHER AI MODEL",
+    "provider": "Google DeepMind",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "status": "AUTO-DETECTED",
+    "source": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "detectedDate": "2026-09-06",
+    "slug": "weathernext-3-our-most-advanced-and-accurate-glo"
+  },
+  {
+    "id": "auto-18ef68f77655",
+    "name": "GEMINI 3.8 FLASH AND 3.8 FLASH CYBER",
+    "provider": "Google DeepMind",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "status": "AUTO-DETECTED",
+    "source": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "detectedDate": "2026-09-06",
+    "slug": "gemini-3-8-flash-and-3-8-flash-cyber"
+  },
+  {
+    "id": "auto-dfd1ea2e5518",
+    "name": "AGENTIC VIDEO UNDERSTANDING WITH GEMINI",
+    "provider": "Google DeepMind",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing agentic video understanding with Gemini",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "status": "AUTO-DETECTED",
+    "source": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "detectedDate": "2026-09-06",
+    "slug": "agentic-video-understanding-with-gemini"
+  },
+  {
+    "id": "auto-068e562e0512",
+    "name": "GEMINI 3.7 FLASH",
+    "provider": "Google DeepMind",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing Gemini 3.7 Flash",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "status": "AUTO-DETECTED",
+    "source": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "detectedDate": "2026-09-06",
+    "slug": "gemini-3-7-flash"
+  },
+  {
+    "id": "auto-85562dc16345",
+    "name": "@HUGGINGFACE/KERNELS",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/webgpu-kernels",
+    "detectedDate": "2026-09-06",
+    "slug": "huggingface-kernels"
+  },
+  {
+    "id": "auto-5ce8103476b1",
+    "name": "HOW MUCH MEMORY DOES YOUR AGENT ACTUALLY NEED?",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "detectedDate": "2026-09-06",
+    "slug": "how-much-memory-does-your-agent-actually-need"
   }
 ];
