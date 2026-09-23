@@ -10,6 +10,226 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-09a0c6dbf1c6",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "source": "OpenAI",
+    "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "related": []
+  },
+  {
+    "id": "feed-3f7058a44206",
+    "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with token-matched experiments that vary the didactic-to-clinical ratio and analyze how data composition affects performance, c",
+    "url": "https://arxiv.org/abs/2609.22161",
+    "related": []
+  },
+  {
+    "id": "feed-9a15fab46a33",
+    "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22277v1 Announce Type: new Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud connectivity, limiting accessibility in resource-constrained settings. This paper presents an affordable (\\$88 USD), fully",
+    "url": "https://arxiv.org/abs/2609.22277",
+    "related": []
+  },
+  {
+    "id": "feed-3a37bbdf5b49",
+    "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22353v1 Announce Type: new Abstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct challenge. An object label or steering command does not explain which evidence supports a decision or when that evidence",
+    "url": "https://arxiv.org/abs/2609.22353",
+    "related": []
+  },
+  {
+    "id": "feed-786cbfea5bc2",
+    "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22408v1 Announce Type: new Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals for artificial readers remain uncertain. This paper adapts the Music Lab design to a market for academic attention. In the",
+    "url": "https://arxiv.org/abs/2609.22408",
+    "related": []
+  },
+  {
+    "id": "feed-292b4a7a8af3",
+    "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22410v1 Announce Type: new Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for individual cells. Here we develop a population-supervised framework that maps single 2D red-cell images to latent biophysical quantities and aggregates them to mean corpuscular volume, red-cell distribution width and mean",
+    "url": "https://arxiv.org/abs/2609.22410",
+    "related": []
+  },
+  {
+    "id": "feed-0955e168db2b",
+    "title": "Goal-driven Variant Categorization",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22475v1 Announce Type: new Abstract: Process discovery rarely yields a single coherent process structure. For analysis, a common step is to cluster process variants based on structural similarity and then assign business meaning to the resulting groups. Since these partitions are not derived from the organization's goals, analysts must manually interpret and consolidate variants into business-meaningful ca",
+    "url": "https://arxiv.org/abs/2609.22475",
+    "related": []
+  },
+  {
+    "id": "feed-e6485d8f16bf",
+    "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.22478v1 Announce Type: new Abstract: Behavioural evaluations of hosted language models can vary because the evaluated service, the measurement instrument, or both differ across runs. We separate three validation questions: whether a prior finding recurs on fresh data under its historical configuration (replication), whether the endpoint changes when the evaluation-and-inference configuration is rebuilt und",
+    "url": "https://arxiv.org/abs/2609.22478",
+    "related": []
+  },
+  {
+    "id": "feed-9bcd65271e13",
+    "title": "The Wisdom of Artificial Deliberative Crowds",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22497v1 Announce Type: new Abstract: The aggregation of many lay estimates often outperforms individual expert judgment, a phenomenon known as the wisdom of crowds. While this is usually attributed to the independence of estimates, an even stronger effect arises through deliberation: averaging the consensus estimates of small deliberating groups outperforms the classical wisdom of crowds, with individual j",
+    "url": "https://arxiv.org/abs/2609.22497",
+    "related": []
+  },
+  {
+    "id": "feed-fbe707d6c3a3",
+    "title": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.22512v1 Announce Type: new Abstract: Consensus among LLM judges is often taken as strong evidence that a decision is correct. This assumes that judges make their errors independently. In practice, LLM judges are often trained and evaluated in similar ways, so they can make the same mistakes. We study how this dependency affects the reliability of consensus. We find substantial error correlation across both",
+    "url": "https://arxiv.org/abs/2609.22512",
+    "related": []
+  },
+  {
+    "id": "feed-f82805c70518",
+    "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22529v1 Announce Type: new Abstract: International law provides the normative framework through which states coordinate action, regulate armed conflict, and protect human rights, yet its texts remain without token-level named entity recognition (NER) resources. We introduce IntLawNER, a NER dataset and benchmark for codified sources of international law, covering 2,987 gold-annotated sentences and 8,094 en",
+    "url": "https://arxiv.org/abs/2609.22529",
+    "related": []
+  },
+  {
+    "id": "feed-a3041ee30e7e",
+    "title": "EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness and Traceability",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22537v1 Announce Type: new Abstract: Enterprise AI assistants must produce responses that are verifiable and traceable to source evidence. However, retrieval augmented generation (RAG) over heterogeneous enterprise data can suffer from citation drift, unsupported content, and weak source traceability. We present EvidenT (T = Trust + Transparency + Traceability), a lightweight pipeline that verifies extract",
+    "url": "https://arxiv.org/abs/2609.22537",
+    "related": []
+  },
+  {
+    "id": "feed-80c2e664a181",
+    "title": "AutoGym: Blueprint-First Generation of Verifiable Agent Gyms",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22592v1 Announce Type: new Abstract: Training agents with reinforcement learning requires a gym, comprising a task, an executable environment in which the task can be attempted, and a verifier that reliably distinguishes success from failure. Constructing such gyms remains manual, expensive, and static. Task sets saturate as models improve and are increasingly exposed to contamination. Synthetic generation",
+    "url": "https://arxiv.org/abs/2609.22592",
+    "related": []
+  },
+  {
+    "id": "feed-442682b142b4",
+    "title": "MAWILE: Multi-Axis Workbench for Inspecting LLM Evaluators",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.22599v1 Announce Type: new Abstract: Large language model (LLM) judges provide a flexible and scalable method for evaluating model and agent outputs, but their verdicts can be sensitive to incidental changes in the evaluated response, judge instructions, and scoring rubric. Existing systems examine important subsets of these failure modes, but auditing a configured judge requires testing both the judge ins",
+    "url": "https://arxiv.org/abs/2609.22599",
+    "related": []
+  },
+  {
+    "id": "feed-a518250a3b33",
+    "title": "GaitVista: Reliability-Aware AI Measurement toward Accessible Longitudinal Gait Assessment",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22619v1 Announce Type: new Abstract: Tracking recovery of walking function requires detecting meaningful gait change across rehabilitation sessions, yet objective 3D measurement remains confined to specialized motion-capture laboratories. Small camera sets and body-worn inertial sensors broaden access, but reliability varies across joints and time, allowing sensing failures to masquerade as patient change.",
+    "url": "https://arxiv.org/abs/2609.22619",
+    "related": []
+  },
+  {
+    "id": "feed-cfdcd706a6fd",
+    "title": "Splitting Documents at Lower Cost: Multi-Split Boundary Decisions for LLM-Based Page Stream Segmentation",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.22620v1 Announce Type: new Abstract: Scanned mail, uploaded PDFs, and consolidated attachments often arrive as page streams that must be split into individual documents before downstream classification, extraction, or routing. Zero-shot large language models can detect document boundaries without task-specific training, but standard Page Classification (PC) and Boundary Decision (BD) formulations resolve o",
+    "url": "https://arxiv.org/abs/2609.22620",
+    "related": []
+  },
+  {
+    "id": "feed-d45ae0eaf56e",
+    "title": "Text, Pixels, or Both? Evaluating Input Representations for Multimodal Document QA",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22628v1 Announce Type: new Abstract: Every document QA system begins with a choice that is rarely studied on its own: whether to feed the model page images, extracted text, or both. We isolate this choice, holding the prompt, judge, and scoring pipeline fixed, across four commercial model endpoints, two corpora, and two context regimes (gold evidence pages and the full document). On documents that fit the ",
+    "url": "https://arxiv.org/abs/2609.22628",
+    "related": []
+  },
+  {
+    "id": "feed-9d4f63bba375",
+    "title": "Self-Organizing Agent Teams Learn to Reason Together",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22682v1 Announce Type: new Abstract: Collective intelligence depends not only on what team members know, but also on how they organize their work. When the structure of a solution is unknown, useful roles and divisions of labor cannot be specified in advance; teams must learn from experience how to organize reasoning as it unfolds. Human teams routinely adapt this way, while existing AI agent teams rely on",
+    "url": "https://arxiv.org/abs/2609.22682",
+    "related": []
+  },
+  {
+    "id": "feed-95bce07edf80",
+    "title": "Generative Embodied Multiple Behavior Control Systems for Human-like Agents",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22691v1 Announce Type: new Abstract: An enduring and richly elaborated dichotomy in cognitive neuroscience is that of human behavior control mechanisms, divided into habitual versus goal-directed. While existing human-like agent frameworks primarily focus on modeling goal- directed behavior, habitual behavior has been largely overlooked, though it plays a crucial role in human daily life. In this paper, we",
+    "url": "https://arxiv.org/abs/2609.22691",
+    "related": []
+  },
+  {
+    "id": "feed-e3b40a7a7861",
+    "title": "Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22694v1 Announce Type: new Abstract: Public crash databases increasingly support automated safety analysis, but crash severity prediction remains difficult to translate into public-sector decision workflows when models are evaluated primarily as ordinary classifiers. This study reframes dementia-related crash severity modeling as a decision-aware triage problem in which a system must classify crashes into ",
+    "url": "https://arxiv.org/abs/2609.22694",
+    "related": []
+  },
+  {
+    "id": "feed-beb52c85e73f",
+    "title": "A Survey on the Linear Representation Hypothesis",
+    "source": "arXiv AI",
+    "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.22695v1 Announce Type: new Abstract: The term \"linear representation hypothesis\" (LRH) has appeared across diverse subfields of artificial intelligence, neuroscience, and cognitive science. But previous works have not consistently treated the LRH as a falsifiable scientific hypothesis; we analyze these inconsistencies and examine their implications for how prior theoretical and methodological results shoul",
+    "url": "https://arxiv.org/abs/2609.22695",
+    "related": []
+  },
+  {
+    "id": "feed-52752974efc0",
+    "title": "Reimagining advertising with AI",
+    "source": "OpenAI",
+    "date": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -20,6 +240,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -27,6 +257,26 @@ window.ORIKI_NEWS = [
     "category": "RESEARCH",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "related": []
+  },
+  {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-3d48e529ad7a",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "source": "OpenAI",
+    "date": "Tue, 22 Sep 2026 18:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "related": []
   },
   {
@@ -50,6 +300,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-f4c3141ce9f2",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Google DeepMind",
+    "date": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "related": []
+  },
+  {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -57,6 +327,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "related": []
+  },
+  {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "related": []
+  },
+  {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
     "related": []
   },
   {
@@ -70,6 +360,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-363bbead77de",
+    "title": "Introducing Astra for Law",
+    "source": "OpenAI",
+    "date": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "url": "https://openai.com/index/astra-for-law",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +387,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
     "related": []
   },
   {
@@ -107,6 +427,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-559b0cf11197",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "source": "OpenAI",
+    "date": "Fri, 18 Sep 2026 12:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
     "related": []
   },
   {
