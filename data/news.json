@@ -10,6 +10,26 @@
     "related": []
   },
   {
+    "id": "feed-1d5a9cc2d950",
+    "title": "Introducing MentalHealthBench",
+    "source": "OpenAI",
+    "date": "Wed, 23 Sep 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+    "url": "https://openai.com/index/introducing-mentalhealthbench",
+    "related": []
+  },
+  {
+    "id": "feed-09a0c6dbf1c6",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "source": "OpenAI",
+    "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -27,6 +47,16 @@
     "category": "RESEARCH",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "related": []
+  },
+  {
+    "id": "feed-3d48e529ad7a",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "source": "OpenAI",
+    "date": "Tue, 22 Sep 2026 18:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "related": []
   },
   {
@@ -50,6 +80,16 @@
     "related": []
   },
   {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -60,6 +100,16 @@
     "related": []
   },
   {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "related": []
+  },
+  {
     "id": "feed-9146ff1756af",
     "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
     "source": "OpenAI",
@@ -67,6 +117,206 @@
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-671531aca991",
+    "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.26836v1 Announce Type: new Abstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about agent to tool interaction, specifically in biology agentic workflow is limited. This study investigates specific failures in agent to tool inte",
+    "url": "https://arxiv.org/abs/2609.26836",
+    "related": []
+  },
+  {
+    "id": "feed-44b4f151ffd3",
+    "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.26891v1 Announce Type: new Abstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM has full control over the workflow by alternating between tool calls and observing their output. However, certain workflows currently require additional engineering beyond the agent loop itself, such as memory systems and ",
+    "url": "https://arxiv.org/abs/2609.26891",
+    "related": []
+  },
+  {
+    "id": "feed-b7e0b4ef98a9",
+    "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.26911v1 Announce Type: new Abstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify intervention, because the replacement itself can introduce the very failure verification is meant to prevent. We introduce TwinCheck, an inference-time verification policy that considers replacement only when the trace satisfies an evidence conditio",
+    "url": "https://arxiv.org/abs/2609.26911",
+    "related": []
+  },
+  {
+    "id": "feed-b9a539fade0e",
+    "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.26927v1 Announce Type: new Abstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between humans and multiple agents in simulated dynamic worlds. This connects the current era of general artificial intelligence (AI/AGI) with the proliferation of transformer-based conversational agents and the increased computational capabilities. Given a",
+    "url": "https://arxiv.org/abs/2609.26927",
+    "related": []
+  },
+  {
+    "id": "feed-a84ace8a419d",
+    "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.26929v1 Announce Type: new Abstract: People hold diverse, sometimes conflicting values, so no single aligned model can satisfy everyone. Pluralistic alignment therefore calls for steerable models that can balance competing objectives differently. Multi-Objective Direct Preference Optimization (MODPO) does this by using an objective weight to span a continuum of trade-offs. We study two questions: when can ",
+    "url": "https://arxiv.org/abs/2609.26929",
+    "related": []
+  },
+  {
+    "id": "feed-e6bcce601f93",
+    "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.26952v1 Announce Type: new Abstract: Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocumented compatibility relationships, causing many real-world code snippets to fail at execution. This paper presents PLLM+, a hybrid dependency-repair pipeline evaluated on the HG2.9K benchmark of 2,891 dependency-failing snippets. PLLM+ prioritizes inexpens",
+    "url": "https://arxiv.org/abs/2609.26952",
+    "related": []
+  },
+  {
+    "id": "feed-2a03e1d4a94a",
+    "title": "Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.26986v1 Announce Type: new Abstract: For multimodal large language models, when images or speech conflict with accompanying text, measured text reliance can entangle modality preference with evidence position. Earlier studies of text bias often used a fixed evidence order or moved task instructions with the evidence, leaving the contribution of order unclear. In this paper, we use a paired comparison that ",
+    "url": "https://arxiv.org/abs/2609.26986",
+    "related": []
+  },
+  {
+    "id": "feed-3cf307912013",
+    "title": "Reinforcement Learning with Decomposed Subtasks",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.27035v1 Announce Type: new Abstract: Group Relative Policy Optimization (GRPO) and related policy-gradient methods for training language model agents collapse an entire multi-turn rollout into a single scalar trajectory reward before it enters the policy update. When the task composes distinct skills, especially under sparse and delayed environmental feedback, this collapsing is lossy: the optimizer must i",
+    "url": "https://arxiv.org/abs/2609.27035",
+    "related": []
+  },
+  {
+    "id": "feed-92a3c8ff8a7d",
+    "title": "Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.27037v1 Announce Type: new Abstract: Wake word detection is a critical component of virtual assistants, serving as the gateway to seamless user interactions. This paper introduces a novel wake-up system that extends traditional direct keyword detection with contextual trigger detection. After an initial wake word activation, the system uses reasoning to distinguish between user commands and unrelated speec",
+    "url": "https://arxiv.org/abs/2609.27037",
+    "related": []
+  },
+  {
+    "id": "feed-fda978e0b469",
+    "title": "Are Stated Reasoning Steps Causally Load-Bearing?",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.27038v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring assumes that the reasoning a model writes reflects the computation that directly produces its answer. Previous faithfulness metrics have been predominantly behavioral, as they simply edit the reasoning text and observe the resulting answer. However, our methodology aims to measure faithfulness causally at the activation level, specifica",
+    "url": "https://arxiv.org/abs/2609.27038",
+    "related": []
+  },
+  {
+    "id": "feed-d143cbd41f1d",
+    "title": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.27041v1 Announce Type: new Abstract: Mathematical reasoning benchmarks are typically organized by topic, but language models may organize their internal computation by reusable reasoning approach instead. In this paper, we investigate whether open math-capable LLMs organize internally by topical sub-skill or by reasoning approach, and we present evidence that the approach is the key. We introduce a generat",
+    "url": "https://arxiv.org/abs/2609.27041",
+    "related": []
+  },
+  {
+    "id": "feed-317c3fdd03db",
+    "title": "Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.27051v1 Announce Type: new Abstract: Language-model agents now run the whole of quantitative factor research: they propose investment factors, backtest them, select the survivors and retire them. We ask which of those jobs an agent should keep. Our answer is governed self-evolution: the agent may propose, and a frozen statistical referee that the agent cannot touch must judge. The referee scores each candi",
+    "url": "https://arxiv.org/abs/2609.27051",
+    "related": []
+  },
+  {
+    "id": "feed-8137cf48c029",
+    "title": "Policy-as-Skill: Governed LLM Decision Support with Evidence, Deterministic Control, and Audit",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.27087v1 Announce Type: new Abstract: Organizations increasingly use LLMs for policy, compliance, risk, and operational decision support, requiring evidence validation, review routing, version control, and auditability. We introduce Policy-as-Skill (PaS), a modular runtime that packages these functions as executable, versioned policy capabilities. Thirteen methods are evaluated with a fixed Gemma4 backend o",
+    "url": "https://arxiv.org/abs/2609.27087",
+    "related": []
+  },
+  {
+    "id": "feed-4acc7efa1d5d",
+    "title": "Provably Complete Generalized Planning with LLMs",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.27105v1 Announce Type: new Abstract: Generalized planning aims to compute a plan that solves all instances of a planning domain. Recent work has used LLMs to automatically generate and debug such generalized plans in the form of Python programs and achieved perfect test data coverage for several domains. However, whether these generalized plans are actually complete, i.e. solve all instances of the domain,",
+    "url": "https://arxiv.org/abs/2609.27105",
+    "related": []
+  },
+  {
+    "id": "feed-fd2f72435085",
+    "title": "Do We Need Complex Topology Control? Distinct-Peer Random Routing Improves Cost-Efficiency in Sparse Multi-Agent Debate",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.27150v1 Announce Type: new Abstract: Multi-agent debate (MAD) has emerged as a promising paradigm for improving the reasoning accuracy of large language models (LLMs) through iterative peer interaction. Communication topology plays a central role in this process, motivating increasingly sophisticated mechanisms that learn, adapt, or dynamically reconfigure agent interactions to improve accuracy or reasonin",
+    "url": "https://arxiv.org/abs/2609.27150",
+    "related": []
+  },
+  {
+    "id": "feed-ad20cc435cde",
+    "title": "Enhancing Small Language Models for Power Outage Report Generation via Minimum Risk Training",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.27197v1 Announce Type: new Abstract: Minimum Risk Training (MRT) enables neural machine translation models to directly optimize sequence-level evaluation metrics instead of relying only on token- level maximum-likelihood objectives Shen et al. [2016]. Although introduced a decade ago, recent work shows renewed potential for risk-based optimization in modern language models Yang et al. [2024], Jinnai et al.",
+    "url": "https://arxiv.org/abs/2609.27197",
+    "related": []
+  },
+  {
+    "id": "feed-5efa11aeec5e",
+    "title": "XLOG: A CUDA-Native Engine for Neurosymbolic Integration",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.27203v1 Announce Type: new Abstract: xlog is a CUDA-native logic programming engine integrating neural perception with deterministic Datalog, probabilistic inference, and epistemic world views through a typed frontend and provider-owned CUDA runtime. Its reasoning modes share device data planes, but their execution boundaries differ: ordinary Datalog and exact inference are host-orchestrated, while certifi",
+    "url": "https://arxiv.org/abs/2609.27203",
+    "related": []
+  },
+  {
+    "id": "feed-d66db4731a28",
+    "title": "CAVEAT: Towards Robust Computer-Use Agents in Incentive-Misaligned Environments",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.27273v1 Announce Type: new Abstract: Computer-use agents (CUAs) increasingly act on behalf of users online. What happens when the environments they operate in have incentives that do not align with the user's? In online marketplaces, for example, platforms may favor some products over others, potentially steering agents away from the user's objective. Existing CUA benchmarks cover cooperative settings or e",
+    "url": "https://arxiv.org/abs/2609.27273",
+    "related": []
+  },
+  {
+    "id": "feed-463125fe3ce4",
+    "title": "DRSR: Learning Set-Level Deletion Risk for Efficient Long-Horizon Agents",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.27276v1 Announce Type: new Abstract: Long-horizon language-model agents accumulate reasoning traces, tool exchanges, and observations whose relevance changes with the current decision. Existing compression strategies often score historical units independently, but the safety of deleting several units is generally not determined by their singleton scores: redundant evidence, accumulated small effects, and t",
+    "url": "https://arxiv.org/abs/2609.27276",
+    "related": []
+  },
+  {
+    "id": "feed-8d2fb6c17926",
+    "title": "TimeEvo: Failure-Driven Self-Evolution of a Time Series Agent",
+    "source": "arXiv AI",
+    "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.27277v1 Announce Type: new Abstract: Time series agents answer analytical questions by calling external tools, and which tools they carry is decided by people before the agent runs. However, we identify two failures in this setup. Human-Agent Tool Misalignment: a library of 21 expert-curated tools helps on some tasks and hurts on others, dropping anomaly accuracy under every backbone we test. Silent Harm: ",
+    "url": "https://arxiv.org/abs/2609.27277",
     "related": []
   },
   {
@@ -107,6 +357,16 @@
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-559b0cf11197",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "source": "OpenAI",
+    "date": "Fri, 18 Sep 2026 12:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
     "related": []
   },
   {
