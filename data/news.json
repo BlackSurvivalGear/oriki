@@ -10,6 +10,36 @@
     "related": []
   },
   {
+    "id": "feed-4c4abcff4acd",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "source": "Google DeepMind",
+    "date": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "related": []
+  },
+  {
+    "id": "feed-1d5a9cc2d950",
+    "title": "Introducing MentalHealthBench",
+    "source": "OpenAI",
+    "date": "Wed, 23 Sep 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+    "url": "https://openai.com/index/introducing-mentalhealthbench",
+    "related": []
+  },
+  {
+    "id": "feed-09a0c6dbf1c6",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "source": "OpenAI",
+    "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -20,6 +50,16 @@
     "related": []
   },
   {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -27,6 +67,26 @@
     "category": "RESEARCH",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "related": []
+  },
+  {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-3d48e529ad7a",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "source": "OpenAI",
+    "date": "Tue, 22 Sep 2026 18:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "related": []
   },
   {
@@ -50,6 +110,26 @@
     "related": []
   },
   {
+    "id": "feed-f4c3141ce9f2",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Google DeepMind",
+    "date": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "related": []
+  },
+  {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -57,6 +137,26 @@
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "related": []
+  },
+  {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "related": []
+  },
+  {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
     "related": []
   },
   {
@@ -70,6 +170,26 @@
     "related": []
   },
   {
+    "id": "feed-e7107d9a76d9",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "Google DeepMind",
+    "date": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +197,16 @@
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
     "related": []
   },
   {
