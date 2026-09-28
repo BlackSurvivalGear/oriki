@@ -10,6 +10,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-4c4abcff4acd",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "source": "Google DeepMind",
+    "date": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "related": []
+  },
+  {
+    "id": "feed-1d5a9cc2d950",
+    "title": "Introducing MentalHealthBench",
+    "source": "OpenAI",
+    "date": "Wed, 23 Sep 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+    "url": "https://openai.com/index/introducing-mentalhealthbench",
+    "related": []
+  },
+  {
+    "id": "feed-09a0c6dbf1c6",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "source": "OpenAI",
+    "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -20,6 +50,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -27,6 +67,26 @@ window.ORIKI_NEWS = [
     "category": "RESEARCH",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "related": []
+  },
+  {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-3d48e529ad7a",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "source": "OpenAI",
+    "date": "Tue, 22 Sep 2026 18:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "related": []
   },
   {
@@ -50,6 +110,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-f4c3141ce9f2",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Google DeepMind",
+    "date": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "related": []
+  },
+  {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -57,6 +137,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "related": []
+  },
+  {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "related": []
+  },
+  {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
     "related": []
   },
   {
@@ -70,6 +170,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e7107d9a76d9",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "Google DeepMind",
+    "date": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +197,216 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "related": []
+  },
+  {
+    "id": "feed-9f727f4c6d89",
+    "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a comprehensive framework for the design and evaluation of autonomous syst",
+    "url": "https://arxiv.org/abs/2609.30291",
+    "related": []
+  },
+  {
+    "id": "feed-3b64b7e40e5e",
+    "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope adherence. We introd",
+    "url": "https://arxiv.org/abs/2609.30325",
+    "related": []
+  },
+  {
+    "id": "feed-3e75f2a25891",
+    "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising response and works well wh",
+    "url": "https://arxiv.org/abs/2609.30328",
+    "related": []
+  },
+  {
+    "id": "feed-b8fa13cceb3f",
+    "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP), implemented throu",
+    "url": "https://arxiv.org/abs/2609.30341",
+    "related": []
+  },
+  {
+    "id": "feed-378c7e6a6559",
+    "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of third-party capabilities, but the openness of this skill ecosystem also opens up a new attack surface. Prior work has focu",
+    "url": "https://arxiv.org/abs/2609.30383",
+    "related": []
+  },
+  {
+    "id": "feed-8ce8f265fed3",
+    "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30397v1 Announce Type: new Abstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of ground truth explanations. In the literature, existing evaluation approaches typically assess explanations by measuring their fidelity with respect to the predictions of a black-box model. However, such e",
+    "url": "https://arxiv.org/abs/2609.30397",
+    "related": []
+  },
+  {
+    "id": "feed-1b71243b506c",
+    "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30446v1 Announce Type: new Abstract: This paper presents a novel approach to infer protein topology using the state-of-the-art graph neural network (GNN), SchNet. The model is trained on the same dataset used to develop the recent DeepTMHMM model with 5-fold cross-validation. Unlike the conventional approaches based on using only the protein sequences or the $\\alpha$-carbons as features, we have decoded ou",
+    "url": "https://arxiv.org/abs/2609.30446",
+    "related": []
+  },
+  {
+    "id": "feed-bf61df888408",
+    "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.30456v1 Announce Type: new Abstract: Reward maximization alignment methods for discrete diffusion models have primarily focused on steering the reverse process, either by influencing token logits or by selecting favorable sequences at intermediate steps. These approaches largely treat inference as a unidirectional process, lacking mechanisms for revisiting undesirable token selections. We introduce Spectra",
+    "url": "https://arxiv.org/abs/2609.30456",
+    "related": []
+  },
+  {
+    "id": "feed-f906814c00dc",
+    "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30469v1 Announce Type: new Abstract: Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understand police decision-making. Pseudo-labeling offers an unsupervised path to improve ASR without expensive human labels, but the efficacy of this approach on very noisy domains is not known. In this work, we systematically assess the opportunities and limits of",
+    "url": "https://arxiv.org/abs/2609.30469",
+    "related": []
+  },
+  {
+    "id": "feed-e3caf6a8ec30",
+    "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.30484v1 Announce Type: new Abstract: While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at their core: do these models truly comprehend context or simply excel at pattern matching on an unprecedented scale? Contextual understanding in LLMs refers to the ability to correctly extract relevant information from a given context, integrate it into a c",
+    "url": "https://arxiv.org/abs/2609.30484",
+    "related": []
+  },
+  {
+    "id": "feed-5047633d1675",
+    "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.30489v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical science. However, existing LLM benchmarking emphasizes factual recall, offering limited insight into model performance on frontier and multimodal tasks. We assembled BioEVAL (BioEngineering Validation of AI and LLMs), a global, multi-institutiona",
+    "url": "https://arxiv.org/abs/2609.30489",
+    "related": []
+  },
+  {
+    "id": "feed-2ebbad3249d4",
+    "title": "Benchy: towards a universal language for task-oriented AI benchmarks",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30550v1 Announce Type: new Abstract: Benchy is a semantic language and execution engine for benchmarking AI programs. A benchmark is completely specified by a program, a scoring function, and a dataset, B=(P,S,D), and is separate from the AI-system taking it; a run binds the two, R=(B,AI). Benchmarks are authored as canonical YAML in which each semantic concept has one valid syntax, classified by a shared ",
+    "url": "https://arxiv.org/abs/2609.30550",
+    "related": []
+  },
+  {
+    "id": "feed-551153ce0ebb",
+    "title": "Rank-Reliable Teacher-Guided Fitness Approximation for Expensive Evolutionary Optimization: A TinyML Architecture Search Study",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30553v1 Announce Type: new Abstract: Expensive evolutionary search does not always need an exact fitness estimate for every candidate. It often needs a reliable answer to a simpler question: which candidate is better? We address this need through Teacher-Guided Learning NSGA-II (TGL-NSGA-II), a low-fidelity framework for constrained Tiny Machine Learning (TinyML) neural architecture search. A pretrained te",
+    "url": "https://arxiv.org/abs/2609.30553",
+    "related": []
+  },
+  {
+    "id": "feed-6c41ae2bcdb3",
+    "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.30563v1 Announce Type: new Abstract: Platform policies are increasingly tested on artificial users, making agent fidelity important. Yet convincing fake profiles could also manipulate perceived public opinion before elections. Validation has concentrated on agreement with human behaviour and has paid little attention to whether an agent behaves in line with the profile it was given. The present study profi",
+    "url": "https://arxiv.org/abs/2609.30563",
+    "related": []
+  },
+  {
+    "id": "feed-118c62149ebc",
+    "title": "Atelier: Learning Local Self-Supervised Features for CryoEM Volumes via Hypernetworks",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30569v1 Announce Type: new Abstract: CryoEM map interpretation requires features that are spatially localized, consistent across samples, and informative across spatial scales. Most deep learning methods for map annotation extract features from fixed voxel grids. However, implicit neural representations (INRs) are able to model volumetric data as scale-agnostic, coordinate-conditioned functions. INRs are t",
+    "url": "https://arxiv.org/abs/2609.30569",
+    "related": []
+  },
+  {
+    "id": "feed-c48bf9c129b7",
+    "title": "HARDEN: Constrained Evolutionary Search for Harder, Answer-Preserving Evaluation Cases",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30571v1 Announce Type: new Abstract: Language models are often evaluated on curated benchmarks that underrepresent the complexity of enterprise deployments. We introduce HARDEN, a constrained evolutionary search method to adapt the input of existing evaluation cases into more challenging variants while keeping their expected outputs fixed. HARDEN searches along generated domain-specific complexity axes whi",
+    "url": "https://arxiv.org/abs/2609.30571",
+    "related": []
+  },
+  {
+    "id": "feed-932cf09d8eb8",
+    "title": "T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.30576v1 Announce Type: new Abstract: Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing the Transformer into recommendation along with design choices made for text, including Rotary Position Embedding (RoPE). In language models, RoPE encodes token indices for relative position reasoning, but in recommendation, an interaction index records onl",
+    "url": "https://arxiv.org/abs/2609.30576",
+    "related": []
+  },
+  {
+    "id": "feed-7136d689e813",
+    "title": "Audio LLMs Know When They Can't Hear You",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.30625v1 Announce Type: new Abstract: Audio large language models allow users to interact with the model through speech. When an input recording is too degraded, the model may misinterpret the user's query and respond based on an incorrect transcription. In this paper, we study model-conditional transcription reliability: whether an Audio LLM can recognize when its own transcription is unreliable. We first ",
+    "url": "https://arxiv.org/abs/2609.30625",
+    "related": []
+  },
+  {
+    "id": "feed-c0e9193fe77e",
+    "title": "LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.30662v1 Announce Type: new Abstract: Large language models (LLMs) can plan, use tools, write code, and execute long-horizon workflows, yet strong local competence does not guarantee project-level executive control. Agents may continue acting after the original objective is satisfied, producing low-value refinements, repeated verification, and repairs to self-created complexity. We use LLM Parkinsonism as a",
+    "url": "https://arxiv.org/abs/2609.30662",
+    "related": []
+  },
+  {
+    "id": "feed-481c03b9d7f1",
+    "title": "The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?",
+    "source": "arXiv AI",
+    "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.30705v1 Announce Type: new Abstract: While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computational cost may not yield better economic outcomes. Yet reasoning controls are rarely evaluated as economic interventions, where changes in model outputs must translate into better portfolios after trading costs. We conduct a controlled study of representati",
+    "url": "https://arxiv.org/abs/2609.30705",
     "related": []
   },
   {
