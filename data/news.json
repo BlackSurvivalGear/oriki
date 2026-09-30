@@ -1,5 +1,205 @@
 [
   {
+    "id": "feed-863c1a823301",
+    "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existing alignment testing practices have foreseen this incident? If not, what needs to change? We explore these questions. First, we identify the misaligned behaviors that caused this incident. Then, we show how to elicit the",
+    "url": "https://arxiv.org/abs/2609.35799",
+    "related": []
+  },
+  {
+    "id": "feed-c11d277ad8de",
+    "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.35833v1 Announce Type: new Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on such devices are unreliable on the tasks computers are expected to handle well, such as arithmetic, algebra, and formal logic problems. We argue that much of this unreliability is avoidable. Many queries appearing to dem",
+    "url": "https://arxiv.org/abs/2609.35833",
+    "related": []
+  },
+  {
+    "id": "feed-89304ef3c2be",
+    "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.35868v1 Announce Type: new Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve adaptation utility without requiring a human-readable textual form. We propose Desired-Update-Aligned Synthetic Data (DASA), which uses activation-gradient feedback from a frozen reference model to g",
+    "url": "https://arxiv.org/abs/2609.35868",
+    "related": []
+  },
+  {
+    "id": "feed-169b41052ff8",
+    "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.35869v1 Announce Type: new Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only under the same boundaries. We measure this cost by bounding the minimum token count from both sides, with and without a regular-expression boundary rule. Nonnegative prices on token occurrences yield a lower bound through sh",
+    "url": "https://arxiv.org/abs/2609.35869",
+    "related": []
+  },
+  {
+    "id": "feed-36b494a2eee7",
+    "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.35873v1 Announce Type: new Abstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated execution of the same program, making specialization difficult to identify. We introduce a controlled evaluation that separates answer coverage, repeatable task advantages, and gains from pre-execution selection. On 386 ",
+    "url": "https://arxiv.org/abs/2609.35873",
+    "related": []
+  },
+  {
+    "id": "feed-aa1b8dddc79d",
+    "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.35874v1 Announce Type: new Abstract: Online POMDP planners optimize the expected cumulative cost, which can mask dangerous states when the belief places significant mass on high-cost states. Existing risk-averse methods apply static or dynamic Conditional Value at Risk (CVaR) to the value function, capturing trajectory-level risk, but share two gaps: (i) by retaining the immediate cost as an expectation of",
+    "url": "https://arxiv.org/abs/2609.35874",
+    "related": []
+  },
+  {
+    "id": "feed-ec1c7dce89e1",
+    "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.35875v1 Announce Type: new Abstract: Multi-agent debate (MAD) reportedly improves reasoning and factuality over single-model inference, but prior work treats agents as symmetric peers, leaving open what drives the gains. We test the hypothesis that cognitive diversity among agents is the driver, in the setting where the question is still measurable: small open-weight models with benchmark headroom. Across ",
+    "url": "https://arxiv.org/abs/2609.35875",
+    "related": []
+  },
+  {
+    "id": "feed-2a9fc4012732",
+    "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.35890v1 Announce Type: new Abstract: Sparse-autoencoder decomposability and concentrated feature attribution are increasingly treated as evidence that a model's computation is easier to reverse-engineer. Whether this representational and attributional cleanliness actually predicts a smaller or more tractable causal circuit remains an open question. We test this directly using adversarial training as a cont",
+    "url": "https://arxiv.org/abs/2609.35890",
+    "related": []
+  },
+  {
+    "id": "feed-a3752edbf666",
+    "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.35897v1 Announce Type: new Abstract: The pursuit of recursive self-improvement (RSI) toward general intelligence is divided between macro-level language model scaling and the interaction-driven principles of \"Era of Experience\". Yet, any self-improving architecture ultimately rests upon its underlying optimization engine: if general intelligence requires learning from grounded interaction, the reinforcemen",
+    "url": "https://arxiv.org/abs/2609.35897",
+    "related": []
+  },
+  {
+    "id": "feed-491ee6eb7e53",
+    "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.35924v1 Announce Type: new Abstract: Discrete diffusion models generate sequences by iteratively resolving multiple tokens in parallel, offering a flexible alternative to left-to-right generation. However, guiding this process with a sequence-level objective is difficult because the value of one unresolved token depends on the other tokens with which it can form a high-reward sequence. Enumerating all such",
+    "url": "https://arxiv.org/abs/2609.35924",
+    "related": []
+  },
+  {
+    "id": "feed-22372145a982",
+    "title": "Right Words, Wrong Moment: A Clinician-Grounded Analysis of Distress in 19,930 Conversations between Young People and ChatGPT",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.35953v1 Announce Type: new Abstract: Young people increasingly turn to General-Purpose Conversational Agents (GPCAs), such as ChatGPT, in moments of distress. We examine young adults' (ages 18-25) experiences using ChatGPT. We first collected 19,930 ChatGPT conversations and survey data from 158 young adults. We then selected five example conversations reflecting user distress. Finally, we asked ten clinic",
+    "url": "https://arxiv.org/abs/2609.35953",
+    "related": []
+  },
+  {
+    "id": "feed-b07e10551885",
+    "title": "SAGE: A Statistical Acceptance Gate for Self-Evolving Agents",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.36043v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents increasingly self-evolve by editing a persistent skill document that encodes their workflow, tool-use rules, and decision logic. This loop has two steps, an optimizer that proposes a candidate edit and a gate that accepts or rejects it. Prior work has concentrated on the optimizer, while the gate still follows a naive rule that ke",
+    "url": "https://arxiv.org/abs/2609.36043",
+    "related": []
+  },
+  {
+    "id": "feed-f704ebf85950",
+    "title": "PowerZooJax: A JAX-based Power System Benchmark for Reinforcement Learning",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.36052v1 Announce Type: new Abstract: Power system operation is a safety-critical sequential decision-making problem, making it a natural testbed for reinforcement learning (RL). However, existing RL environments for power systems are often narrow in scope and computationally limited by CPU-based simulation workflows, making large-scale evaluation difficult. We introduce PowerZooJax, a JAX-based benchmark s",
+    "url": "https://arxiv.org/abs/2609.36052",
+    "related": []
+  },
+  {
+    "id": "feed-66e13de7af06",
+    "title": "GeoWind2Plan: Mission-Time 3D Urban Wind Prediction for Energy-Efficient UAV Planning",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.36056v1 Announce Type: new Abstract: In urban low-altitude flight, buildings reshape ambient wind into spatially varying 3D flow, making unmanned aerial vehicle (UAV) energy depend on local wind exposure as well as path length. However, building-resolved wind information is rarely available when a mission must be planned. Computational fluid dynamics (CFD) can produce high-fidelity urban flow fields, but e",
+    "url": "https://arxiv.org/abs/2609.36056",
+    "related": []
+  },
+  {
+    "id": "feed-89f3edf4e506",
+    "title": "Mirror-Score: Calibrated, Inference-only Scoring Exposes the Limits of Sequence-compatibility Ranking in D-peptide Design",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.36057v1 Announce Type: new Abstract: D-peptides combine protease resistance with high target specificity, but computational design of D-peptide binders remains immature. Mirror-Peptidizer introduced an in silico mirror-image screening pipeline using target reflection, backbone generation, and ProteinMPNN sequence design, but its raw ProteinMPNN negative log-likelihood (NLL) ranking was not validated agains",
+    "url": "https://arxiv.org/abs/2609.36057",
+    "related": []
+  },
+  {
+    "id": "feed-5114bae24d8d",
+    "title": "SMat-Attention: Structured Long-Context Sequence Modeling",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.36062v1 Announce Type: new Abstract: Long-context sequence models face a fundamental tradeoff: softmax attention uses flexible token-level interactions at quadratic cost, whereas linear attention obtains linear-time training and constant-time decoding by compressing history into a fixed-size state. In this work, we ask whether we can connect these regimes through a tunable notion of structure. To this end,",
+    "url": "https://arxiv.org/abs/2609.36062",
+    "related": []
+  },
+  {
+    "id": "feed-c6357b03cc69",
+    "title": "LongCat-DeepResearch Technical Report",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.36071v1 Announce Type: new Abstract: We present LongCat-DeepResearch, a deep research system that combines an enhanced LongCat model with a multi-agent workflow for producing comprehensive, evidence-grounded reports. The workflow separates global planning from detailed investigation and coordinates revision at the section level. Multiple planning agents first explore external sources and refine an actionab",
+    "url": "https://arxiv.org/abs/2609.36071",
+    "related": []
+  },
+  {
+    "id": "feed-f9defbea059c",
+    "title": "A Polyphonic Conception of AI Understanding",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.36079v1 Announce Type: new Abstract: When a doctor, a judge, or an engineer must decide whether to trust an AI model's output, they cannot avoid asking what the model understands. Purely mathematical or statistical descriptions struggle to distinguish trustworthy from untrustworthy outputs without reintroducing the question of AI understanding in all but name. Yet the question is ill-framed as it stands, b",
+    "url": "https://arxiv.org/abs/2609.36079",
+    "related": []
+  },
+  {
+    "id": "feed-a4e03895217f",
+    "title": "GeoOutageBench: Benchmarking Ambiguity-aware, Ontology-grounded Geospatiotemporal KGQA for Multimodal Power Outage and Resilience Analysis",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2609.36082v1 Announce Type: new Abstract: We introduce GeoOutageBench, a benchmark for assessing LLM-based geospatiotemporal KGQA for multimodal outage and resilience analysis. Unlike existing KGQA benchmarks for Web knowledge, GeoOutageBench considers a spatiotemporal KG that integrates visual, textual, and structured data from outage records, remote sensing, weather observations, storm and power events, geogr",
+    "url": "https://arxiv.org/abs/2609.36082",
+    "related": []
+  },
+  {
+    "id": "feed-ead218d87ed2",
+    "title": "An Exact Generate - Transform Decomposition of Small-LLM Team Scaling Across Orchestration Architectures",
+    "source": "arXiv AI",
+    "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2609.36104v1 Announce Type: new Abstract: Replacing one LLM agent with a collaborating team can raise accuracy, but whether scaling the team helps, and which architecture to scale, is unclear. Sweeping eight agent orchestration architectures across five instruction-tuned 7-9B models, five short-answer benchmarks, and an executable-code benchmark up to 30 calls, we find that the returns to team scaling are sharp",
+    "url": "https://arxiv.org/abs/2609.36104",
+    "related": []
+  },
+  {
     "id": "feed-0ce8c6adc247",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "source": "Google DeepMind",
@@ -7,6 +207,36 @@
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "related": []
+  },
+  {
+    "id": "feed-4c4abcff4acd",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "source": "Google DeepMind",
+    "date": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "related": []
+  },
+  {
+    "id": "feed-1d5a9cc2d950",
+    "title": "Introducing MentalHealthBench",
+    "source": "OpenAI",
+    "date": "Wed, 23 Sep 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+    "url": "https://openai.com/index/introducing-mentalhealthbench",
+    "related": []
+  },
+  {
+    "id": "feed-09a0c6dbf1c6",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "source": "OpenAI",
+    "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
     "related": []
   },
   {
@@ -20,6 +250,16 @@
     "related": []
   },
   {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -27,6 +267,36 @@
     "category": "RESEARCH",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "related": []
+  },
+  {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-dd66acaed2a0",
+    "title": "Introducing GPT-6.1 Sol",
+    "source": "OpenAI",
+    "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "related": []
+  },
+  {
+    "id": "feed-884977ecb800",
+    "title": "Introducing dots",
+    "source": "OpenAI",
+    "date": "Tue, 29 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "url": "https://openai.com/index/introducing-dots",
     "related": []
   },
   {
@@ -50,6 +320,26 @@
     "related": []
   },
   {
+    "id": "feed-f4c3141ce9f2",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Google DeepMind",
+    "date": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "related": []
+  },
+  {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -57,6 +347,26 @@
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "related": []
+  },
+  {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "related": []
+  },
+  {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
     "related": []
   },
   {
@@ -70,6 +380,26 @@
     "related": []
   },
   {
+    "id": "feed-e7107d9a76d9",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "Google DeepMind",
+    "date": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +407,16 @@
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
     "related": []
   },
   {
