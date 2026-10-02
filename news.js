@@ -30,6 +30,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-dd66acaed2a0",
+    "title": "Introducing GPT-6.1 Sol",
+    "source": "OpenAI",
+    "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "related": []
+  },
+  {
+    "id": "feed-884977ecb800",
+    "title": "Introducing dots",
+    "source": "OpenAI",
+    "date": "Tue, 29 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "url": "https://openai.com/index/introducing-dots",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -50,6 +70,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -57,6 +87,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "related": []
+  },
+  {
+    "id": "feed-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "source": "Hugging Face",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
     "related": []
   },
   {
@@ -77,6 +117,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-0bf00b70dbd7",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "source": "Hugging Face",
+    "date": "Thu, 01 Oct 2026 15:01:43 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/olmocore3",
     "related": []
   },
   {
@@ -117,6 +167,206 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-1d9ebfbb76c9",
+    "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retrieval, agent memory can concentrate on a small core while leaving rare states in a long tail where p",
+    "url": "https://arxiv.org/abs/2610.00010",
+    "related": []
+  },
+  {
+    "id": "feed-3e14a998894f",
+    "title": "When Do Causal World Models Help Modular LLM Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this is not the quantity needed for intervention-time planning: a trace may show that payment precedes shipment without identi",
+    "url": "https://arxiv.org/abs/2610.00012",
+    "related": []
+  },
+  {
+    "id": "feed-b044d2469ff2",
+    "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through deterministic admission, brokered execution, external read-back, reconciliation, and reviewed promotion. We report four evi",
+    "url": "https://arxiv.org/abs/2610.00015",
+    "related": []
+  },
+  {
+    "id": "feed-d51c048af50d",
+    "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention diagnostic that fixes the evidence and candidate answer while varying only the rationale passed across the reasoner-to-verif",
+    "url": "https://arxiv.org/abs/2610.00018",
+    "related": []
+  },
+  {
+    "id": "feed-a21d05cf6500",
+    "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practitioner-defined thresholds and, when they fail, why, and whether quantization changes the answer. We b",
+    "url": "https://arxiv.org/abs/2610.00025",
+    "related": []
+  },
+  {
+    "id": "feed-0388c309b4d1",
+    "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its high-PRM prefix is extracted and grafted verbatim as an in-context demonstration into a still-decoding sibling. We isolate this mechanism, PRM-Pruned Fragment Grafting (PPFG), as the most cost-minimal",
+    "url": "https://arxiv.org/abs/2610.00047",
+    "related": []
+  },
+  {
+    "id": "feed-26f09a4e1835",
+    "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00061v1 Announce Type: new Abstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggregate quality. While Direct Preference Optimization (DPO) provides a stable framework for preference learning, its effectiveness in personalized settings critically depends on how preference pairs are selected. Existing approaches typically rel",
+    "url": "https://arxiv.org/abs/2610.00061",
+    "related": []
+  },
+  {
+    "id": "feed-e513e6b3ad6d",
+    "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00074v1 Announce Type: new Abstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer. The researcher supplies access to a model of their choice, hosted or running locally, and the application supplies everything else: a place for the work to run, a layer of scientific scaffolding, and a complete record. E",
+    "url": "https://arxiv.org/abs/2610.00074",
+    "related": []
+  },
+  {
+    "id": "feed-be07583f5333",
+    "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00084v1 Announce Type: new Abstract: Detailed profession-specific system prompts raise token use and estimated cost per response without a consistent accuracy gain. We evaluate Scientific Agents, an open-source corpus of 503 profession-specific AGENTS.md profiles, with Gemini 3.8 Flash via OpenRouter in the Pi agent harness. We compare matched profiles with four controls: a minimal baseline (\"You are a hel",
+    "url": "https://arxiv.org/abs/2610.00084",
+    "related": []
+  },
+  {
+    "id": "feed-a6f29e580f41",
+    "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00197v1 Announce Type: new Abstract: We investigate automated rewards for training language models in conversational humor, focusing on reward exploits and countermeasures. Two approaches aim to capture understandable surprise and predicted audience amusement. Controlled tests show that an embedding-based surprise reward accepts word-shuffled replies as readily as witty ones. A fluency filter detects the s",
+    "url": "https://arxiv.org/abs/2610.00197",
+    "related": []
+  },
+  {
+    "id": "feed-1df3ee805a6b",
+    "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00212v1 Announce Type: new Abstract: Public-service recommendations require evidence that matches the requested service, scope, and date. Yet treating every missing detail as decisive can withhold useful recommendations. We introduce EviGraph, which distinguishes critical decision requirements from information that can remain unresolved. A language agent links these requirements to evidence in a temporal k",
+    "url": "https://arxiv.org/abs/2610.00212",
+    "related": []
+  },
+  {
+    "id": "feed-8a30b1313a97",
+    "title": "Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00224v1 Announce Type: new Abstract: Building automation systems are increasingly represented as semantic knowledge graphs (KGs) using ontologies such as Brick and ASHRAE 223P, creating a machine-readable substrate for artificial-intelligence applications. One promising application is translating natural-language questions into SPARQL (text-to-SPARQL), which would let building operators query these graphs ",
+    "url": "https://arxiv.org/abs/2610.00224",
+    "related": []
+  },
+  {
+    "id": "feed-a5a2f1b92149",
+    "title": "Robust Is Salient: An Informed Adversary Moves the Optimal Signal onto the Salience Pole",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00233v1 Announce Type: new Abstract: When an informed adversary shares the audience of a constrained signalling channel, the signal that best protects the truth is the signal that best describes it. On 108 confirmatory items, the adversary-robust optimum aligns exactly with the salience pole from prior work. Across a 200,000-item pool, the two differ on only 2,748 items --- lying exactly where the prior sa",
+    "url": "https://arxiv.org/abs/2610.00233",
+    "related": []
+  },
+  {
+    "id": "feed-f65e6d52ee77",
+    "title": "Conflicting Supervision Moves Commitment, Not Capability: A 12.29{\\sigma} arrangement effect that is exactly zero under a convention-agnostic score",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00234v1 Announce Type: new Abstract: \"Train a model on the same problems written under two incompatible conventions, both correct, and ask what the ordering of that data writes into the parameters. The learning-rate schedule is not a background condition for that question. It is the averaging operator, and it decides the answer. We prove a bound in which the arrangement and the schedule enter the ordering ",
+    "url": "https://arxiv.org/abs/2610.00234",
+    "related": []
+  },
+  {
+    "id": "feed-80892eda7e1f",
+    "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00282v1 Announce Type: new Abstract: How should an embodied agent respond when a person's correction may be wrong? We formulate grounded correction arbitration as a choice among accepting, rejecting, inspecting the world, and asking the speaker. GAVA implements this interface with observation-bounded evidence, legal probes, and a one-step expected-loss rule. In text-only ALFWorld, 162 checkpoints produce 9",
+    "url": "https://arxiv.org/abs/2610.00282",
+    "related": []
+  },
+  {
+    "id": "feed-d503dff845eb",
+    "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.00313v1 Announce Type: new Abstract: Scientific coding agents receive equations, boundary conditions, and output requirements in writing, then must assess the programs they revise. Rules to Tools (R2T) supplies prepared executable checks of public scientific requirements. Matched SciCode repair groups share written checks, starting programs, model, and budgets; the tool group receives a callable implementa",
+    "url": "https://arxiv.org/abs/2610.00313",
+    "related": []
+  },
+  {
+    "id": "feed-e31d3af4bf24",
+    "title": "Predictive Credit: Measuring What Scientific Explanations Add to Experimental Forecasts",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00314v1 Announce Type: new Abstract: Research agents explain planned experiments. We measure predictive credit with paired forecasts sharing an intervention, forecaster, and outcome while varying description, matched explanation, and donor context. Five checks track commitment, delivery, predictive gain, alignment, and known-signal uptake. Across 336 prospective states in controlled learning, 12 Tox21 endp",
+    "url": "https://arxiv.org/abs/2610.00314",
+    "related": []
+  },
+  {
+    "id": "feed-f95fb37ba452",
+    "title": "ContractRL: Shielded Group-Relative Policy Optimization for Auditable Tool-Call Repair",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00328v1 Announce Type: new Abstract: Structured tool calls often fail after only a small number of fields violate a schema or an execution contract. Regenerating the complete object enlarges the action surface and makes repeated repair difficult to audit. We introduce ContractRL, a contract-constrained sequential repair protocol that models verifier-guided JSON repair as a bounded decision process. At each",
+    "url": "https://arxiv.org/abs/2610.00328",
+    "related": []
+  },
+  {
+    "id": "feed-0e425e4cc95c",
+    "title": "Mathematical Transfer in LLMs Follows Reasoning Approach More Than Topic",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.00331v1 Announce Type: new Abstract: When selecting mathematical training data for LLMs, a natural organizing principle is topic: probability examples for probability targets. An alternative is reasoning approach: worked solutions that share a solution method with the target, even when the mathematical domain differs. We ask which relation produces greater transfer after fine-tuning. We evaluate two counte",
+    "url": "https://arxiv.org/abs/2610.00331",
+    "related": []
+  },
+  {
+    "id": "feed-c7c10a69afb8",
+    "title": "Fault-Tolerant Budget Conservation in Distributed Multi-Agent Delegation",
+    "source": "arXiv AI",
+    "date": "Fri, 02 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.00349v1 Announce Type: new Abstract: Resource limits are becoming an authorization boundary for AI agents that delegate work across concurrent and failure-prone workers. Parent-child allocation constraints, affine objects, and distributed escrow do not by themselves prevent overspend when replies are lost, effects complete after timeout, messages repeat, branches partition, or DAG joins alias one lineage. ",
+    "url": "https://arxiv.org/abs/2610.00349",
     "related": []
   },
   {
