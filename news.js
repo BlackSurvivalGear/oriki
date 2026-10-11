@@ -30,6 +30,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-91ed3eb235f3",
+    "title": "Introducing Falcon ASR",
+    "source": "Hugging Face",
+    "date": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -47,6 +57,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "related": []
   },
   {
@@ -80,6 +100,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-89764eae0099",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "source": "Hugging Face",
+    "date": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "related": []
+  },
+  {
     "id": "feed-9101339b1ac2",
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "source": "Hugging Face",
@@ -110,6 +140,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-3cbec84de8bf",
+    "title": "Building advertising for the way people use AI",
+    "source": "OpenAI",
+    "date": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "related": []
+  },
+  {
     "id": "feed-7898549b95c3",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -117,6 +157,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI",
+    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "url": "https://openai.com/index/asana-browser-agent",
     "related": []
   },
   {
