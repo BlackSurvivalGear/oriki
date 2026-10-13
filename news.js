@@ -1,5 +1,15 @@
 window.ORIKI_NEWS = [
   {
+    "id": "feed-0a622a33b8e3",
+    "title": "Introducing SynthID Bio",
+    "source": "Google DeepMind",
+    "date": "Wed, 30 Sep 2026 15:03:07 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "related": []
+  },
+  {
     "id": "feed-0ce8c6adc247",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "source": "Google DeepMind",
@@ -7,6 +17,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "related": []
+  },
+  {
+    "id": "feed-4c4abcff4acd",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "source": "Google DeepMind",
+    "date": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
     "related": []
   },
   {
@@ -20,6 +40,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "related": []
+  },
+  {
     "id": "feed-90b62352ebbd",
     "title": "Investing in multi-agent AI safety research",
     "source": "Google DeepMind",
@@ -27,6 +57,26 @@ window.ORIKI_NEWS = [
     "category": "RESEARCH",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "related": []
+  },
+  {
+    "id": "feed-91ed3eb235f3",
+    "title": "Introducing Falcon ASR",
+    "source": "Hugging Face",
+    "date": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "related": []
+  },
+  {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
     "related": []
   },
   {
@@ -50,6 +100,226 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-f4c3141ce9f2",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Google DeepMind",
+    "date": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "related": []
+  },
+  {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "related": []
+  },
+  {
+    "id": "feed-cbcd28745789",
+    "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more human-understandable. However, evidence accumulated over the last decade points to an overall failure of this objective, instead promoting overreliance on incorrect predictions, which can subsequentl",
+    "url": "https://arxiv.org/abs/2610.12493",
+    "related": []
+  },
+  {
+    "id": "feed-6cf0ccffbf38",
+    "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several solutions. Performance was evaluated across six Gymnasium control tasks, each with ten generations and fifty candidate slots per generation. E",
+    "url": "https://arxiv.org/abs/2610.12536",
+    "related": []
+  },
+  {
+    "id": "feed-3aae022998c9",
+    "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run that comparison under a controlled protocol. All arms receive an identical budget - the same number of candidate schedules built and evaluated:",
+    "url": "https://arxiv.org/abs/2610.12542",
+    "related": []
+  },
+  {
+    "id": "feed-e269ec2e2621",
+    "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable trajectories, but also interactions that provide learning value for the current task agent. Existing methods increasingly incorporate environment feedback, data validation, or lea",
+    "url": "https://arxiv.org/abs/2610.12593",
+    "related": []
+  },
+  {
+    "id": "feed-0930ea1989dd",
+    "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowledge, reasoning and luck. We introduce SpireBench, in which models play the complete commercial deck-builder Slay the Spire (StS), where earl",
+    "url": "https://arxiv.org/abs/2610.12596",
+    "related": []
+  },
+  {
+    "id": "feed-ce3626fa9c49",
+    "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12598v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) provides reliable supervision for software engineering agents through executable tests, but binary rewards fail to distinguish trajectories with substantially different debugging quality. We investigate whether the current policy can judge its own trajectories and use these judgments to improve task performance witho",
+    "url": "https://arxiv.org/abs/2610.12598",
+    "related": []
+  },
+  {
+    "id": "feed-ada28475321e",
+    "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12655v1 Announce Type: new Abstract: LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and constraints that users may leave unstated. We study this problem as interactive intent alignment through clarification. Yet clarification is useful only when the agent can turn the answer into better decisions. As training changes how the agent",
+    "url": "https://arxiv.org/abs/2610.12655",
+    "related": []
+  },
+  {
+    "id": "feed-0a1525c6c8de",
+    "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12659v1 Announce Type: new Abstract: Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. However, corpus size alone does not determine whether the dataset provides a useful learning signal for a target policy. To guide the synthesis of effective RLVR data, we experimentally characterize dataset effectiveness as a function of its problems, the target policy, an",
+    "url": "https://arxiv.org/abs/2610.12659",
+    "related": []
+  },
+  {
+    "id": "feed-68feedccfc0e",
+    "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.12762v1 Announce Type: new Abstract: Hardware datasheets contain engineering specifications essential for component selection, system integration, and hardware compatibility verification. However, manual inspection is tedious and error-prone because datasheets are lengthy and heterogeneous, with dense information fragmented across tables, figures, and text. Although large language models (LLMs) can automat",
+    "url": "https://arxiv.org/abs/2610.12762",
+    "related": []
+  },
+  {
+    "id": "feed-856d9ae50dfc",
+    "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12781v1 Announce Type: new Abstract: Aligning two independently pretrained unimodal encoders typically demands millions of paired examples. In this paper, we study the regime where only $N \\sim 100$--$500$ pairs are available, while unpaired data on either side is abundant. Our method expresses every representation by its similarities to the $N$ paired anchors, which places both modalities in a common coor",
+    "url": "https://arxiv.org/abs/2610.12781",
+    "related": []
+  },
+  {
+    "id": "feed-6b5f50b7b9c1",
+    "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.12789v1 Announce Type: new Abstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedurally capable agents can fail when their beliefs about environment dynamics are incomplete, incorrect, or outdated. We study a complementary axis of self-evolution: evolving those beliefs during deployment. Such beliefs can support multiple task",
+    "url": "https://arxiv.org/abs/2610.12789",
+    "related": []
+  },
+  {
+    "id": "feed-742677295460",
+    "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.12813v1 Announce Type: new Abstract: LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, which can create serious safety and security risks. Runtime guardrails should therefore make inspectable, reproducible, and deterministic allow or refuse decisions before potentially irreversible agent actions are executed. However, safety and security requirem",
+    "url": "https://arxiv.org/abs/2610.12813",
+    "related": []
+  },
+  {
+    "id": "feed-07b66948407d",
+    "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12822v1 Announce Type: new Abstract: Multi-agent systems are increasingly used to solve coding tasks by coordinating agents that share code and plans. These agents are often optimized with reinforcement learning (RL) using automated evaluators, but bypassing evaluation can earn reward without producing a genuine solution. Prior work has largely treated reward hacking as a single-agent failure. In this work",
+    "url": "https://arxiv.org/abs/2610.12822",
+    "related": []
+  },
+  {
+    "id": "feed-fb8ca82de0cf",
+    "title": "Neural networks are more modular than single neurons suggest",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12842v1 Announce Type: new Abstract: Neural networks routinely develop representations in which individual neurons contribute to multiple distinct functions, leading to the widespread view that such networks lack modular organization. We challenge this conclusion by introducing a formally nested hierarchy of modularity: unit-level, which requires distinct computations to occupy disjoint neurons; orthogonal",
+    "url": "https://arxiv.org/abs/2610.12842",
+    "related": []
+  },
+  {
+    "id": "feed-6723d2795f5a",
+    "title": "Towards Defining, Measuring, and Leveraging Creativity in AI Applications",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12845v1 Announce Type: new Abstract: Despite extensive research, computational creativity still lacks a conceptually grounded, practically relevant, and empirically applicable formal definition across contexts such as art, scientific research, and games. Existing approaches to creativity often focus on proposing informal conceptual definitions without providing formal computational concepts. Alternatively,",
+    "url": "https://arxiv.org/abs/2610.12845",
+    "related": []
+  },
+  {
+    "id": "feed-ea483b0a1bc8",
+    "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.12855v1 Announce Type: new Abstract: On-Policy Self-distillation is a self-improvement paradigm that enables large language models (LLMs) to improve their capabilities by leveraging the same model as both teacher and student under different conditioning contexts. However, we find that OPSD methods can progressively degrade previously acquired capabilities: queries that are correctly responded at earlier tr",
+    "url": "https://arxiv.org/abs/2610.12855",
+    "related": []
+  },
+  {
+    "id": "feed-38cddd70caed",
+    "title": "Collaborative Theory of Mind: Learning to Self-Revise by Anticipating User Responses",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12872v1 Announce Type: new Abstract: Large language models (LLMs) demonstrate strong individual task performance, yet still struggle to collaborate with users over extended, multi-turn interactions, for example by attempting solutions before understanding the user's needs or by failing to revise mistaken assumptions after receiving feedback. We propose Collaborative Theory of Mind (CToM), a framework that ",
+    "url": "https://arxiv.org/abs/2610.12872",
+    "related": []
+  },
+  {
+    "id": "feed-0365609c2812",
+    "title": "One-Step Text Generation by Seq-Drifting",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.12879v1 Announce Type: new Abstract: Diffusion language models generate tokens in parallel, but still require multiple sampling steps to produce high-quality text. In this paper, we investigate whether a model can learn to generate an entire sequence in a single forward pass. We propose Seq-Drifting, a framework that applies drifting to sequences of continuous token representations and directly learns a ma",
+    "url": "https://arxiv.org/abs/2610.12879",
+    "related": []
+  },
+  {
+    "id": "feed-ca1c12601ada",
+    "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.12881v1 Announce Type: new Abstract: Understanding and manipulating spatial relations is fundamental to AI systems that reason about physical environments and construct grounded world models. However, existing evaluations of multimodal large language models (MLLMs) for spatial reasoning rely predominantly on static question-answering (QA) over small-scale or synthetic scenes, rarely probing whether models ",
+    "url": "https://arxiv.org/abs/2610.12881",
+    "related": []
+  },
+  {
+    "id": "feed-061a7f060b7a",
+    "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
+    "source": "arXiv AI",
+    "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.12914v1 Announce Type: new Abstract: Vision-language-action (VLA) models have shown strong promise in robotic manipulation, yet their post-training still predominantly relies on trajectory-level supervised imitation over robot demonstrations. While effective for learning feasible actions, this paradigm supervises policies to reproduce expert actions at each step, biasing them toward demonstration-specific ",
+    "url": "https://arxiv.org/abs/2610.12914",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -57,6 +327,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "related": []
+  },
+  {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "related": []
   },
   {
@@ -70,6 +350,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e7107d9a76d9",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "Google DeepMind",
+    "date": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "related": []
+  },
+  {
+    "id": "feed-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +377,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "related": []
+  },
+  {
+    "id": "feed-89764eae0099",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "source": "Hugging Face",
+    "date": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
     "related": []
   },
   {
@@ -110,6 +430,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-3cbec84de8bf",
+    "title": "Building advertising for the way people use AI",
+    "source": "OpenAI",
+    "date": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "related": []
+  },
+  {
     "id": "feed-7898549b95c3",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -117,6 +447,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI",
+    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "url": "https://openai.com/index/asana-browser-agent",
     "related": []
   },
   {
