@@ -133,5 +133,50 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "source": "https://huggingface.co/blog/real-world-voiceeq",
     "detectedDate": "2026-08-09",
     "slug": "real-world-voiceeq"
+  },
+  {
+    "id": "auto-91ed3eb235f3",
+    "name": "FALCON ASR",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing Falcon ASR",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "detectedDate": "2026-10-15",
+    "slug": "falcon-asr"
+  },
+  {
+    "id": "auto-89764eae0099",
+    "name": "THE AGENT SAID IT WAS DONE. THE DATABASE DISAGREED.",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "The Agent Said It Was Done. The Database Disagreed.",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "detectedDate": "2026-10-15",
+    "slug": "the-agent-said-it-was-done-the-database-disagree"
+  },
+  {
+    "id": "auto-16a7b27ed0ae",
+    "name": "YOUR AGENT ACED THE TASK. WILL IT DO IT AGAIN?",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Your Agent Aced the Task. Will It Do It Again?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "detectedDate": "2026-10-15",
+    "slug": "your-agent-aced-the-task-will-it-do-it-again"
   }
 ];

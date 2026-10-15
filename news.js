@@ -30,6 +30,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-91ed3eb235f3",
+    "title": "Introducing Falcon ASR",
+    "source": "Hugging Face",
+    "date": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -47,6 +57,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "related": []
   },
   {
@@ -70,6 +90,206 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-a16d50c7df94",
+    "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions ",
+    "url": "https://arxiv.org/abs/2610.14005",
+    "related": []
+  },
+  {
+    "id": "feed-574863154eac",
+    "title": "The Silent Failures in Agentic Data Science",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correc",
+    "url": "https://arxiv.org/abs/2610.14115",
+    "related": []
+  },
+  {
+    "id": "feed-8ddbcf370a84",
+    "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predomin",
+    "url": "https://arxiv.org/abs/2610.14118",
+    "related": []
+  },
+  {
+    "id": "feed-8974705b9389",
+    "title": "Correction Training for Diffusion Models",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier steps, something it has never seen at training time. This might be one reason diffusion models often struggle without ad",
+    "url": "https://arxiv.org/abs/2610.14136",
+    "related": []
+  },
+  {
+    "id": "feed-1993f9efc3a0",
+    "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure ",
+    "url": "https://arxiv.org/abs/2610.14146",
+    "related": []
+  },
+  {
+    "id": "feed-eb7ba398ae61",
+    "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration across academic and non-academic sectors. This framework addresses the gap between AI advances in human medicine and the",
+    "url": "https://arxiv.org/abs/2610.14149",
+    "related": []
+  },
+  {
+    "id": "feed-fcaa77fed709",
+    "title": "Unconstrained CTI-REALM with Open-Weights",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We study that choice on CTI-REALM (arXiv:2603.13517), a benchmark in which an agent turns a threat-intelligence report into a working detection by querying a live telemetry store",
+    "url": "https://arxiv.org/abs/2610.14180",
+    "related": []
+  },
+  {
+    "id": "feed-cfd42c97f96c",
+    "title": "Visualizing the World Model in an Agent's Value Function",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to explore if the value function of a Proximal Policy Optimization agent forms a world model of the Crafter environment. Despite only being trained to",
+    "url": "https://arxiv.org/abs/2610.14186",
+    "related": []
+  },
+  {
+    "id": "feed-016b7629fb55",
+    "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14190v1 Announce Type: new Abstract: Explaining a vision--language model (VLM) prediction requires tracing training-example influence to the multimodal evidence that mediates it, yet existing attribution methods largely operate only at the sample level. Recent latent-mediated influence methods provide feature-level attribution in language models, but lack the multimodal and spatial structure needed to grou",
+    "url": "https://arxiv.org/abs/2610.14190",
+    "related": []
+  },
+  {
+    "id": "feed-529a6fa4cd41",
+    "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14209v1 Announce Type: new Abstract: The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them by reading the private data of the user. Agents powered by models small enough to run on edge devices keep that data local, but yield far worse results. A third option is to have cloud models write a program that devices execute: the data stays local, but as",
+    "url": "https://arxiv.org/abs/2610.14209",
+    "related": []
+  },
+  {
+    "id": "feed-9abfa6eaa744",
+    "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14224v1 Announce Type: new Abstract: LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these harnesses. However, deploying RSI in open-world settings still faces two critical challenges. First, open-world tasks are typically unseen during the harness design phase and",
+    "url": "https://arxiv.org/abs/2610.14224",
+    "related": []
+  },
+  {
+    "id": "feed-f8d6f758184b",
+    "title": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14277v1 Announce Type: new Abstract: Tensor parallelism ends every layer with an all-reduce that sits between two dependent matrix multiplications, so its cost cannot be hidden and grows as compute outpaces interconnect bandwidth. Sending 4-bit instead of 16-bit values would cut this cost by nearly 4x, but the all-reduce must add the values it carries, and rounding the sum injects an error at every call. M",
+    "url": "https://arxiv.org/abs/2610.14277",
+    "related": []
+  },
+  {
+    "id": "feed-5ad653a5e17c",
+    "title": "Controllable Diverse Sampling through Pullback Directions",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14294v1 Announce Type: new Abstract: Conditional diffusion models can generate high-quality images that align closely with a given prompt. However, samples generated from different random seeds may remain visually similar, limiting creative exploration. Existing approaches can increase variation, but often require additional optimization or sampling overhead, while stronger perturbations may introduce dist",
+    "url": "https://arxiv.org/abs/2610.14294",
+    "related": []
+  },
+  {
+    "id": "feed-f7e7cbe339e1",
+    "title": "ConicFlow: constrained Inference-time optimal control for flow matching models",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14307v1 Announce Type: new Abstract: We propose ConicFlow, which frames constrained sampling from a flow matching model at inference time as an optimal control problem that balances deviation from the pretrained trajectory against reward, subject to hard terminal constraints. We discretize this problem and adapt receding-horizon control, optimizing only a short window of the trajectory at each step for com",
+    "url": "https://arxiv.org/abs/2610.14307",
+    "related": []
+  },
+  {
+    "id": "feed-6c990e4d4538",
+    "title": "Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14334v1 Announce Type: new Abstract: In Model Context Protocol (MCP) systems, LLMs select tools from metadata rather than from their implementations. Names and descriptions summarize what a tool does, while the parameter schema specifies the fields a tool accepts and how they are organized. Our analysis of metadata for 367,174 MCP tools reveals substantial schema variation among functionally similar tools.",
+    "url": "https://arxiv.org/abs/2610.14334",
+    "related": []
+  },
+  {
+    "id": "feed-93314310abf6",
+    "title": "Actionable Meta-Requirements for AI Robustness Auditing",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14356v1 Announce Type: new Abstract: AI-enabled systems must remain dependable when the conditions under which they operate change (e.g., due to input perturbations, distribution shifts, or changes in external dependencies). This makes robustness auditing of such systems important for judging whether the available evidence is sufficient to support a defined robustness conclusion. However, designing an AI r",
+    "url": "https://arxiv.org/abs/2610.14356",
+    "related": []
+  },
+  {
+    "id": "feed-5309a9efbf0f",
+    "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14360v1 Announce Type: new Abstract: Large language model (LLM) alignment often assumes that the user interacting with a model is also the primary beneficiary of its behavior. Yet in many consequential settings, one person directs the system while another bears the consequences. We study this problem in caregiver-mediated healthcare, where parents, pet owners, and caregivers make decisions for children, an",
+    "url": "https://arxiv.org/abs/2610.14360",
+    "related": []
+  },
+  {
+    "id": "feed-2b11f9ff86b1",
+    "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14381v1 Announce Type: new Abstract: Large language models are increasingly used as scientific assistants, yet we still lack reliable ways to evaluate whether they can investigate a system rather than merely answer a prompt. A useful evaluation must let agents choose experiments, interpret finite evidence, and make causal decisions, while keeping the environment coherent across repeated observations and in",
+    "url": "https://arxiv.org/abs/2610.14381",
+    "related": []
+  },
+  {
+    "id": "feed-26f1dcffd104",
+    "title": "ANASSA: From High-Level Framework to Low-Level Architecture for Spatial Agentic AI",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.14382v1 Announce Type: new Abstract: Agentic AI systems operating over geospatial data require more than autonomous reasoning and tool use; they must also support explicit orchestration, spatial validation, governance, provenance, failure handling, and human decision authority. Prior work introduced ANASSA, an agentic AI orchestration framework for spatial intelligence that established high-level component",
+    "url": "https://arxiv.org/abs/2610.14382",
+    "related": []
+  },
+  {
+    "id": "feed-49f9eb7f951a",
+    "title": "Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware",
+    "source": "arXiv AI",
+    "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.14389v1 Announce Type: new Abstract: Benchmark scores tell us what an LLM can do, but not how much energy is required to deliver that capability. We directly measure this trade-off for 86 open-weight model checkpoints, evaluated on seven benchmarks and six hardware platforms ranging from a consumer GPU to an eight-GPU server. We find large differences in energy efficiency even among models with similar cap",
+    "url": "https://arxiv.org/abs/2610.14389",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +297,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-89764eae0099",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "source": "Hugging Face",
+    "date": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
     "related": []
   },
   {
@@ -117,6 +347,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI",
+    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "url": "https://openai.com/index/asana-browser-agent",
     "related": []
   },
   {
