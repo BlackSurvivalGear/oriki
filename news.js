@@ -30,6 +30,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-91ed3eb235f3",
+    "title": "Introducing Falcon ASR",
+    "source": "Hugging Face",
+    "date": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -47,6 +57,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face",
+    "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "related": []
   },
   {
@@ -70,6 +90,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-a72d1e4da6b0",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "source": "OpenAI",
+    "date": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +107,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-89764eae0099",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "source": "Hugging Face",
+    "date": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
     "related": []
   },
   {
@@ -117,6 +157,46 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-65442e708214",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "source": "OpenAI",
+    "date": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "related": []
+  },
+  {
+    "id": "feed-9db4940a53f8",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "related": []
+  },
+  {
+    "id": "feed-849b423196d1",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "source": "Hugging Face",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "related": []
+  },
+  {
+    "id": "feed-90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI",
+    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "url": "https://openai.com/index/asana-browser-agent",
     "related": []
   },
   {
