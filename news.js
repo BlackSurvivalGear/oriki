@@ -1,5 +1,15 @@
 window.ORIKI_NEWS = [
   {
+    "id": "feed-0a622a33b8e3",
+    "title": "Introducing SynthID Bio",
+    "source": "Google DeepMind",
+    "date": "Wed, 30 Sep 2026 15:03:07 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "related": []
+  },
+  {
     "id": "feed-0ce8c6adc247",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "source": "Google DeepMind",
@@ -7,6 +17,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "related": []
+  },
+  {
+    "id": "feed-4c4abcff4acd",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "source": "Google DeepMind",
+    "date": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "related": []
+  },
+  {
+    "id": "feed-61f4d0141ff3",
+    "title": "OpenAI models are coming to Google Cloud",
+    "source": "OpenAI",
+    "date": "Wed, 21 Oct 2026 12:00:00 GMT",
+    "category": "MODELS",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "url": "https://openai.com/index/openai-models-google-cloud",
     "related": []
   },
   {
@@ -30,6 +60,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-91ed3eb235f3",
+    "title": "Introducing Falcon ASR",
+    "source": "Hugging Face",
+    "date": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "related": []
+  },
+  {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -37,6 +87,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-a84b6a7bee5c",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "source": "OpenAI",
+    "date": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "url": "https://openai.com/index/terminal-x",
     "related": []
   },
   {
@@ -50,6 +110,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-f4c3141ce9f2",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Google DeepMind",
+    "date": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -57,6 +127,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "related": []
+  },
+  {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "related": []
   },
   {
@@ -70,6 +150,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e7107d9a76d9",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "Google DeepMind",
+    "date": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "related": []
+  },
+  {
+    "id": "feed-e3c36d4422c6",
+    "title": "Apertus 1.5 Release Notes",
+    "source": "Hugging Face",
+    "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +177,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "related": []
+  },
+  {
+    "id": "feed-89764eae0099",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "source": "Hugging Face",
+    "date": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
     "related": []
   },
   {
@@ -110,6 +230,206 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-74bd144fb682",
+    "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28686v1 Announce Type: new Abstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider multi-turn grounded conversational scenarios where a user query is either ill-formed or ambiguous in the context of the prior dialog or, more interestingly, it may be well-formed but when posed against retrieved documents there are multiple rel",
+    "url": "https://arxiv.org/abs/2610.28686",
+    "related": []
+  },
+  {
+    "id": "feed-4327a145e809",
+    "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, controls, and objectives remains unclear. We investigate this question through a controlled study of continued pre-train",
+    "url": "https://arxiv.org/abs/2610.28698",
+    "related": []
+  },
+  {
+    "id": "feed-0b13060c669d",
+    "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28706v1 Announce Type: new Abstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning uniformly while underusing evidence from failed, redundant, and saturated trials. We introduce Speculative Evolution (SpecEvo), a multi-LLM framework that coordinates lightweight and frontier models through cont",
+    "url": "https://arxiv.org/abs/2610.28706",
+    "related": []
+  },
+  {
+    "id": "feed-a24c3f1405f6",
+    "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insight beyond routine ML engineering. We introduce Agent4Sci, a long-horizon testbed for measuring how far today's agents can improve the published best models on scientific ML",
+    "url": "https://arxiv.org/abs/2610.28763",
+    "related": []
+  },
+  {
+    "id": "feed-eeb1fe8457e1",
+    "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.28815v1 Announce Type: new Abstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence. While more evolution tasks should intuitively improve performance, our preliminary study reveals a paradoxical failure mode: the performance of existing methods degrades as the task pool expands. Our further analysis demonstr",
+    "url": "https://arxiv.org/abs/2610.28815",
+    "related": []
+  },
+  {
+    "id": "feed-ce5948eae0bf",
+    "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28826v1 Announce Type: new Abstract: Automated judges of clinical artificial intelligence (AI) outputs are necessary, but large language model (LLM) judges are costly and slow at scale. We compared Jev, a decision language model that returns structured judgments, with frontier and open-weight LLM judges in four use cases. On 118 pediatric answers, Jev's agreement with physicians' ordinal quality ratings (G",
+    "url": "https://arxiv.org/abs/2610.28826",
+    "related": []
+  },
+  {
+    "id": "feed-9edfbed92309",
+    "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.28836v1 Announce Type: new Abstract: This study proposes a sketch-to-simulation system to solve handwritten circuit diagrams. The system converts raw images into a Simulation Program with Integrated Circuit Emphasis (SPICE)-compatible netlist and automatically calculates the circuit's nodal voltages and currents. Another objective is to propose a holistic framework that benefits students and educators by e",
+    "url": "https://arxiv.org/abs/2610.28836",
+    "related": []
+  },
+  {
+    "id": "feed-1bb6491f20d7",
+    "title": "Speedrunning Relational Foundation Model Pretraining",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28855v1 Announce Type: new Abstract: Progress on foundation model pretraining is gated by who can afford a trial, and relational pretraining is no exception. Recipes are developed inside individual labs, reported under private protocols, and do not accumulate. Speedrun leaderboards remove that barrier by decentralizing the search rather than the training run. The problem is fixed, the stack is open, entrie",
+    "url": "https://arxiv.org/abs/2610.28855",
+    "related": []
+  },
+  {
+    "id": "feed-f9f03f103279",
+    "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28875v1 Announce Type: new Abstract: Large language models increasingly take part in extended conversations where they can both shape and be shaped by another party's views, yet most persuasion research measures only one side of that exchange. We introduce a controlled LLM-LLM debate framework in which two language-model roles repeatedly discuss a contested topic (climate-change attribution): one is given ",
+    "url": "https://arxiv.org/abs/2610.28875",
+    "related": []
+  },
+  {
+    "id": "feed-27a48b3feb3c",
+    "title": "Fig: Automated Multiagent Behavior Elicitor",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.28891v1 Announce Type: new Abstract: Many social evaluations for multiagent systems study behaviors as they emerge from environments instead of systematically intervening in the environment to elicit such behaviors. We introduce Fig (Finding Interactions in Games), an agentic system that performs targeted elicitation interventions on game environments. It takes a natural language behavior description, deco",
+    "url": "https://arxiv.org/abs/2610.28891",
+    "related": []
+  },
+  {
+    "id": "feed-217a5f6b1faa",
+    "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28905v1 Announce Type: new Abstract: Diffusion language models form answers through a sequence of revisable continuous states, but multi-agent systems usually discard those states and make agents communicate only after decoding text. We ask whether one independent diffusion trajectory can pass a compact hidden message into another and, crucially, whether the receiver uses what that message means. In Hidden",
+    "url": "https://arxiv.org/abs/2610.28905",
+    "related": []
+  },
+  {
+    "id": "feed-5d26b822dea6",
+    "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28909v1 Announce Type: new Abstract: Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bottleneck for interactive use. Almost all production systems are built on autoregressive (AR) language models and inherit left-to-right decoding in planning and long-form writing. We present DiffResearch, an open multi-agent deep research framework that plac",
+    "url": "https://arxiv.org/abs/2610.28909",
+    "related": []
+  },
+  {
+    "id": "feed-c117a38ac74a",
+    "title": "Simply Logical -- The First Three Decades",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.28912v1 Announce Type: new Abstract: This paper charts the evolution of the Prolog textbook Simply Logical -- Intelligent Reasoning by Example from print with runnable programmes on a 3.5-inch diskette published in 1994, via various intermediate online versions, to the fully interactive online edition available today. Our aim is to investigate -- from both the writer's and the reader's perspectives -- the ",
+    "url": "https://arxiv.org/abs/2610.28912",
+    "related": []
+  },
+  {
+    "id": "feed-775465507001",
+    "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.28914v1 Announce Type: new Abstract: Frontier language-model agents excel at complex tasks, but high inference costs make transferring their capabilities to smaller models essential. Traditional knowledge distillation achieves this through parameter updates, requiring access to the student's weights and additional training compute while encoding the transferred knowledge implicitly in the parameters. We in",
+    "url": "https://arxiv.org/abs/2610.28914",
+    "related": []
+  },
+  {
+    "id": "feed-c402eed36593",
+    "title": "Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.28934v1 Announce Type: new Abstract: Coding agents now complete tasks autonomously, modifying real-world state such as artifacts, software environments, and configurations along the way. Yet they show limited backup awareness: recognizing that an action will modify state that may later be needed, and preserving it beforehand. To evaluate backup awareness, we introduce RegretBench, a benchmark of 205 execut",
+    "url": "https://arxiv.org/abs/2610.28934",
+    "related": []
+  },
+  {
+    "id": "feed-e4e346123d96",
+    "title": "Self-Improving Agents with World Model Predictive Paths",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28945v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumulated interaction experience can jointly support decision-making remains underexplored. We propose a test-time framework, inspired by Model Predictive Path Integral (MPPI) ",
+    "url": "https://arxiv.org/abs/2610.28945",
+    "related": []
+  },
+  {
+    "id": "feed-f64266e6609b",
+    "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28982v1 Announce Type: new Abstract: While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether the refusal behavior in text transfers to tool use. We construct a benchmark of 2,304 prompts across four domains, consisting of matched triplets that present the same har",
+    "url": "https://arxiv.org/abs/2610.28982",
+    "related": []
+  },
+  {
+    "id": "feed-a254cb1e7ad7",
+    "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.28987v1 Announce Type: new Abstract: Persistent memory is a largely undefended surface for injection and poisoning, and the same risk limits memory sharing among agents. We present PerMIT, a memory architecture with provable integrity guarantees under an explicit trust assumption: only user-typed inputs and values confirmed at a gate are trusted. PerMIT mediates the release and use of untrusted environment",
+    "url": "https://arxiv.org/abs/2610.28987",
+    "related": []
+  },
+  {
+    "id": "feed-59f656e86826",
+    "title": "AgentPolicyForge: From Executable Environments to Policy Benchmarks and Adaptive Guards",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.28989v1 Announce Type: new Abstract: Customized agent deployments define policies over tools, resources, and execution conditions. Providing these policies in the task agent's prompt does not reliably prevent violations. Training a guard requires examples of tool calls that comply with or violate those policies. We introduce AgentPolicyForge, a framework that uses executable environments to construct polic",
+    "url": "https://arxiv.org/abs/2610.28989",
+    "related": []
+  },
+  {
+    "id": "feed-037103a21d20",
+    "title": "An Evidence-Driven Multi-Agent Compound AI System for Head and Neck Proton Radiotherapy Planning",
+    "source": "arXiv AI",
+    "date": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.29010v1 Announce Type: new Abstract: Radiation treatment planning requires balancing competing objectives to satisfy clinical criteria while accommodating physicians' preferences. This study aims to develop an evidence-driven, multi-agent compound AI system that integrates DRL-based automated treatment planning with LLM-based conversational plan refinement for proton PBS therapy. A policy network trained u",
+    "url": "https://arxiv.org/abs/2610.29010",
+    "related": []
+  },
+  {
     "id": "feed-7898549b95c3",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -117,6 +437,36 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-65442e708214",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "source": "OpenAI",
+    "date": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "related": []
+  },
+  {
+    "id": "feed-9db4940a53f8",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "related": []
+  },
+  {
+    "id": "feed-849b423196d1",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "source": "Hugging Face",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/reflection-beam",
     "related": []
   },
   {
