@@ -1,5 +1,15 @@
 [
   {
+    "id": "feed-0a622a33b8e3",
+    "title": "Introducing SynthID Bio",
+    "source": "Google DeepMind",
+    "date": "Wed, 30 Sep 2026 15:03:07 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "related": []
+  },
+  {
     "id": "feed-0ce8c6adc247",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "source": "Google DeepMind",
@@ -7,6 +17,26 @@
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "related": []
+  },
+  {
+    "id": "feed-4c4abcff4acd",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "source": "Google DeepMind",
+    "date": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "related": []
+  },
+  {
+    "id": "feed-61f4d0141ff3",
+    "title": "OpenAI models are coming to Google Cloud",
+    "source": "OpenAI",
+    "date": "Wed, 21 Oct 2026 12:00:00 GMT",
+    "category": "MODELS",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "url": "https://openai.com/index/openai-models-google-cloud",
     "related": []
   },
   {
@@ -30,6 +60,26 @@
     "related": []
   },
   {
+    "id": "feed-91ed3eb235f3",
+    "title": "Introducing Falcon ASR",
+    "source": "Hugging Face",
+    "date": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "related": []
+  },
+  {
+    "id": "feed-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -37,6 +87,16 @@
     "category": "MODELS",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-a84b6a7bee5c",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "source": "OpenAI",
+    "date": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "url": "https://openai.com/index/terminal-x",
     "related": []
   },
   {
@@ -50,6 +110,16 @@
     "related": []
   },
   {
+    "id": "feed-f4c3141ce9f2",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Google DeepMind",
+    "date": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -57,6 +127,16 @@
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "related": []
+  },
+  {
+    "id": "feed-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "related": []
   },
   {
@@ -70,6 +150,26 @@
     "related": []
   },
   {
+    "id": "feed-e7107d9a76d9",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "Google DeepMind",
+    "date": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "related": []
+  },
+  {
+    "id": "feed-e3c36d4422c6",
+    "title": "Apertus 1.5 Release Notes",
+    "source": "Hugging Face",
+    "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +177,26 @@
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "related": []
+  },
+  {
+    "id": "feed-89764eae0099",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "source": "Hugging Face",
+    "date": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
     "related": []
   },
   {
@@ -100,6 +220,206 @@
     "related": []
   },
   {
+    "id": "feed-93de3524eec5",
+    "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relationships are preserved, and how limited field capacity is distributed. Yet the process often rem",
+    "url": "https://arxiv.org/abs/2610.31701",
+    "related": []
+  },
+  {
+    "id": "feed-99f3871737e9",
+    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing agents to repeatedl",
+    "url": "https://arxiv.org/abs/2610.31789",
+    "related": []
+  },
+  {
+    "id": "feed-fdabadb313a8",
+    "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This paper proposes a system for the automated detection of PCL. Our first approach uses static word embeddi",
+    "url": "https://arxiv.org/abs/2610.31808",
+    "related": []
+  },
+  {
+    "id": "feed-589eb8bb0bb3",
+    "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a dependency graph of statem",
+    "url": "https://arxiv.org/abs/2610.31810",
+    "related": []
+  },
+  {
+    "id": "feed-646f70f96a17",
+    "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-parameter fine-tuning is expensive and can interfere with existing capabilities. We introduce Self-Direc",
+    "url": "https://arxiv.org/abs/2610.31846",
+    "related": []
+  },
+  {
+    "id": "feed-306061a7bc4d",
+    "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave modules. We validat",
+    "url": "https://arxiv.org/abs/2610.31882",
+    "related": []
+  },
+  {
+    "id": "feed-648fe9a633bb",
+    "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior. Checkpoint state, permission to dispatch, evidence of an external effect and permission to reconcile are distinct obligat",
+    "url": "https://arxiv.org/abs/2610.31916",
+    "related": []
+  },
+  {
+    "id": "feed-623258d9f272",
+    "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argue that this distinction is inherently hierarchical: the policy that induces an interaction history need not be the same as the policy that g",
+    "url": "https://arxiv.org/abs/2610.31918",
+    "related": []
+  },
+  {
+    "id": "feed-29036885ebab",
+    "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.31937v1 Announce Type: new Abstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms. However, many existing red-teaming approaches rely on heuristics or impose strong assumptions that limit their applicability in fully black box settings. We address this gap by introducing $M^3$, an automated red-teaming fr",
+    "url": "https://arxiv.org/abs/2610.31937",
+    "related": []
+  },
+  {
+    "id": "feed-6448f4db86e0",
+    "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge through explicit trust and reputation models, whereas existing work on LLM negotiation largely treats tru",
+    "url": "https://arxiv.org/abs/2610.31971",
+    "related": []
+  },
+  {
+    "id": "feed-9425229b1337",
+    "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.31972v1 Announce Type: new Abstract: Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state changes, and a benchmark built today can silently go stale as the data it describes moves on. We present an offline evaluation harness for a production conversational agent that stays reproducible despite the live data it operates on changing, and",
+    "url": "https://arxiv.org/abs/2610.31972",
+    "related": []
+  },
+  {
+    "id": "feed-4184d5cfdad8",
+    "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.31985v1 Announce Type: new Abstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also when they are simply trying to help. Prior work has largely studied adversarial or explicitly collusive behavior; we show ",
+    "url": "https://arxiv.org/abs/2610.31985",
+    "related": []
+  },
+  {
+    "id": "feed-2ab24119a5c6",
+    "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.32022v1 Announce Type: new Abstract: Intent recognition in human-robot interaction requires agents to resolve ambiguous natural language instructions by inferring the speaker's underlying goals. Research has increasingly focused on two notable paradigms for addressing this task: structured symbolic reasoning and multimodal input enrichment. However, it remains unclear whether enrichment-based methods provi",
+    "url": "https://arxiv.org/abs/2610.32022",
+    "related": []
+  },
+  {
+    "id": "feed-e43d50cfe050",
+    "title": "BARC-Bench: Benign Asks, Risky Consequences",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.32024v1 Announce Type: new Abstract: Task instructions from users for agents are inherently underspecified, especially regarding safety boundaries--creating behavioral risks. To study these risks, we introduce BARC-Bench, a collection of 110 tasks across nine simulated workspace environments where benign requests leave openings for unsafe actions. In this benchmark, we evaluate agent behavior against safet",
+    "url": "https://arxiv.org/abs/2610.32024",
+    "related": []
+  },
+  {
+    "id": "feed-78f45fb3af29",
+    "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.32026v1 Announce Type: new Abstract: Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experience across runs. We introduce RSI-Opt, a plug-and-play Recursive Self-Improvement Optimizer Agents which evolves the know",
+    "url": "https://arxiv.org/abs/2610.32026",
+    "related": []
+  },
+  {
+    "id": "feed-087b46dcfcd5",
+    "title": "PPO vs. SAC: A Comparative Study for Cooperative Motion Control of Dual-Arm Space Robots",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.32034v1 Announce Type: new Abstract: The growing population of orbital debris has intensified interest in active debris removal and on-orbit servicing, for which dual-arm space manipulators offer improved grasping stability and load distribution relative to single-arm systems. However, coordinating two manipulators under inter-arm collision avoidance, orientation alignment, and sensing uncertainty remains ",
+    "url": "https://arxiv.org/abs/2610.32034",
+    "related": []
+  },
+  {
+    "id": "feed-83e0efbd29f6",
+    "title": "Do AI-for-Science Agents Preserve Model Safety?",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.32045v1 Announce Type: new Abstract: AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence. These agents are constructed by integrating a large language model (LLM) into a domain-specific agent harness, which in turn can improve the LLM's scientific capability and enable the model to orchestrate scientific tools. I",
+    "url": "https://arxiv.org/abs/2610.32045",
+    "related": []
+  },
+  {
+    "id": "feed-9d99a8c45a97",
+    "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.32046v1 Announce Type: new Abstract: Recent \\emph{test-time training} (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier models on scientific discovery tasks. However, TTT introduces additional computational cost for online weight updates during the discovery process, making computational efficiency an important consideration w",
+    "url": "https://arxiv.org/abs/2610.32046",
+    "related": []
+  },
+  {
+    "id": "feed-95f68ebcda8c",
+    "title": "HyScale: Scaling Long-Context Training for Learned Sparse Attention",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.32057v1 Announce Type: new Abstract: We present HyScale, a long-context training system for learned sparse attention. Learned sparse attention is a promising architecture for million-token contexts, widely adopted in production since DeepSeek-V3.2. Selection, however, grows into the training bottleneck. For each query, it scores every previous token whereas sparse attention reads only $k$; worse, current s",
+    "url": "https://arxiv.org/abs/2610.32057",
+    "related": []
+  },
+  {
+    "id": "feed-6d46166b653f",
+    "title": "Understanding Communication Failures in Multi-Agent LLM Systems",
+    "source": "arXiv AI",
+    "date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.32060v1 Announce Type: new Abstract: Multi-agent LLM systems aim to improve reasoning through debate, evidence sharing, and mutual correction, but interaction can also introduce failures that final accuracy alone cannot explain. Agents may converge too early, ignore dissent, suppress correct minority answers, or preserve a wrong framing across rounds. We present a corpus-grounded taxonomy of communication ",
+    "url": "https://arxiv.org/abs/2610.32060",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -117,6 +437,26 @@
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-65442e708214",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "source": "OpenAI",
+    "date": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "related": []
+  },
+  {
+    "id": "feed-849b423196d1",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "source": "Hugging Face",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/reflection-beam",
     "related": []
   },
   {
