@@ -1,5 +1,205 @@
 window.ORIKI_NEWS = [
   {
+    "id": "feed-389ab8c96373",
+    "title": "Counting the Bandages: On measuring the time that AI saves",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through, and I argue for the latter. The argument has four parts. I define a model-free pair of quantities, time saved and excess ",
+    "url": "https://arxiv.org/abs/2610.35942",
+    "related": []
+  },
+  {
+    "id": "feed-e5ad0fc304d9",
+    "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges such as insufficient data and class imbalance. In our work, we propose a comprehensive data generation strategy to overcome these limitations. First, we apply various data generation techniques, includi",
+    "url": "https://arxiv.org/abs/2610.35984",
+    "related": []
+  },
+  {
+    "id": "feed-5876e7a1f716",
+    "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalitie",
+    "url": "https://arxiv.org/abs/2610.36077",
+    "related": []
+  },
+  {
+    "id": "feed-3f4a7b916256",
+    "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements. We introduce CohortFlow, a steerable agent that represents natural language corrections as localized updates to a structured cohort specification and reconciles them with a persistent execution graph. Explicitly record",
+    "url": "https://arxiv.org/abs/2610.36100",
+    "related": []
+  },
+  {
+    "id": "feed-05ee36ab59e5",
+    "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \\emph{durable, collective human understandi",
+    "url": "https://arxiv.org/abs/2610.36116",
+    "related": []
+  },
+  {
+    "id": "feed-ea81da02f196",
+    "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user receives without changing the scene the user requested. Yet stylistic rewriting can weaken object attributes and relations even when global text--image similarity remains high. We propose StruPO, a structure-aware prompt editor that uses a calibrated scene graph as a shared representation for policy conditioning and im",
+    "url": "https://arxiv.org/abs/2610.36146",
+    "related": []
+  },
+  {
+    "id": "feed-4f6eb227c103",
+    "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36169v1 Announce Type: new Abstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete or wrong. Existing methods settle the disagreement with a rule fixed at design time: follow the context, amplify it in proportion to how far it moves the model, or trust the model's memory. Each rule is confi",
+    "url": "https://arxiv.org/abs/2610.36169",
+    "related": []
+  },
+  {
+    "id": "feed-0a46b48e303d",
+    "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36183v1 Announce Type: new Abstract: We study time-to-arrival (TTA) in sports: the shortest plausible time a player needs to reach an arbitrary location on the pitch given their current kinematic state, estimated as the lower envelope of observed locomotion times. Rather than modeling space ownership through position density estimation or closed-form physics-based models, we cast TTA as a conditional quant",
+    "url": "https://arxiv.org/abs/2610.36183",
+    "related": []
+  },
+  {
+    "id": "feed-44cc053cf15b",
+    "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36188v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository development and maintenance. However, repository-specific skills must evolve with changing code structures, implementation conventions, and maintenance requirements. Pull requests (PRs) provide a natural source of",
+    "url": "https://arxiv.org/abs/2610.36188",
+    "related": []
+  },
+  {
+    "id": "feed-e8b84cf4e699",
+    "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.36234v1 Announce Type: new Abstract: Requirements engineering (RE) is foundational to systems engineering (SE), as requirement defects can propagate downstream and adversely affect development outcomes. Although large language models (LLMs) are promising for requirement quality assessment, prior work shows that off-the-shelf models miss a large share of expert-identified defects, perform unevenly across qu",
+    "url": "https://arxiv.org/abs/2610.36234",
+    "related": []
+  },
+  {
+    "id": "feed-f7783fd8672f",
+    "title": "BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36239v1 Announce Type: new Abstract: Sequential recommendation models typically predict a user's next action from recent session interactions, which limits personalization when short-term signals are weak or ambiguous. Rather than assuming that incorporating longer-term history and community signals is universally beneficial, we study when it actually helps. We propose BehaveRec, a three-signal framework c",
+    "url": "https://arxiv.org/abs/2610.36239",
+    "related": []
+  },
+  {
+    "id": "feed-53778eda2a53",
+    "title": "A Smart Instant Book Filter Model based on Dual-Objective Optimization",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.36287v1 Announce Type: new Abstract: Hospitality service in online marketplaces has become increasingly popular over the past few years, not only because it helps people easily rent short-term lodging but also because it empowers travelers to connect with locals and feel belonging. A typical pattern of these industries is a central platform mediating the economic interactions between guests and hosts, wher",
+    "url": "https://arxiv.org/abs/2610.36287",
+    "related": []
+  },
+  {
+    "id": "feed-cfa07975d897",
+    "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model itself. Model stealing attacks (MSAs) exploit this exposure by training a surrogate model that replicates the decision behavior of a target through black-box queries alone, without access to its parameters or tr",
+    "url": "https://arxiv.org/abs/2610.36298",
+    "related": []
+  },
+  {
+    "id": "feed-dec2d19770c4",
+    "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36308v1 Announce Type: new Abstract: Memory-agent benchmarks often collapse retrieval and answer generation into one score, making it hard to tell whether a failure comes from missing an update or from not using an update that was already retrieved. We examine this distinction on the single-hop FactConsolidation task of MemoryAgentBench. With Qwen2.5-7B-Instruct on 6K-history BM25 accuracy drops from 45% t",
+    "url": "https://arxiv.org/abs/2610.36308",
+    "related": []
+  },
+  {
+    "id": "feed-d2a96d0f5e6e",
+    "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily leads to diagnostic errors and inconsistent reasoning. Large Language Models (LLMs) have recently shown promising capabilities in medical question answering and clinical reasoning; however, even when achieving ",
+    "url": "https://arxiv.org/abs/2610.36325",
+    "related": []
+  },
+  {
+    "id": "feed-a9997511f331",
+    "title": "How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.36328v1 Announce Type: new Abstract: Benchmarks for verifiable code generation usually test a proof against one fixed implementation. We ask whether the same proof remains valid after a program refactoring that preserves behavior. We introduce RefactorProof, which derives 458 Lean-certified variants from the 185 VERINA tasks that compile in our pinned environment while holding the specification and evaluat",
+    "url": "https://arxiv.org/abs/2610.36328",
+    "related": []
+  },
+  {
+    "id": "feed-5a5d044b5b62",
+    "title": "Plenty of Room in the Middle: Revealing Opportunities on a GPU Cluster via Fine-Grained Monitoring",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36329v1 Announce Type: new Abstract: GPU clusters have become essential computing resources for AI and scientific research in academia and industry. However, their high cost and growing demand often result in long queueing delays. While previous monitoring efforts have operated at second- or minute-level frequencies, they primarily informed job-level scheduling for clusters and lacked the detail needed to ",
+    "url": "https://arxiv.org/abs/2610.36329",
+    "related": []
+  },
+  {
+    "id": "feed-6da684344dc1",
+    "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine and healthcare, where answers must be grounded in established knowledge. Retrieval-augmented generation (RAG) mitigates this problem by incorporating external information, but often overlooks logical relation",
+    "url": "https://arxiv.org/abs/2610.36335",
+    "related": []
+  },
+  {
+    "id": "feed-de8b6822bab2",
+    "title": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "MODELS",
+    "summary": "arXiv:2610.36341v1 Announce Type: new Abstract: Early AI programs were often also theories of how people think, and programs that wrote programs were, in part, theories of how people program. Here we report on the reanimation of two such programs that offer two seemingly different theories of programming and were developed for quite different purposes. The first, Herbert Simon's Heuristic Compiler (1961), was an expe",
+    "url": "https://arxiv.org/abs/2610.36341",
+    "related": []
+  },
+  {
+    "id": "feed-d79da25993d2",
+    "title": "WAKMan: Workload Aware KVCache Manager",
+    "source": "arXiv AI",
+    "date": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "category": "RESEARCH",
+    "summary": "arXiv:2610.36355v1 Announce Type: new Abstract: Prefix caching enables a Large Language Model (LLM) servers to reuse the Key-Value (KV) states and accelerate prefill computation stage for requests that share a prefix with earlier prompts, thus reducing latency and serving cost. With limited memory resource, the KV cache eviction policy becomes a decisive factor in determining the overall benefits of prefix caching. P",
+    "url": "https://arxiv.org/abs/2610.36355",
+    "related": []
+  },
+  {
     "id": "feed-0ce8c6adc247",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "source": "Google DeepMind",
@@ -27,6 +227,26 @@ window.ORIKI_NEWS = [
     "category": "RESEARCH",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "related": []
+  },
+  {
+    "id": "feed-91ed3eb235f3",
+    "title": "Introducing Falcon ASR",
+    "source": "Hugging Face",
+    "date": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "related": []
+  },
+  {
+    "id": "feed-d42fb1eb3362",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "source": "OpenAI",
+    "date": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "category": "MODELS",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "url": "https://openai.com/index/retell-ai",
     "related": []
   },
   {
@@ -70,6 +290,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e3c36d4422c6",
+    "title": "Apertus 1.5 Release Notes",
+    "source": "Hugging Face",
+    "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -100,6 +330,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-1a1d4bf2fc11",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "source": "OpenAI",
+    "date": "Mon, 26 Oct 2026 13:45:00 GMT",
+    "category": "MODELS",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "related": []
+  },
+  {
+    "id": "feed-1758535ac6be",
+    "title": "Introducing GPT-6.1 Terra",
+    "source": "OpenAI",
+    "date": "Mon, 26 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -117,6 +367,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-849b423196d1",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "source": "Hugging Face",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/reflection-beam",
     "related": []
   },
   {
