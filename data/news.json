@@ -30,6 +30,16 @@
     "related": []
   },
   {
+    "id": "feed-d42fb1eb3362",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "source": "OpenAI",
+    "date": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "category": "MODELS",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "url": "https://openai.com/index/retell-ai",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -70,6 +80,26 @@
     "related": []
   },
   {
+    "id": "feed-85d975255b4f",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "source": "Hugging Face",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "related": []
+  },
+  {
+    "id": "feed-e3c36d4422c6",
+    "title": "Apertus 1.5 Release Notes",
+    "source": "Hugging Face",
+    "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -100,6 +130,26 @@
     "related": []
   },
   {
+    "id": "feed-1a1d4bf2fc11",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "source": "OpenAI",
+    "date": "Mon, 26 Oct 2026 13:45:00 GMT",
+    "category": "MODELS",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "related": []
+  },
+  {
+    "id": "feed-1758535ac6be",
+    "title": "Introducing GPT-6.1 Terra",
+    "source": "OpenAI",
+    "date": "Mon, 26 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -117,6 +167,16 @@
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-849b423196d1",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "source": "Hugging Face",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/reflection-beam",
     "related": []
   },
   {
