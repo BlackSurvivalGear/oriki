@@ -30,6 +30,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-75679f5aa60b",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "source": "OpenAI",
+    "date": "Wed, 04 Nov 2026 07:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "related": []
+  },
+  {
+    "id": "feed-0a437d67f2ef",
+    "title": "Introducing Images 2.6",
+    "source": "OpenAI",
+    "date": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "related": []
+  },
+  {
     "id": "feed-edd884e3eb65",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -70,6 +90,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e1c742c1d925",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "source": "Hugging Face",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "category": "RESEARCH",
+    "summary": "",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "related": []
+  },
+  {
+    "id": "feed-85d975255b4f",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "source": "Hugging Face",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +117,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-53c56afbaf05",
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "source": "OpenAI",
+    "date": "Thu, 05 Nov 2026 09:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "related": []
+  },
+  {
+    "id": "feed-f93567576105",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "source": "OpenAI",
+    "date": "Thu, 05 Nov 2026 02:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "related": []
   },
   {
@@ -110,6 +170,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-6fd6ad7938fa",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "source": "OpenAI",
+    "date": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "related": []
+  },
+  {
+    "id": "feed-19244c7aa206",
+    "title": "Introducing the Grid Protectors Program",
+    "source": "OpenAI",
+    "date": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "related": []
+  },
+  {
     "id": "feed-7898549b95c3",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -117,6 +197,206 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-b09238dcb5e3",
+    "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.06962v1 Announce Type: new Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe AutoIP, a Lean library in which classical linear regularization theory, together with the functional analysis it rests on, has been autoformalized by AI agents. A machine-checked proof certifies only the formal statement it ",
+    "url": "https://arxiv.org/abs/2611.06962",
+    "related": []
+  },
+  {
+    "id": "feed-c4775cf3737a",
+    "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.06972v1 Announce Type: new Abstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party should bear liability. While Large Language Models (LLMs) have shown promise in this area by leveraging executable skills for interpretable reasoning, existing approaches face three critical limitations: skill l",
+    "url": "https://arxiv.org/abs/2611.06972",
+    "related": []
+  },
+  {
+    "id": "feed-9a18700ba8b3",
+    "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.06977v1 Announce Type: new Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and isolating prefill with fixed-shape decode ({our CoRun-style baseline}) gives up shared prefill compute and pads decode. We present BlockLock, wh",
+    "url": "https://arxiv.org/abs/2611.06977",
+    "related": []
+  },
+  {
+    "id": "feed-3f14546ab309",
+    "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.06984v1 Announce Type: new Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third ",
+    "url": "https://arxiv.org/abs/2611.06984",
+    "related": []
+  },
+  {
+    "id": "feed-86248c9576c0",
+    "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.06989v1 Announce Type: new Abstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record. Finance receives AI cost only at settlement grain, aggregated by SKU and charge period. The business question (what did this order, claim, or case cost in AI?) cannot be answered from billing data, because pr",
+    "url": "https://arxiv.org/abs/2611.06989",
+    "related": []
+  },
+  {
+    "id": "feed-399353aef466",
+    "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.06995v1 Announce Type: new Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differences in how AI agents and humans pursue a proof-making task. We present \"simulated collaboration\", a methodology that allows us to examine two key questions: (1) the relative attention AI agents pay to surface",
+    "url": "https://arxiv.org/abs/2611.06995",
+    "related": []
+  },
+  {
+    "id": "feed-8132de558aea",
+    "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.06996v1 Announce Type: new Abstract: The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely specified or measured. We empirically characterize the Trust Responsive Authorization Policy (TRAP), which maps an Authorization Readiness Score (ARS), a weighted combination of runtime trust, operational stability, and contextual risk, onto discrete author",
+    "url": "https://arxiv.org/abs/2611.06996",
+    "related": []
+  },
+  {
+    "id": "feed-7ba68c891e16",
+    "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.07048v1 Announce Type: new Abstract: Evolution has shaped intelligence for billions of years. Artificial intelligence (AI) now raises a striking possibility: intelligence may begin to direct its own evolution. As AI agents become capable of modifying and evaluating their own behavior, how quickly could they improve, and how can that improvement remain safe? We develop a theoretical framework comparing Darw",
+    "url": "https://arxiv.org/abs/2611.07048",
+    "related": []
+  },
+  {
+    "id": "feed-3b5b88979463",
+    "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.07051v1 Announce Type: new Abstract: Once an agent is live, teams want to know whether it is doing its job, not just whether it throws errors. Yet most evaluation is one-off: a benchmark run, a look at traces, a single score. Its conclusions neither check themselves nor reach the agent. We propose closed-loop evaluation, an evaluation method for deployed agents. It models evaluation as performance estimati",
+    "url": "https://arxiv.org/abs/2611.07051",
+    "related": []
+  },
+  {
+    "id": "feed-073d356e6e40",
+    "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.07066v1 Announce Type: new Abstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsic rewards are often used to aid discovery, but naively combining them with team objectives can distort the learning signal, ",
+    "url": "https://arxiv.org/abs/2611.07066",
+    "related": []
+  },
+  {
+    "id": "feed-90dd1898d00c",
+    "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.07073v1 Announce Type: new Abstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through genuine independent reasoning. We introduce a cross-agent formalization protocol where a Specifier model translates clinical trial criteria into a Dafny predicate, and an Implementer model writes an operational method checked against it. A same-mo",
+    "url": "https://arxiv.org/abs/2611.07073",
+    "related": []
+  },
+  {
+    "id": "feed-8b6311629010",
+    "title": "Synthesizing symbolic models of human and machine reasoning at scale",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.07088v1 Announce Type: new Abstract: Symbolic models offer a powerful account of cognition, but their scope has historically been limited by the need for hand-engineering and computational tractability. We show how advances in artificial intelligence (AI) can scale symbolic modeling and help overcome these engineering limitations. We introduce Behavior-Conditioned Symbolic Synthesis (BCSS)---an approach fo",
+    "url": "https://arxiv.org/abs/2611.07088",
+    "related": []
+  },
+  {
+    "id": "feed-25e23aeb4d52",
+    "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.07123v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as automated judges for evaluating the behavior of chatbots and other AI systems. In deployment, however, their agreement with the intended human evaluation policy may degrade as user interactions and score distributions change. Existing automatic prompt optimization methods are primarily studied as one-shot procedures ",
+    "url": "https://arxiv.org/abs/2611.07123",
+    "related": []
+  },
+  {
+    "id": "feed-fc28c08e174c",
+    "title": "Goal Revelation as a Bridge Between Information-Theoretic Empowerment and Capability-Based Human Power",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.07247v1 Announce Type: new Abstract: Power matters for AI safety. Optimal agents tend to acquire power across a wide range of objectives (instrumental convergence). As we embed AI agents into socio-technical systems, humans risk gradual disempowerment. Both concerns call for a formal, quantitative measure of power. Two such measures in the context of Markov games are information-theoretic empowerment, the ",
+    "url": "https://arxiv.org/abs/2611.07247",
+    "related": []
+  },
+  {
+    "id": "feed-5f984daabe56",
+    "title": "Robust Ranking of Port Impacts from Impending Tropical Cyclones: A Two-Stage Recommendation System",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.07296v1 Announce Type: new Abstract: When a tropical cyclone (TC) threatens several ports, preparedness planning depends on anticipating which ports are likely to be affected and where disruptions may last longest. Limited historical observations at individual ports and uncertainty in landfall location make these relative impacts difficult to estimate. We use a two-stage recommendation framework that first",
+    "url": "https://arxiv.org/abs/2611.07296",
+    "related": []
+  },
+  {
+    "id": "feed-0057bb277b9c",
+    "title": "EnvOpt: Automated Optimization for Agent Environments",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.07372v1 Announce Type: new Abstract: An LLM agent's cost and success depend on its model, its harness, and its environment. In addition to the widely studied directions of parameter tuning and harness optimization, we propose the third direction: optimization over stationary environments. Agents are often deployed in rich environments shared by many tasks, such as a company's Slack workspace or a complex c",
+    "url": "https://arxiv.org/abs/2611.07372",
+    "related": []
+  },
+  {
+    "id": "feed-188b70230048",
+    "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.07464v1 Announce Type: new Abstract: Language agents increasingly work for users on the open Web, and finance is where trusting them is hardest. The data must come from the Web, the strategy lives in the user's head, and correctness depends on time, so an agent can fail silently: a strategy the user never asked for, unverified data, or a backtest that uses the future yields a report as convincing as a corr",
+    "url": "https://arxiv.org/abs/2611.07464",
+    "related": []
+  },
+  {
+    "id": "feed-4d0f1df215dd",
+    "title": "SAVeR$^2$: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.07482v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have achieved impressive performance via explicit Chain-of-Thought (CoT) reasoning, yet this process introduces critical safety risks. We formalize LRM safety objectives as requiring non-malicious reasoning and answers, safety consistency, and explicit intent identification. We argue that existing alignment methods suffer from poor adversar",
+    "url": "https://arxiv.org/abs/2611.07482",
+    "related": []
+  },
+  {
+    "id": "feed-b3fb846c09fa",
+    "title": "DelegateEval: Evaluating Platforms for Personal External Service Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.07508v1 Announce Type: new Abstract: AI agents that work for an individual over time may also help that individual serve external clients. We define a personal external service agent as an agent authorized and continuously managed by a specific individual to accept client requests, deliver work, and provide ongoing support using that person's knowledge, experience, professional methods, and service boundar",
+    "url": "https://arxiv.org/abs/2611.07508",
+    "related": []
+  },
+  {
+    "id": "feed-fee3f55cd068",
+    "title": "Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions",
+    "source": "arXiv AI",
+    "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.07520v1 Announce Type: new Abstract: Uncertainty in resource reopening times complicates train holding and rerouting decisions when resource closures coincide with arrival delays and processing-time extensions. We develop a rolling-horizon distributionally robust model that updates predictions of the remaining closure duration as observations of disruption resolution become available. The model jointly opt",
+    "url": "https://arxiv.org/abs/2611.07520",
     "related": []
   },
   {
