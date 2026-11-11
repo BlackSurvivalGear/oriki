@@ -1,5 +1,15 @@
 window.ORIKI_NEWS = [
   {
+    "id": "feed-0a622a33b8e3",
+    "title": "Introducing SynthID Bio",
+    "source": "Google DeepMind",
+    "date": "Wed, 30 Sep 2026 15:03:07 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "related": []
+  },
+  {
     "id": "feed-0ce8c6adc247",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "source": "Google DeepMind",
@@ -10,6 +20,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-4c4abcff4acd",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "source": "Google DeepMind",
+    "date": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -17,6 +37,206 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "",
     "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "related": []
+  },
+  {
+    "id": "feed-fd7c3339799c",
+    "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, using coding-agent infrastructure grounded in validated scientific methods, we demonstrate autonomous synchrotron X-ray e",
+    "url": "https://arxiv.org/abs/2611.12933",
+    "related": []
+  },
+  {
+    "id": "feed-6d6fb689fbfe",
+    "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: they pose questions on curated images or give agents preprocessed inputs, leaving out the raw multi-sensor archives where ",
+    "url": "https://arxiv.org/abs/2611.12934",
+    "related": []
+  },
+  {
+    "id": "feed-541a6d047468",
+    "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes. We introduce TopicScope, a framework for training causal topic classifiers on SAE features that assign a topic to every",
+    "url": "https://arxiv.org/abs/2611.12935",
+    "related": []
+  },
+  {
+    "id": "feed-43dfb67f4b9a",
+    "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these limitations, we propose LandslideFM, the first unified foundation model that connects visual perception tasks with contextu",
+    "url": "https://arxiv.org/abs/2611.12936",
+    "related": []
+  },
+  {
+    "id": "feed-62aa1d105581",
+    "title": "Tracing Psychometric Inference in Large Language Models",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from two families (Llama 3 and Qwen 2.5, 0.5B-14B, base and instruct). Given responses on one psychological scale from real individuals (N = 272 Tai",
+    "url": "https://arxiv.org/abs/2611.12937",
+    "related": []
+  },
+  {
+    "id": "feed-20e1f6f9d26d",
+    "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12938v1 Announce Type: new Abstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP and CWQ questions and six VLMs within a fixed KGQA pipeline, we compare text-only prompting against text-plus-graph visualization at the per-question level and analyze performance changes as a functio",
+    "url": "https://arxiv.org/abs/2611.12938",
+    "related": []
+  },
+  {
+    "id": "feed-407004753479",
+    "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on modelling real-life scenarios. Personalized medicine and the dynamic treatment regimen are two such preliminary research fields; researchers are f",
+    "url": "https://arxiv.org/abs/2611.12940",
+    "related": []
+  },
+  {
+    "id": "feed-cc15aefa9a51",
+    "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12941v1 Announce Type: new Abstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathways: intelligence-mediated discovery, procedural know-how, and direct control. Using the canonical fast-takeoff debate as a stress test, we for",
+    "url": "https://arxiv.org/abs/2611.12941",
+    "related": []
+  },
+  {
+    "id": "feed-61855ac1e7e8",
+    "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.12942v1 Announce Type: new Abstract: Tabular foundation models (TFMs) predict from a labelled context in a single forward pass. A recent benchmark reported that they decisively outperform tree ensembles for customer churn, but it compared them with untuned gradient-boosted trees (GBDTs) and scored only ranking metrics, while a retention campaign is judged in money. We re-evaluate TabPFN-2.5, TabPFN-3.5, Ta",
+    "url": "https://arxiv.org/abs/2611.12942",
+    "related": []
+  },
+  {
+    "id": "feed-30a60a7a113f",
+    "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.12950v1 Announce Type: new Abstract: Black-box LLM fingerprinting aims to determine whether a target model was derived from a source model when only the output responses to input queries are observable. One way to reveal this relationship is to perturb each query and observe the resulting responses of both models, yielding two corresponding sets of response variations. These sets provide two complementary ",
+    "url": "https://arxiv.org/abs/2611.12950",
+    "related": []
+  },
+  {
+    "id": "feed-f2bc00eafec2",
+    "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12953v1 Announce Type: new Abstract: Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-intensive workflows. Yet there is little controlled evidence for choosing among competing agentic architectures. Holding the model, tasks, and tools fixed and varying only the architecture, we compare four designs (a function-calling single age",
+    "url": "https://arxiv.org/abs/2611.12953",
+    "related": []
+  },
+  {
+    "id": "feed-be31652c9b48",
+    "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.12954v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have enabled weight-space programming (WSP), which directly generates neural network weights without gradient-based optimization. However, extending WSP to physical problems remains challenging, particularly in achieving both solution accuracy and physical consistency. In this paper, we propose Physics2Weight (PtW), a fram",
+    "url": "https://arxiv.org/abs/2611.12954",
+    "related": []
+  },
+  {
+    "id": "feed-5d52a5123031",
+    "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12958v1 Announce Type: new Abstract: Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop between computational reasoning and physical experimentation, positioning self-driving laboratories (SDLs) as critical enablers. However, existing SDLs exhibit a fundamental par",
+    "url": "https://arxiv.org/abs/2611.12958",
+    "related": []
+  },
+  {
+    "id": "feed-a97fd66b9b76",
+    "title": "Monitoring One Channel Is Not Communication Control: Causal Evidence for Adaptive Reallocation of Joint Message--Route Codes",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12959v1 Announce Type: new Abstract: Monitoring a visible channel can change how learned agents communicate without removing why communication is useful. We test this distinction in an end-to-end game where a sender and receiver learn a discrete protocol and route policy without communication supervision. In two independent 20-seed batches, 20/20 and 19/20 protocols form. Online partial coverage increases ",
+    "url": "https://arxiv.org/abs/2611.12959",
+    "related": []
+  },
+  {
+    "id": "feed-bd26e36ced4d",
+    "title": "IIT Patna at \"ICPR 2026 TVRID Competition on Privacy-Preserving Person Re-Identification from Top-View RGB-Depth Camera\"",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12960v1 Announce Type: new Abstract: Privacy-aware person re-identification (Re-ID) from top-view cameras replaces frontal appearance with anthropometric shape, while depth sensing further reduces color-based identity cues. The ICPR 2026 TVRID competition evaluates this setting using 86 identities captured by four synchronized Intel RealSense D455 cameras with RGB and Depth streams across flat, ascent, des",
+    "url": "https://arxiv.org/abs/2611.12960",
+    "related": []
+  },
+  {
+    "id": "feed-842888daa2e8",
+    "title": "RBLA+: Efficient Rank-Specific LoRA Adapter Extraction for Federated Fine-Tuning with Heterogeneous Clients",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.12961v1 Announce Type: new Abstract: Federated fine-tuning with low-rank adaptation (LoRA) reduces communication and computational overhead by training and exchanging compact trainable LoRA factors. Clients may use different LoRA ranks to meet adapter communication budgets and accommodate different local adaptation needs. The server must process these differences during aggregation and construct adapters a",
+    "url": "https://arxiv.org/abs/2611.12961",
+    "related": []
+  },
+  {
+    "id": "feed-40518b409686",
+    "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.12966v1 Announce Type: new Abstract: Large language models (LLMs) can generate SQL and SQL--Python workflows for investment research, but ensuring point-in-time (PIT) validity remains challenging. Agents must enforce disclosure cutoffs and select the appropriate historical states and record versions throughout data retrieval and financial analysis. We introduce \\textsc{BuySideFlow}, a benchmark of 408 prac",
+    "url": "https://arxiv.org/abs/2611.12966",
+    "related": []
+  },
+  {
+    "id": "feed-81dde059ee7c",
+    "title": "TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.12970v1 Announce Type: new Abstract: Large Language Models (LLMs) show strong potential for social media content moderation, but their trustworthiness beyond overall accuracy remains underexplored. We introduce TrustMod-SM, a benchmark of roughly 29,000 instances across eight datasets, to evaluate LLM moderators on five dimensions: trustfulness, fairness, safety, robustness, and context integrity. Evaluati",
+    "url": "https://arxiv.org/abs/2611.12970",
+    "related": []
+  },
+  {
+    "id": "feed-2b631cac5594",
+    "title": "ZeroPoint: Lightweight Energy-Based Decision Model",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.12992v1 Announce Type: new Abstract: Energy-based models (EBMs) assign a scalar energy to every joint value of the observed and predicted variables. In decision models, the prediction is chosen from a finite list of options provided with each input. Inference then reduces to comparing the energies of the options, and training lowers the energy of the correct option relative to the others. A complete decisi",
+    "url": "https://arxiv.org/abs/2611.12992",
+    "related": []
+  },
+  {
+    "id": "feed-7197c98c311f",
+    "title": "Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows",
+    "source": "arXiv AI",
+    "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.13006v1 Announce Type: new Abstract: Medical vision-language models (VLMs) often report a finding because the question names it; standard benchmarks miss this. From public segmentation datasets we build counterfactual views without manual annotation: the lesion erased by inpainting, a same-shape control edit elsewhere, and unedited lesion-free images. The evidence sensitivity gap (ESG) is the rate of absen",
+    "url": "https://arxiv.org/abs/2611.13006",
     "related": []
   },
   {
@@ -50,6 +270,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-0b2e1c02de47",
+    "title": "Gemini 4 Carbon is now available",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "related": []
+  },
+  {
+    "id": "feed-428ac4b42c0b",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 12:02:28 +0000",
+    "category": "NEW RELEASES",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "related": []
+  },
+  {
+    "id": "feed-5ca4dc7b6d88",
+    "title": "Introducing Businesses in ChatGPT",
+    "source": "OpenAI",
+    "date": "Tue, 10 Nov 2026 10:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -70,6 +320,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-e1c742c1d925",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "source": "Hugging Face",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "category": "RESEARCH",
+    "summary": "",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "related": []
+  },
+  {
+    "id": "feed-85d975255b4f",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "source": "Hugging Face",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "related": []
+  },
+  {
+    "id": "feed-e7107d9a76d9",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "Google DeepMind",
+    "date": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "related": []
+  },
+  {
     "id": "feed-0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI",
@@ -77,6 +357,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "related": []
+  },
+  {
+    "id": "feed-53c56afbaf05",
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "source": "OpenAI",
+    "date": "Thu, 05 Nov 2026 09:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "related": []
+  },
+  {
+    "id": "feed-f93567576105",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "source": "OpenAI",
+    "date": "Thu, 05 Nov 2026 02:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "related": []
   },
   {
@@ -110,6 +410,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-9c331579e229",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "source": "OpenAI",
+    "date": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "category": "MODELS",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "related": []
+  },
+  {
     "id": "feed-7898549b95c3",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -117,6 +427,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-cfd4354afa14",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "source": "OpenAI",
+    "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "category": "RESEARCH",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
     "related": []
   },
   {
