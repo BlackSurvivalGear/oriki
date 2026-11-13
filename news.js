@@ -50,6 +50,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-5ca4dc7b6d88",
+    "title": "Introducing Businesses in ChatGPT",
+    "source": "OpenAI",
+    "date": "Tue, 10 Nov 2026 10:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -67,6 +77,36 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-e1c742c1d925",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "source": "Hugging Face",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "category": "RESEARCH",
+    "summary": "",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "related": []
+  },
+  {
+    "id": "feed-85d975255b4f",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "source": "Hugging Face",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "related": []
+  },
+  {
+    "id": "feed-5b0f73df89a6",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "source": "OpenAI",
+    "date": "Thu, 12 Nov 2026 20:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "url": "https://openai.com/business/customer-stories/amplitude",
     "related": []
   },
   {
@@ -110,6 +150,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-9c331579e229",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "source": "OpenAI",
+    "date": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "category": "MODELS",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "related": []
+  },
+  {
     "id": "feed-7898549b95c3",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "source": "Google DeepMind",
@@ -117,6 +167,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-cfd4354afa14",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "source": "OpenAI",
+    "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "category": "RESEARCH",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
     "related": []
   },
   {
