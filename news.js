@@ -1,5 +1,15 @@
 window.ORIKI_NEWS = [
   {
+    "id": "feed-0a622a33b8e3",
+    "title": "Introducing SynthID Bio",
+    "source": "Google DeepMind",
+    "date": "Wed, 30 Sep 2026 15:03:07 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "related": []
+  },
+  {
     "id": "feed-0ce8c6adc247",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "source": "Google DeepMind",
@@ -40,6 +50,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "related": []
+  },
+  {
     "id": "feed-12ceb5f0dc7b",
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "source": "Google DeepMind",
@@ -47,6 +67,26 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-0b2e1c02de47",
+    "title": "Gemini 4 Carbon is now available",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "related": []
+  },
+  {
+    "id": "feed-428ac4b42c0b",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 12:02:28 +0000",
+    "category": "NEW RELEASES",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
     "related": []
   },
   {
@@ -67,6 +107,36 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-e1c742c1d925",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "source": "Hugging Face",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "category": "RESEARCH",
+    "summary": "",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "related": []
+  },
+  {
+    "id": "feed-5b0f73df89a6",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "source": "OpenAI",
+    "date": "Thu, 12 Nov 2026 20:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "related": []
+  },
+  {
+    "id": "feed-4bad5afe01a1",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "source": "Google DeepMind",
+    "date": "Thu, 12 Nov 2026 18:00:50 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "related": []
   },
   {
@@ -100,6 +170,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-cfcc7acb02e9",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "source": "OpenAI",
+    "date": "Mon, 16 Nov 2026 06:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "related": []
+  },
+  {
+    "id": "feed-e3915f7e4cf0",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "source": "OpenAI",
+    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "related": []
+  },
+  {
+    "id": "feed-3899b6e8ee3c",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "source": "OpenAI",
+    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+    "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -117,6 +217,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-5bf4951adbe9",
+    "title": "Introducing ChatGPT Wallet",
+    "source": "OpenAI",
+    "date": "Fri, 13 Nov 2026 15:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
     "related": []
   },
   {
