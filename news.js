@@ -10,6 +10,206 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-bcd79b1222f1",
+    "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reas",
+    "url": "https://arxiv.org/abs/2611.21682",
+    "related": []
+  },
+  {
+    "id": "feed-7a9e51a5eadb",
+    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of ",
+    "url": "https://arxiv.org/abs/2611.21799",
+    "related": []
+  },
+  {
+    "id": "feed-9c46afe5a386",
+    "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce the known MSTAR result: with the central 96x96 pixels zeroed out, accuracy is still 73.3% (chance 10%). The same shortcut",
+    "url": "https://arxiv.org/abs/2611.21827",
+    "related": []
+  },
+  {
+    "id": "feed-b5c3132bdab3",
+    "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditor",
+    "url": "https://arxiv.org/abs/2611.21832",
+    "related": []
+  },
+  {
+    "id": "feed-9fe3e937f57a",
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to make itself better, and find that it can, by its own ",
+    "url": "https://arxiv.org/abs/2611.21885",
+    "related": []
+  },
+  {
+    "id": "feed-7195ca0e6764",
+    "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash, DSpark) improve draft quality by conditioning on r",
+    "url": "https://arxiv.org/abs/2611.21925",
+    "related": []
+  },
+  {
+    "id": "feed-cdb8ae8b75b2",
+    "title": "SLED: Sensor SLicing from Edge to Datacenter",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.21937v1 Announce Type: new Abstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance on datacenters for computation, artificial intelligence/superintelligence (AI/SI) inference, and AI/SI training. Each sensor stream may have different network and compute requirements depending on its type and data volume. However, current wir",
+    "url": "https://arxiv.org/abs/2611.21937",
+    "related": []
+  },
+  {
+    "id": "feed-e1fbba8ab122",
+    "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.21946v1 Announce Type: new Abstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at the same point of a chain: that the answer the model would give if stopped now is correct (its commitment), and that the answer it will finish with is correct (its verdict). We show that the verdict alone, which is what fi",
+    "url": "https://arxiv.org/abs/2611.21946",
+    "related": []
+  },
+  {
+    "id": "feed-6cb2ad0128f4",
+    "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.21948v1 Announce Type: new Abstract: The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold undue influence over the policymaking process, due in part to their information advantage in developing these technologies. In the following paper, we investigate the roles of public commenters in providing evidence to potential regulation in the USA. We bui",
+    "url": "https://arxiv.org/abs/2611.21948",
+    "related": []
+  },
+  {
+    "id": "feed-ddcb91212905",
+    "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.21950v1 Announce Type: new Abstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present DiscoveryAgent, a domain-agnostic, scientist-centric system that combines autonomous investigation with scientist-directed hypothesis steering. Scientists select, refine, or replace ",
+    "url": "https://arxiv.org/abs/2611.21950",
+    "related": []
+  },
+  {
+    "id": "feed-9c24b96ea7ee",
+    "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.21978v1 Announce Type: new Abstract: Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and coordinate with others, motivating an emerging Agentic Web of independently developed agents and services. Realizing this vision requires agent behavior to move across creators, hosts, and runtimes without coupling publication to a particular execution enviro",
+    "url": "https://arxiv.org/abs/2611.21978",
+    "related": []
+  },
+  {
+    "id": "feed-209de9325334",
+    "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.21998v1 Announce Type: new Abstract: Personal assistants accumulate months of conversations, but today's long-term memory stacks put derivation or selection between a question and its evidence. In a system-level comparison on LongMemEval, two commercial assistants scored well below the same model reading the history offline [1], consistent with, but not isolating, content loss between write and read. We pr",
+    "url": "https://arxiv.org/abs/2611.21998",
+    "related": []
+  },
+  {
+    "id": "feed-3843f460549d",
+    "title": "On Formal Counterfactual Explanations",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.22010v1 Announce Type: new Abstract: Counterfactual explanations are often seen as counterfactual conditionals under closest-world semantics, requiring one to reason over all minimally distant counterexamples. In contrast, formal XAI typically relies on feature-based abductive explanations (AXps) and contrastive explanations (CXps), which admit efficient computation and a minimal hitting-set duality. This ",
+    "url": "https://arxiv.org/abs/2611.22010",
+    "related": []
+  },
+  {
+    "id": "feed-14a1f345f694",
+    "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.22017v1 Announce Type: new Abstract: Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from settings in which the right Skill is hand-picked for the task and the agent starts from a blank slate. Neither holds in deployment, where an agent c",
+    "url": "https://arxiv.org/abs/2611.22017",
+    "related": []
+  },
+  {
+    "id": "feed-164ad1122dcf",
+    "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.22030v1 Announce Type: new Abstract: An agent resource's value depends on its backbone and companion resources and is known only after execution. Token-based generators remain tied to their training catalog, while independent resource scoring misses complementarities and reused bundles target other tasks. We formulate Task-Conditioned Agent Resource Composition (AgentComposition): jointly selecting a backb",
+    "url": "https://arxiv.org/abs/2611.22030",
+    "related": []
+  },
+  {
+    "id": "feed-3818a96d0492",
+    "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on behalf of consumers. Naturally, one might assume that models with more thinking power would make higher-quality purchasing decisions. To test this belief, we ask two questions about ",
+    "url": "https://arxiv.org/abs/2611.22033",
+    "related": []
+  },
+  {
+    "id": "feed-38e1c821de4e",
+    "title": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.22043v1 Announce Type: new Abstract: We describe the solver we submitted to the second round of the SOICT 2026 contest on the Integrated Passenger and Parcel Transportation problem, a selective pickup-and-delivery routing problem with time windows, open routes and heterogeneous taxis. The solver is a single-file, standard-library Python program that combines (i) a constant-time insertion test based on late",
+    "url": "https://arxiv.org/abs/2611.22043",
+    "related": []
+  },
+  {
+    "id": "feed-aca85857830b",
+    "title": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.22069v1 Announce Type: new Abstract: Safety is personal: the same action can be safe for one person but unsafe for another. Yet current guardrails judge content without considering who is affected. Using medication safety, we introduce \\textit{patient-conditioned medication guarding}, which predicts a safety verdict and 17 risk categories from a patient profile and prescription. We release \\textbf{MedGuard",
+    "url": "https://arxiv.org/abs/2611.22069",
+    "related": []
+  },
+  {
+    "id": "feed-ffe81ed8f2f3",
+    "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.22075v1 Announce Type: new Abstract: Tool-using AI agents change files, databases, access rights and public information, yet permission to call a tool does not establish whether a mistake can be undone. We present Reversibility Classes, a declared five-level vocabulary with argument-sensitive rules, conservative defaults and an explicit prior-state capture contract. The pinned implementation and evidence-l",
+    "url": "https://arxiv.org/abs/2611.22075",
+    "related": []
+  },
+  {
+    "id": "feed-d3649c9361fd",
+    "title": "When Lower Harm Misleads: Auditing Concept Corrections",
+    "source": "arXiv AI",
+    "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.22084v1 Announce Type: new Abstract: An expert who corrects a concept prediction, such as a BI-RADS descriptor in breast ultrasound, expects the diagnosis to improve. Objectives that reduce the harm of such corrections are judged by harm and accuracy, yet harm also falls when a model responds less to every correction or starts from a worse uncorrected prediction, the reference for harm. We propose a correc",
+    "url": "https://arxiv.org/abs/2611.22084",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -37,6 +237,46 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-549a77347d5e",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "related": []
+  },
+  {
+    "id": "feed-c6c361c53bc4",
+    "title": "Introducing ChatGPT for Sales",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "related": []
+  },
+  {
+    "id": "feed-0604bc2b50fc",
+    "title": "Astra for Law leads in legal intelligence",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "related": []
+  },
+  {
+    "id": "feed-58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
     "related": []
   },
   {
@@ -100,6 +340,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-cfcc7acb02e9",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "source": "OpenAI",
+    "date": "Mon, 16 Nov 2026 06:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "related": []
+  },
+  {
+    "id": "feed-e3915f7e4cf0",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "source": "OpenAI",
+    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "related": []
+  },
+  {
+    "id": "feed-3899b6e8ee3c",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "source": "OpenAI",
+    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+    "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -117,6 +387,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "related": []
+  },
+  {
+    "id": "feed-5bf4951adbe9",
+    "title": "Introducing ChatGPT Wallet",
+    "source": "OpenAI",
+    "date": "Fri, 13 Nov 2026 15:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
     "related": []
   },
   {
