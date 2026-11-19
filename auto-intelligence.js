@@ -133,5 +133,50 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "source": "https://huggingface.co/blog/real-world-voiceeq",
     "detectedDate": "2026-08-09",
     "slug": "real-world-voiceeq"
+  },
+  {
+    "id": "auto-549a77347d5e",
+    "name": "GPT-6.2 ASTRA AND SOL",
+    "provider": "OpenAI",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "status": "AUTO-DETECTED",
+    "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "detectedDate": "2026-11-19",
+    "slug": "gpt-6-2-astra-and-sol"
+  },
+  {
+    "id": "auto-c6c361c53bc4",
+    "name": "CHATGPT FOR SALES",
+    "provider": "OpenAI",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "status": "AUTO-DETECTED",
+    "source": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "detectedDate": "2026-11-19",
+    "slug": "chatgpt-for-sales"
+  },
+  {
+    "id": "auto-58da9c66b145",
+    "name": "OPENAI FOR CHILE",
+    "provider": "OpenAI",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "status": "AUTO-DETECTED",
+    "source": "https://openai.com/index/introducing-openai-for-chile",
+    "detectedDate": "2026-11-19",
+    "slug": "openai-for-chile"
   }
 ];
