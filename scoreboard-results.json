@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "updatedAt": "2026-11-19T13:01:40Z",
+  "updatedAt": "2026-11-20T12:52:10Z",
   "notice": "Only public benchmark values fetched from the named upstream source are included. Missing values are left missing.",
   "models": [
     {
