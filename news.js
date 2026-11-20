@@ -10,6 +10,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-0c3c8b23c6ca",
+    "title": "Introducing Gemini 4 Neon",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 21:35:43 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "related": []
+  },
+  {
+    "id": "feed-652211f5c064",
+    "title": "Genie 4 is now available",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 18:13:42 +0000",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -40,6 +60,46 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-549a77347d5e",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "related": []
+  },
+  {
+    "id": "feed-c6c361c53bc4",
+    "title": "Introducing ChatGPT for Sales",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "related": []
+  },
+  {
+    "id": "feed-58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "related": []
+  },
+  {
+    "id": "feed-0604bc2b50fc",
+    "title": "Astra for Law leads in legal intelligence",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "related": []
+  },
+  {
     "id": "feed-12ceb5f0dc7b",
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "source": "Google DeepMind",
@@ -47,6 +107,26 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-0b2e1c02de47",
+    "title": "Gemini 4 Carbon is now available",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "related": []
+  },
+  {
+    "id": "feed-428ac4b42c0b",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 12:02:28 +0000",
+    "category": "NEW RELEASES",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
     "related": []
   },
   {
@@ -67,6 +147,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-4bad5afe01a1",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "source": "Google DeepMind",
+    "date": "Thu, 12 Nov 2026 18:00:50 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "related": []
   },
   {
@@ -107,6 +197,216 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-211fbe8009a4",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "source": "Hugging Face",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "related": []
+  },
+  {
+    "id": "feed-f1ae0f2c9ddc",
+    "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side only what it would get if bargaining failed. For humans, this can be less than they had before AI. In a simple game-theor",
+    "url": "https://arxiv.org/abs/2611.23322",
+    "related": []
+  },
+  {
+    "id": "feed-b37da287b0e0",
+    "title": "Training Language Models for Introspective Oversight",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not trained to report their own misbehavior. As a result, approaches to oversight typically involve querying external models. Th",
+    "url": "https://arxiv.org/abs/2611.23365",
+    "related": []
+  },
+  {
+    "id": "feed-571da629935d",
+    "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them, and applies them to modern agentic coding. We count the tokens an agent generates as its cost and divide that cost into",
+    "url": "https://arxiv.org/abs/2611.23375",
+    "related": []
+  },
+  {
+    "id": "feed-7b8d6919608e",
+    "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever. To address t",
+    "url": "https://arxiv.org/abs/2611.23398",
+    "related": []
+  },
+  {
+    "id": "feed-d849ebb68b6e",
+    "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this gap, we introduce RFBench, a simulator-grounded dataset and benchmark for passive RF layout design and understanding. The dat",
+    "url": "https://arxiv.org/abs/2611.23410",
+    "related": []
+  },
+  {
+    "id": "feed-84e21402df90",
+    "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23445v2 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery strategies aim to rescue accuracy by selectively retaining high-precision parameters, the fundamental mechanics of where and why these models colla",
+    "url": "https://arxiv.org/abs/2611.23445",
+    "related": []
+  },
+  {
+    "id": "feed-bccfb7687311",
+    "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models. However, real clinical notes are rarely available due to privacy regulations, which particularly limits progress for low-resource languages such as European Po",
+    "url": "https://arxiv.org/abs/2611.23454",
+    "related": []
+  },
+  {
+    "id": "feed-5c8a08fdfd27",
+    "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging. Generated questions must satisfy multiple constraints: mathematical correctness, curriculum alignment, appropriate cognitive difficulty, and educator reviewability. While prior work has advanced text generation, rel",
+    "url": "https://arxiv.org/abs/2611.23456",
+    "related": []
+  },
+  {
+    "id": "feed-24648c435cbb",
+    "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23476v1 Announce Type: new Abstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders often backfires: reflection and scalar scores conflate what an edit newly broke with what remains unsolved, causing local ",
+    "url": "https://arxiv.org/abs/2611.23476",
+    "related": []
+  },
+  {
+    "id": "feed-6dda97006bce",
+    "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.23480v1 Announce Type: new Abstract: Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods. In this retrospective study, six VLMs read 100 emergency CT and MRI examinations published in a public archive (March 2025-August 2026) under four conditions (free navigation, navigation from a key ",
+    "url": "https://arxiv.org/abs/2611.23480",
+    "related": []
+  },
+  {
+    "id": "feed-9dc2fbd8f95d",
+    "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.23483v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) that think with images interleave reasoning with zoom-in tool calls. However, this sequential loop is slow, and its answers carry no reliability score. Prior speculation of tokens, reasoning steps, or answers keeps the loop, and answer speculation also accepts confident errors. We find that the loop mostly adds one zoom-i",
+    "url": "https://arxiv.org/abs/2611.23483",
+    "related": []
+  },
+  {
+    "id": "feed-c0ed4e9a415a",
+    "title": "BOS Summary: The First Token Matters",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23508v1 Announce Type: new Abstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, such as the beginning-of-sequence (BOS) token, receive a disproportionate share of attention. Under standard causal masking, however, the BOS query attends only to itself, so the representation that later tokens repeatedly access carries no inform",
+    "url": "https://arxiv.org/abs/2611.23508",
+    "related": []
+  },
+  {
+    "id": "feed-a1312471f7c9",
+    "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23509v1 Announce Type: new Abstract: Automated agent design searches for executable architectures that improve LLM-based agent performance, with evolutionary methods using language-model crossover to recombine promising mechanisms for task decomposition, model coordination, and verification. This search, however, is typically guided by aggregate fitness alone, which hides the instance-level successes and f",
+    "url": "https://arxiv.org/abs/2611.23509",
+    "related": []
+  },
+  {
+    "id": "feed-2cf26a3792f5",
+    "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23520v1 Announce Type: new Abstract: Time-series sensing increasingly relies on neural networks, yet deployment on resource-constrained microcontrollers remains challenging. Aggressive model compression can reduce accuracy, while restricting weights to multiplication-free representations introduces further losses. We present BeFit, an end-to-end framework that shifts model capacity from weights to learnabl",
+    "url": "https://arxiv.org/abs/2611.23520",
+    "related": []
+  },
+  {
+    "id": "feed-cce97e491723",
+    "title": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23560v1 Announce Type: new Abstract: Personality is only weakly and inconsistently signaled by written language, and existing text-based methods typically combine language-model and psycholinguistic representations at the input or decision level. It remains open whether a more deliberate combination of the two views, and a decomposition of the prediction target, can recover more of the signal. We present a",
+    "url": "https://arxiv.org/abs/2611.23560",
+    "related": []
+  },
+  {
+    "id": "feed-04c157b96f70",
+    "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.23564v1 Announce Type: new Abstract: When LLM agents pass intermediate judgments downstream without uncertainty, later decisions may treat tentative assumptions as facts. Effective uncertainty propagation must preserve information for correction and update inherited beliefs as new evidence arrives. Yet scalar scores omit information needed for revision, while detailed descriptions and reflection incur addi",
+    "url": "https://arxiv.org/abs/2611.23564",
+    "related": []
+  },
+  {
+    "id": "feed-cb7adb9abc00",
+    "title": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23572v1 Announce Type: new Abstract: Food insecurity creates a pressing need for guidance that helps households find usable food resources and assess food choices in light of their circumstances. Such guidance must connect eligibility requirements, practical access constraints, and dietary needs rather than return isolated listings or generic nutritional advice. Multi-agent food assistants can coordinate t",
+    "url": "https://arxiv.org/abs/2611.23572",
+    "related": []
+  },
+  {
+    "id": "feed-4982f2beba66",
+    "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23588v1 Announce Type: new Abstract: Enterprise LLM agents operate in dynamic environments where foundation models evolve rapidly, workflows update frequently, and deployments need to satisfy accuracy and cost requirements. We propose ARISE (Agent Refinement through Iterative Self-Evaluation), a practical memory architecture in which the agent's memory evolves from its own failures without updating model w",
+    "url": "https://arxiv.org/abs/2611.23588",
+    "related": []
+  },
+  {
+    "id": "feed-0d6d6ad6fccf",
+    "title": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23611v1 Announce Type: new Abstract: Tool runtimes can lower an agent-selected operation into a hidden parallel graph, reducing latency and context while risking semantic mistranslation. We introduce RefinementGuard: translation validation for hidden, effectful agent-tool lowerings, coupled to artifact-bound, fail-closed runtime admission. Qualification compares a candidate graph with an independent refere",
+    "url": "https://arxiv.org/abs/2611.23611",
+    "related": []
+  },
+  {
+    "id": "feed-c48f903c291d",
+    "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+    "source": "arXiv AI",
+    "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.23639v1 Announce Type: new Abstract: In cosmology, surveys span different sky regions and wavelength ranges, resulting in uneven modality coverage across observational datasets. Such heterogeneity can be addressed through either multimodal foundation models (FMs), which learn shared embedding spaces, or independently learned modality embeddings combined via late fusion. We investigate whether the latter pr",
+    "url": "https://arxiv.org/abs/2611.23639",
     "related": []
   },
   {
