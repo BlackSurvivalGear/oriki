@@ -10,6 +10,26 @@
     "related": []
   },
   {
+    "id": "feed-0c3c8b23c6ca",
+    "title": "Introducing Gemini 4 Neon",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 21:35:43 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "related": []
+  },
+  {
+    "id": "feed-652211f5c064",
+    "title": "Genie 4 is now available",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 18:13:42 +0000",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -40,6 +60,46 @@
     "related": []
   },
   {
+    "id": "feed-549a77347d5e",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "related": []
+  },
+  {
+    "id": "feed-c6c361c53bc4",
+    "title": "Introducing ChatGPT for Sales",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "related": []
+  },
+  {
+    "id": "feed-0604bc2b50fc",
+    "title": "Astra for Law leads in legal intelligence",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "related": []
+  },
+  {
+    "id": "feed-58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "related": []
+  },
+  {
     "id": "feed-12ceb5f0dc7b",
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "source": "Google DeepMind",
@@ -47,6 +107,26 @@
     "category": "NEW RELEASES",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-0b2e1c02de47",
+    "title": "Gemini 4 Carbon is now available",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "related": []
+  },
+  {
+    "id": "feed-428ac4b42c0b",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 12:02:28 +0000",
+    "category": "NEW RELEASES",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
     "related": []
   },
   {
@@ -67,6 +147,16 @@
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-4bad5afe01a1",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "source": "Google DeepMind",
+    "date": "Thu, 12 Nov 2026 18:00:50 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "related": []
   },
   {
@@ -107,6 +197,16 @@
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-211fbe8009a4",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "source": "Hugging Face",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
     "related": []
   },
   {
