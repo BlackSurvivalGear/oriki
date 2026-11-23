@@ -10,6 +10,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-0c3c8b23c6ca",
+    "title": "Introducing Gemini 4 Neon",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 21:35:43 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "related": []
+  },
+  {
+    "id": "feed-652211f5c064",
+    "title": "Genie 4 is now available",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 18:13:42 +0000",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "related": []
+  },
+  {
     "id": "feed-5d7569c2afe3",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "source": "Hugging Face",
@@ -40,6 +60,36 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-549a77347d5e",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "category": "MODELS",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "related": []
+  },
+  {
+    "id": "feed-c6c361c53bc4",
+    "title": "Introducing ChatGPT for Sales",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "category": "MODELS",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "related": []
+  },
+  {
+    "id": "feed-58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "related": []
+  },
+  {
     "id": "feed-12ceb5f0dc7b",
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "source": "Google DeepMind",
@@ -47,6 +97,26 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "related": []
+  },
+  {
+    "id": "feed-0b2e1c02de47",
+    "title": "Gemini 4 Carbon is now available",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "related": []
+  },
+  {
+    "id": "feed-428ac4b42c0b",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 12:02:28 +0000",
+    "category": "NEW RELEASES",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
     "related": []
   },
   {
@@ -67,6 +137,16 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-4bad5afe01a1",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "source": "Google DeepMind",
+    "date": "Thu, 12 Nov 2026 18:00:50 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "related": []
   },
   {
@@ -100,6 +180,216 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-9dddeb89e408",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "source": "Google DeepMind",
+    "date": "Mon, 23 Nov 2026 16:59:40 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "related": []
+  },
+  {
+    "id": "feed-036e80097ea4",
+    "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized by the participant) in a brainstorming experiment ($N$=168) with human-human dyads as reference. Two-AI rooms posted mor",
+    "url": "https://arxiv.org/abs/2611.26663",
+    "related": []
+  },
+  {
+    "id": "feed-d55ff3b0f9c3",
+    "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative paradigm, generation by simulation: rather than describing a relational artifact, we simulate a process that produces it an",
+    "url": "https://arxiv.org/abs/2611.26717",
+    "related": []
+  },
+  {
+    "id": "feed-7ccc51f7d59b",
+    "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct call, but never contrasts it with a plausible incorrect one. In an environment where even a minor formatting error can inv",
+    "url": "https://arxiv.org/abs/2611.26722",
+    "related": []
+  },
+  {
+    "id": "feed-d63805c1edc2",
+    "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: designing the simulation, writing reliable input scripts, executing them, and analyzing the results with separate tools. He",
+    "url": "https://arxiv.org/abs/2611.26782",
+    "related": []
+  },
+  {
+    "id": "feed-e212b1020568",
+    "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large language models (MLLMs) could automate these readouts with an explanation, but two gaps remain. Pathology MLLMs read H&E al",
+    "url": "https://arxiv.org/abs/2611.26794",
+    "related": []
+  },
+  {
+    "id": "feed-7b900895fb88",
+    "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patterns are stored as energy minima and retrieved through attractor dynamics. Beyond their capacity, AMs form new minima kn",
+    "url": "https://arxiv.org/abs/2611.26797",
+    "related": []
+  },
+  {
+    "id": "feed-392b2bf540dc",
+    "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.26870v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should happen) and descriptive reasoning (what is likely to happen). Most fairness benchmarks evaluate demographic discrimination under a single reasoning objective, and none we know of tests whether a model treats the ",
+    "url": "https://arxiv.org/abs/2611.26870",
+    "related": []
+  },
+  {
+    "id": "feed-f9653447a3f8",
+    "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26903v1 Announce Type: new Abstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech. Recent systems report strong overall results, but aggregate scores do not reveal whether this performance holds across different editing conditions. In this work, we present an edit- and generator-conditioned analysis of Segment-Aware Localization (SAL) using WavLM",
+    "url": "https://arxiv.org/abs/2611.26903",
+    "related": []
+  },
+  {
+    "id": "feed-692a19875bb6",
+    "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.26906v1 Announce Type: new Abstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost. Applying an expensive solver to every subgoal wastes computation when cheaper models are sufficient, while always starting from the cheapest solver wastes attempts on subgoals that require stronger models. We present BudgetPV, an agentic budget-aware predict-and-verify syste",
+    "url": "https://arxiv.org/abs/2611.26906",
+    "related": []
+  },
+  {
+    "id": "feed-0d97de254e8e",
+    "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26910v1 Announce Type: new Abstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights. Self-improvement in an embodied world cannot be read from one measure. Existing benchmarks measure task progress, world-knowledge question answering (QA), and episodic memory, but a correct answer does not show that the agent ever observed the evidence for it, an",
+    "url": "https://arxiv.org/abs/2611.26910",
+    "related": []
+  },
+  {
+    "id": "feed-5ab33db9554f",
+    "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26912v1 Announce Type: new Abstract: The growing complexity of electronic systems demands efficient design flows, yet EDA scripting remains a bottleneck: proprietary APIs are sparsely documented, and errors often appear as silent failures or cryptic exceptions. Hand-crafted knowledge helps but is difficult to maintain as toolchains evolve. We present ZhuLong-SE (Self-Evolution), an execution-grounded LLM a",
+    "url": "https://arxiv.org/abs/2611.26912",
+    "related": []
+  },
+  {
+    "id": "feed-3433b5b74f58",
+    "title": "Self-similar Organization of Information in Language",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26935v1 Announce Type: new Abstract: How much information relevant to predicting the future of a passage (i.e. predictive information) is carried by the preceding text, and how is this information distributed along that history? These questions are fundamental to understanding both the statistical structure of language and what large language models (LLMs) can learn about it. Indeed, LLMs trained to predic",
+    "url": "https://arxiv.org/abs/2611.26935",
+    "related": []
+  },
+  {
+    "id": "feed-c8d198630fcb",
+    "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26942v1 Announce Type: new Abstract: As AI agents ship more code with minimal human oversight, code review becomes the critical quality-control checkpoint -- but one without a reliable, objective verifier: review quality is nuanced and ultimately a judgment call by the PR author. Existing benchmarks are structurally misaligned with this: annotators are third-party reviewers, like the bots they evaluate, no",
+    "url": "https://arxiv.org/abs/2611.26942",
+    "related": []
+  },
+  {
+    "id": "feed-397a58d08f7e",
+    "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26966v1 Announce Type: new Abstract: Tool-using AI agents propose actions whose authorization and external effects cannot be inferred from generated text alone. We study an execution boundary that separates agent proposals from business-controlled authority, context disclosure, and supplier selection. The Open Process Control Plane (OPCP) mediates capability calls and records uncertain outcomes when a supp",
+    "url": "https://arxiv.org/abs/2611.26966",
+    "related": []
+  },
+  {
+    "id": "feed-967eeb51cb75",
+    "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.26968v1 Announce Type: new Abstract: A financial report drafted by an LLM can state every number correctly but still go beyond its input, adding judgments and causes that no one supplied. We call these additions unsupported framing and find them far more often in LLM drafts than in reports written by proInput facts Revenue +3% Higher prices 10-K filings Revenue increased 3% on higher prices. 10-K writer Re",
+    "url": "https://arxiv.org/abs/2611.26968",
+    "related": []
+  },
+  {
+    "id": "feed-814013656982",
+    "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.26975v1 Announce Type: new Abstract: Local LLM assistants decode for one user at a time, so decoding is bound by memory bandwidth and leaves compute idle. Streaming safety checks today trade accuracy against cost. A dedicated guard model is accurate but nearly doubles the latency per token, while a hidden-state probe is cheap but less accurate. We present ToRA, an adapter that runs a second model as an ext",
+    "url": "https://arxiv.org/abs/2611.26975",
+    "related": []
+  },
+  {
+    "id": "feed-7d212e2fbaf8",
+    "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.26976v1 Announce Type: new Abstract: Sub-4-bit quantization allows mobile devices to run larger LLMs, but its memory savings do not always translate into faster decoding on mobile NPUs. Their matrix units support only a few native integer datatypes, and converting unsupported weight formats on the vector unit can erase the gains from fewer bits. Mixed precision faces an additional constraint: each matrix-u",
+    "url": "https://arxiv.org/abs/2611.26976",
+    "related": []
+  },
+  {
+    "id": "feed-b051403af047",
+    "title": "From Letter-of-Credit Requirements to Executable Specifications: Evaluating Verification Accuracy and Completeness",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.26988v1 Announce Type: new Abstract: In letter-of-credit (LC) document examination, a correct final decision does not show that every requirement was examined. We therefore evaluate examination requirement by requirement and make each requirement executable. A language model converts the bill of lading (BL) and commercial invoice (IV) requirements of a credit into atomic conditions and logical structures, ",
+    "url": "https://arxiv.org/abs/2611.26988",
+    "related": []
+  },
+  {
+    "id": "feed-27117f410f60",
+    "title": "Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.26998v1 Announce Type: new Abstract: We study reward fidelity in an adversarial reinforcement-learning loop for red-teaming financial-services language-model guardrails. Apparent wins can arise when an attack omits prescribed personally identifiable information (PII), or when a reward judge credits a response that did not break the targeted policy. On attacker-generated and public benchmark examples, TypeS",
+    "url": "https://arxiv.org/abs/2611.26998",
+    "related": []
+  },
+  {
+    "id": "feed-17169dd0c70f",
+    "title": "Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations",
+    "source": "arXiv AI",
+    "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.27007v1 Announce Type: new Abstract: Rigorously evaluating medical artificial intelligence (AI) requires testing open-ended clinical management across diverse presentations and stages of care. However, existing benchmarks rely on manual expert authoring, limiting coverage across conditions, conditional care pathways, and evolving guidelines. We develop an automated pipeline that extracts and verifies struc",
+    "url": "https://arxiv.org/abs/2611.27007",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -107,6 +397,16 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-211fbe8009a4",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "source": "Hugging Face",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
     "related": []
   },
   {
