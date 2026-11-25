@@ -133,5 +133,35 @@ window.ORIKI_AUTO_INTELLIGENCE = [
     "source": "https://huggingface.co/blog/real-world-voiceeq",
     "detectedDate": "2026-08-09",
     "slug": "real-world-voiceeq"
+  },
+  {
+    "id": "auto-d0a3a7f662b5",
+    "name": "AN INDIC VOICE AGENT WITH CUGA",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "An Indic Voice Agent with CUGA",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "detectedDate": "2026-11-25",
+    "slug": "an-indic-voice-agent-with-cuga"
+  },
+  {
+    "id": "auto-211fbe8009a4",
+    "name": "HARNESS ADAPTERS",
+    "provider": "Hugging Face",
+    "type": "AI Platform",
+    "category": "Auto-detected",
+    "capabilities": [],
+    "purposes": [],
+    "description": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "status": "AUTO-DETECTED",
+    "source": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "detectedDate": "2026-11-25",
+    "slug": "harness-adapters"
   }
 ];
