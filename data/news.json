@@ -1,5 +1,15 @@
 [
   {
+    "id": "feed-d0a3a7f662b5",
+    "title": "An Indic Voice Agent with CUGA",
+    "source": "Hugging Face",
+    "date": "Wed, 25 Nov 2026 10:22:09 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "related": []
+  },
+  {
     "id": "feed-0ce8c6adc247",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "source": "Google DeepMind",
@@ -7,6 +17,26 @@
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "related": []
+  },
+  {
+    "id": "feed-0c3c8b23c6ca",
+    "title": "Introducing Gemini 4 Neon",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 21:35:43 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "related": []
+  },
+  {
+    "id": "feed-652211f5c064",
+    "title": "Genie 4 is now available",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 18:13:42 +0000",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
     "related": []
   },
   {
@@ -50,6 +80,26 @@
     "related": []
   },
   {
+    "id": "feed-0b2e1c02de47",
+    "title": "Gemini 4 Carbon is now available",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "related": []
+  },
+  {
+    "id": "feed-428ac4b42c0b",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 12:02:28 +0000",
+    "category": "NEW RELEASES",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -67,6 +117,236 @@
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-02a088434703",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "source": "Hugging Face",
+    "date": "Thu, 26 Nov 2026 11:37:17 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "related": []
+  },
+  {
+    "id": "feed-c01600d41603",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "source": "Hugging Face",
+    "date": "Thu, 26 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "related": []
+  },
+  {
+    "id": "feed-dce071d6582a",
+    "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act. In this paper, we show that allocation is not an auxiliary concern but a structural component of governance. When multiple agents compete for execution under cons",
+    "url": "https://arxiv.org/abs/2611.31284",
+    "related": []
+  },
+  {
+    "id": "feed-b02e0bf3eddf",
+    "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31301v2 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchmark with a 4-way label in which every source clip is released in all four combinations of real or fake video and real or f",
+    "url": "https://arxiv.org/abs/2611.31301",
+    "related": []
+  },
+  {
+    "id": "feed-9b5199cc4b2a",
+    "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31329v1 Announce Type: new Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conservative Overlap Fuzzy Rough Set (COFRS) model. Each object is described by its set of present attributes. The similarity of two objects is a weighted overlap on the attributes present in both, divided by",
+    "url": "https://arxiv.org/abs/2611.31329",
+    "related": []
+  },
+  {
+    "id": "feed-bc1d896f2583",
+    "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive data exploration. Unlike static chart-to-code generation, which emphasizes visual consistency, interactive chart-to-code",
+    "url": "https://arxiv.org/abs/2611.31345",
+    "related": []
+  },
+  {
+    "id": "feed-9a43d7dd6fad",
+    "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31346v1 Announce Type: new Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benchmarks largely focus on coarse-grained emotion recognition or binary truth-deception detection, overlooking the diverse ways people manipulate information in conversations, such as withholding, leakag",
+    "url": "https://arxiv.org/abs/2611.31346",
+    "related": []
+  },
+  {
+    "id": "feed-1e984615eec5",
+    "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31347v1 Announce Type: new Abstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act on the answer unseen. We attack six Laya models with 81 programmatic edits of 566 synthetic items (injected sentences, label leaks, edited descriptions, decoy options, invisible and look-alike charac",
+    "url": "https://arxiv.org/abs/2611.31347",
+    "related": []
+  },
+  {
+    "id": "feed-6d2a8f9c18b1",
+    "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31424v1 Announce Type: new Abstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These benign conversations contain evidence on task results, user concerns, and operational constraints. The risk is that attackers who can observe benign conversations (evidence) may construct stronger indirect prompt injections without increasing ",
+    "url": "https://arxiv.org/abs/2611.31424",
+    "related": []
+  },
+  {
+    "id": "feed-842222505d59",
+    "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic question: when a policy fails under a given harness, is it missing task knowledge or the competence to oper",
+    "url": "https://arxiv.org/abs/2611.31427",
+    "related": []
+  },
+  {
+    "id": "feed-9216299406d0",
+    "title": "Taxi: Analyzing Agents at (Real) Scale",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31457v1 Announce Type: new Abstract: In this technical report, we present Taxi -- a system for debugging, clustering, and monitoring agents at scale. Taxi scales to millions of steps efficiently. This is made possible by a combination of scalable analysis methods. Taxi relies primarily on clustering to generate a taxonomy over steps for a structured overview of the data, and provides full SQL access for en",
+    "url": "https://arxiv.org/abs/2611.31457",
+    "related": []
+  },
+  {
+    "id": "feed-d97bcf0fef09",
+    "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.31475v1 Announce Type: new Abstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multimodal large language model (MLLM) cannot resolve from pixels alone. Tool access, however, shifts the bottleneck to orchestration: the agent must decide which tools to call, in what order, and how to interpret t",
+    "url": "https://arxiv.org/abs/2611.31475",
+    "related": []
+  },
+  {
+    "id": "feed-c810ea565aef",
+    "title": "Evaluating Frontier-Model Agent Skills with Open-Weight Models in a Science Gateway",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.31480v1 Announce Type: new Abstract: Scientific analyses that span many jobs and computing sites depend on workflow management systems to run reliably, but writing a production workflow requires expertise in such a system, which many domain scientists do not have. Coding agents can supply this expertise when they are guided by skills and packaged procedures for recurring tasks. We wrote skills and speciali",
+    "url": "https://arxiv.org/abs/2611.31480",
+    "related": []
+  },
+  {
+    "id": "feed-08f8a7fd6a70",
+    "title": "XRL4T1D: A Post-hoc Explainability Framework for Reinforcement Learning in Type 1 Diabetes Management",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31498v1 Announce Type: new Abstract: Type 1 diabetes (T1D) requires lifelong insulin therapy, and reinforcement learning (RL) has shown promise for automated dosing in the UVA/Padova simulator. However, the decisions of RL controllers remain difficult to interpret. We present XRL4T1D, a post-hoc explainability framework for evaluating pretrained insulin-dosing policies without retraining. Each policy uses ",
+    "url": "https://arxiv.org/abs/2611.31498",
+    "related": []
+  },
+  {
+    "id": "feed-1d8eb48ffeed",
+    "title": "PatientFlowSynth: Evaluating FHIR Agents with Matched Patient Charts",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31521v1 Announce Type: new Abstract: Agents that search patient charts must classify claims from retrieved records, including cases with missing or conflicting evidence. In Fast Healthcare Interoperability Resources (FHIR), status fields can change how those records should be interpreted. PatientFlowSynth provides 18,000 tasks from 225 synthetic patients and 18 templates that hold the patient, question, an",
+    "url": "https://arxiv.org/abs/2611.31521",
+    "related": []
+  },
+  {
+    "id": "feed-d0679e7d06a7",
+    "title": "One Step, Four Clocks: How GUI Agents Fall Out of Step",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31522v1 Announce Type: new Abstract: GUI agents can choose correct actions yet fail as interfaces change during deliberation. Latency alone cannot explain these failures because actions may become invalid at different interaction stages. We model four events: environment change, observation availability, decision commitment, and action receipt (EODA). We introduce ChronotopeGym to study these failures unde",
+    "url": "https://arxiv.org/abs/2611.31522",
+    "related": []
+  },
+  {
+    "id": "feed-8642462bbe8d",
+    "title": "Agent Evaluation Without Ground Truth: A Null Proportion Perspective",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31539v1 Announce Type: new Abstract: The correctness of actions taken by agents is typically evaluated against known, externally verified ground truth labels, such as whether a proof is correct or whether code compiles and passes unit tests. However, as coding and science agents are entrusted with more end-to-end autonomy -- proposing interventions, running experiments, and deciding what to deploy and inve",
+    "url": "https://arxiv.org/abs/2611.31539",
+    "related": []
+  },
+  {
+    "id": "feed-45d0a75ba29c",
+    "title": "Agent Recovery Gone Wrong: Measuring Harm Beyond Duplicate Calls",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31554v1 Announce Type: new Abstract: Code-executing LLM agents submit blocks of code that issue several API writes. If a block fails after some of its writes have taken effect, the agent rewrites the block and continues. It is unknown how often such a recovery harms the external state when the failure occurs naturally in the code written by the agent. In this paper, we measure it on recorded trajectories o",
+    "url": "https://arxiv.org/abs/2611.31554",
+    "related": []
+  },
+  {
+    "id": "feed-4b55c71e9cce",
+    "title": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31559v1 Announce Type: new Abstract: LLM-based user simulation can support interface design, accessibility research, and interactive-agent evaluation, but standard computer-use agents are optimized for task completion rather than reproducing how people perceive, reason, and act. We introduce COGENT (COGnitive agENT), a modular cognitive architecture for simulating user interaction with desktop interfaces. ",
+    "url": "https://arxiv.org/abs/2611.31559",
+    "related": []
+  },
+  {
+    "id": "feed-71e21bfe6093",
+    "title": "Off-the-Shelf Autonomous Agents for Game Playtesting",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31570v1 Announce Type: new Abstract: In playtesting games, a human operator is typically required to test most gameplay elements. In this work we present Buddy, an autonomous game solving agent which can solve long time horizon objectives in an unseen 3D role-playing game using off-the-shelf language model systems. Buddy will take actions, receive feedback on those actions, and pursue a goal across many tu",
+    "url": "https://arxiv.org/abs/2611.31570",
+    "related": []
+  },
+  {
+    "id": "feed-e85d829d8674",
+    "title": "Safe Autoformalization: Sufficiency and Necessity with Entailment Graphs",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.31571v1 Announce Type: new Abstract: Autoformalization translates a natural-language statement into a formula that captures its intent, which depends on the statement's context: the background that disambiguates it. LLMs make autoformalization practical, but their probabilistic output carries no formal guarantees. We propose techniques for safe autoformalization that certify one-sided logical adequacy: a f",
+    "url": "https://arxiv.org/abs/2611.31571",
+    "related": []
+  },
+  {
+    "id": "feed-1c3033b75869",
+    "title": "Provably Near-Optimal PQ in the Extended Zador Model",
+    "source": "arXiv AI",
+    "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.31579v1 Announce Type: new Abstract: This paper investigates Product Quantization (PQ) Optimization with Gaussian data. It offers three key contributions (i) a proof that SVD is the optimal preconditioning rotation for PQ; (ii) a new Extended Zador (EZ) estimator of the $k$-means quantization cost that is accurate in low bit rates and low dimensions; and (iii) a novel segmentation algorithm based on 1-d bi",
+    "url": "https://arxiv.org/abs/2611.31579",
+    "related": []
+  },
+  {
+    "id": "feed-4bad5afe01a1",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "source": "Google DeepMind",
+    "date": "Thu, 12 Nov 2026 18:00:50 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "related": []
   },
   {
@@ -100,6 +380,16 @@
     "related": []
   },
   {
+    "id": "feed-9dddeb89e408",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "source": "Google DeepMind",
+    "date": "Mon, 23 Nov 2026 16:59:40 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -107,6 +397,16 @@
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-211fbe8009a4",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "source": "Hugging Face",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
     "related": []
   },
   {
