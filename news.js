@@ -1,5 +1,15 @@
 window.ORIKI_NEWS = [
   {
+    "id": "feed-d0a3a7f662b5",
+    "title": "An Indic Voice Agent with CUGA",
+    "source": "Hugging Face",
+    "date": "Wed, 25 Nov 2026 10:22:09 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "related": []
+  },
+  {
     "id": "feed-0ce8c6adc247",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "source": "Google DeepMind",
@@ -7,6 +17,26 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "",
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "related": []
+  },
+  {
+    "id": "feed-0c3c8b23c6ca",
+    "title": "Introducing Gemini 4 Neon",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 21:35:43 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "related": []
+  },
+  {
+    "id": "feed-652211f5c064",
+    "title": "Genie 4 is now available",
+    "source": "Google DeepMind",
+    "date": "Wed, 18 Nov 2026 18:13:42 +0000",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
     "related": []
   },
   {
@@ -50,6 +80,26 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-0b2e1c02de47",
+    "title": "Gemini 4 Carbon is now available",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "related": []
+  },
+  {
+    "id": "feed-428ac4b42c0b",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "source": "Google DeepMind",
+    "date": "Tue, 10 Nov 2026 12:02:28 +0000",
+    "category": "NEW RELEASES",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "related": []
+  },
+  {
     "id": "feed-9be096effcbb",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "source": "Google DeepMind",
@@ -67,6 +117,36 @@ window.ORIKI_NEWS = [
     "category": "MODELS",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "url": "https://openai.com/index/avatarin",
+    "related": []
+  },
+  {
+    "id": "feed-02a088434703",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "source": "Hugging Face",
+    "date": "Thu, 26 Nov 2026 11:37:17 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "related": []
+  },
+  {
+    "id": "feed-c01600d41603",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "source": "Hugging Face",
+    "date": "Thu, 26 Nov 2026 00:00:00 GMT",
+    "category": "NEW RELEASES",
+    "summary": "",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "related": []
+  },
+  {
+    "id": "feed-4bad5afe01a1",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "source": "Google DeepMind",
+    "date": "Thu, 12 Nov 2026 18:00:50 +0000",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "related": []
   },
   {
@@ -100,6 +180,16 @@ window.ORIKI_NEWS = [
     "related": []
   },
   {
+    "id": "feed-9dddeb89e408",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "source": "Google DeepMind",
+    "date": "Mon, 23 Nov 2026 16:59:40 +0000",
+    "category": "NEW RELEASES",
+    "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "related": []
+  },
+  {
     "id": "feed-66188580349f",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "source": "Google DeepMind",
@@ -107,6 +197,216 @@ window.ORIKI_NEWS = [
     "category": "NEW RELEASES",
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "related": []
+  },
+  {
+    "id": "feed-5aa9e3310d13",
+    "title": "Context Scaling: A New Frontier of AI Scaling",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be unavailable, distorted, or poorly selected. We call the effort to reduce this bottleneck context scaling. ",
+    "url": "https://arxiv.org/abs/2611.33160",
+    "related": []
+  },
+  {
+    "id": "feed-3965806fbc78",
+    "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausible but physically infeasible, or rated highly by a judge while quietly breaking a task requirement. We propose a scoring ",
+    "url": "https://arxiv.org/abs/2611.33161",
+    "related": []
+  },
+  {
+    "id": "feed-be1cc5587b8c",
+    "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that connect a result to a formal library. Existing evaluations often provide isolated theorem statements in settings where m",
+    "url": "https://arxiv.org/abs/2611.33165",
+    "related": []
+  },
+  {
+    "id": "feed-c8682f048617",
+    "title": "General-Purpose Decision Models for AI Configuration Tuning",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33190v1 Announce Type: new Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost. We investigate whether general-purpose decision models can guide tuning, using Jev as a deployed representative that re",
+    "url": "https://arxiv.org/abs/2611.33190",
+    "related": []
+  },
+  {
+    "id": "feed-ef0eeffeb9e1",
+    "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33263v1 Announce Type: new Abstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate response. We introduce a clinically grounded taxonomy that characterizes harm along three dimensions: what the harm is, who is ",
+    "url": "https://arxiv.org/abs/2611.33263",
+    "related": []
+  },
+  {
+    "id": "feed-63908ad4c42c",
+    "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33303v1 Announce Type: new Abstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. However, a planted proof is only one possible proof. A problem can also have shorter proofs, or several unrelated ones, and ",
+    "url": "https://arxiv.org/abs/2611.33303",
+    "related": []
+  },
+  {
+    "id": "feed-2e47ed7ddb35",
+    "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33304v1 Announce Type: new Abstract: The Platonic Representation Hypothesis (PRH) posits that AI models converge toward a shared representation of the world, even when trained on different data modalities. Previous work has found evidence for the PRH in the activations of vision and language models. In this work, we ask whether vision and language models also converge in how they act on these representatio",
+    "url": "https://arxiv.org/abs/2611.33304",
+    "related": []
+  },
+  {
+    "id": "feed-efa382521aa7",
+    "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33322v1 Announce Type: new Abstract: A language model can name a brand without classifying it correctly. This study measures these outcomes separately for 1,000 B2B SaaS brands across 333 product categories. On Gemma 4 12B, with no external retrieval, category prompts elicit 510 brands (51.0%). A separate five-candidate category probe ranks the reference label first for 787 brands, a distractor first for 1",
+    "url": "https://arxiv.org/abs/2611.33322",
+    "related": []
+  },
+  {
+    "id": "feed-aa03895220cf",
+    "title": "Confidence scores for gated automation of large language models",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33394v1 Announce Type: new Abstract: AI agents built on large language models (LLMs) demonstrate strong capabilities in automated decision-making. However, LLMs may produce incorrect answers with high confidence, limiting their applicability in decisions that affect individuals and organizations. Reliable confidence scores are necessary to gate such decisions, and existing estimates are frequently unavaila",
+    "url": "https://arxiv.org/abs/2611.33394",
+    "related": []
+  },
+  {
+    "id": "feed-6109b6ac57f8",
+    "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33402v1 Announce Type: new Abstract: AI models vary enormously in capability and price. Model routing exploits this by sending easier tasks to cheaper models. However, a single agentic task often combines easy and difficult subtasks, making one model choice for the entire task inefficient. We introduce partial routing, which guides a frontier lead model to delegate suitable subtasks to a cheaper worker mod",
+    "url": "https://arxiv.org/abs/2611.33402",
+    "related": []
+  },
+  {
+    "id": "feed-4cf7f9ebfa4c",
+    "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33411v1 Announce Type: new Abstract: Internet of Things (IoT) systems generate low-level sensor observations that are not directly suitable for process analysis and must first be transformed into semantically meaningful events. This paper investigates collaborative language models as a zero-shot semantic abstraction layer for converting such observations into higher-level event and activity labels. We prop",
+    "url": "https://arxiv.org/abs/2611.33411",
+    "related": []
+  },
+  {
+    "id": "feed-4dddd1096949",
+    "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33470v1 Announce Type: new Abstract: We present an end-to-end empirical study of dynamic reasoning in next-generation detection and response pipelines, evaluating how static classifiers, graph-based signal fusion, and large language model (LLM) triage agents perform under strict human-analyst attention budgets (Recall at B alerts/day). Across 56 reproducible experiments spanning a multi-layer enterprise-an",
+    "url": "https://arxiv.org/abs/2611.33470",
+    "related": []
+  },
+  {
+    "id": "feed-80f404d8b5e7",
+    "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33497v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) typically optimises evidence selection for semantic relevance, whereas compliance-sensitive long-form generation also requires evidence supporting explicit structural obligations. Semantically relevant retrieval may therefore omit information needed for mandatory downstream clauses. We propose Constraint-Aligned RAG (CA-RAG), a retri",
+    "url": "https://arxiv.org/abs/2611.33497",
+    "related": []
+  },
+  {
+    "id": "feed-7e922b4c2cc9",
+    "title": "Learning to Reason in Real-Time",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33513v1 Announce Type: new Abstract: AI agents that operate in the real world must reason correctly and on-time, yet they currently do not account for how time should alter their reasoning. Modern agents learn to do tasks in environments that are entirely synchronous: where the world waits for the agent to act before changing. A real-time environment, by contrast, changes independent of the agent. Existing",
+    "url": "https://arxiv.org/abs/2611.33513",
+    "related": []
+  },
+  {
+    "id": "feed-bdb12eac8ff6",
+    "title": "PeerReveal: Learning to Generalize in AI Peer Review Detection",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33555v1 Announce Type: new Abstract: Can we distinguish fully AI-generated reviews from those using AI only to rewrite human judgement? Furthermore, can we do so reliably when reviews are generated from diverse AI models and workflows across scientific domains? To this end, we introduce PeerReveal, a new detector that grounds its decisions in learned relationships between a review's claims and reference cl",
+    "url": "https://arxiv.org/abs/2611.33555",
+    "related": []
+  },
+  {
+    "id": "feed-d132989012a9",
+    "title": "FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33563v1 Announce Type: new Abstract: Automated Scientific Hypothesis Generation (ASHG) leveraging large language models (LLMs) aims to harness their strengths in knowledge integration, logical reasoning, and text generation for efficiently producing innovative, verifiable scientific hypotheses. However, existing approaches face three critical limitations: (i) insufficient fine-grained knowledge representat",
+    "url": "https://arxiv.org/abs/2611.33563",
+    "related": []
+  },
+  {
+    "id": "feed-758ccd72bcd9",
+    "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33594v1 Announce Type: new Abstract: Embedding models increasingly inform how people search, recommend, and retrieve information, yet we lack credible ways to test whether these similarity judgments reflect how humans understand meaning. Existing benchmarks typically rely on static, expert-labeled pairs with coarse Likert-style annotations, limiting scalability and making it difficult to obtain consistent,",
+    "url": "https://arxiv.org/abs/2611.33594",
+    "related": []
+  },
+  {
+    "id": "feed-8c28a80eb486",
+    "title": "Learning from Natural Images Untangles Number Sense",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33615v1 Announce Type: new Abstract: Numerical cognition is a simple yet fundamental ability that remains challenging for modern vision-language models. Meanwhile, number sense is already present in numerically na\\\"ive animals, suggesting that it can emerge without explicit numerical learning. Deep neural networks provide a related observation, with numerosity-selective units appearing after training on un",
+    "url": "https://arxiv.org/abs/2611.33615",
+    "related": []
+  },
+  {
+    "id": "feed-0ec3cbaa6a97",
+    "title": "Controllable CAD Generation and Interactive Editing of Fluid Rotors",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "RESEARCH",
+    "summary": "arXiv:2611.33617v1 Announce Type: new Abstract: Computer-aided design (CAD) provides the geometric foundation for rotors in fluid rotating machinery. However, creating models for different rotors requires different modeling processes, making it difficult to control geometry through design intent and reuse existing models. We introduce VaneCraft, an agent-driven framework for rotor generation, inverse recovery, and ed",
+    "url": "https://arxiv.org/abs/2611.33617",
+    "related": []
+  },
+  {
+    "id": "feed-ef38228c8d40",
+    "title": "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches",
+    "source": "arXiv AI",
+    "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "category": "MODELS",
+    "summary": "arXiv:2611.33639v1 Announce Type: new Abstract: AI coding agents write code faster than people can review it, so teams add AI reviewers. Reasoning models let such a reviewer trade cost for diligence through an effort setting. We asked how much effort a reviewer needs to catch plausible-but-wrong patches, which pass a benchmark's tests but fail stronger ones. Claude Opus 5.5 (preregistered), Sonnet 5.5 and Haiku 5.5 (",
+    "url": "https://arxiv.org/abs/2611.33639",
+    "related": []
+  },
+  {
+    "id": "feed-211fbe8009a4",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "source": "Hugging Face",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "category": "MODELS",
+    "summary": "",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
     "related": []
   },
   {
